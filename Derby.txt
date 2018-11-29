@@ -1,0 +1,12 @@
+FC København;Brøndby IF
+AaB;FC Midtjylland
+Arsenal;Tottenham
+Manchester United;Liverpool
+Manchester United;Manchester City
+Tottenham;Chelsea
+AaB;AGF
+AGF;Randers FC
+FC Midtjylland;Viborg
+AC Horsens;Silkeborg
+Newcastle;Sunderland
+Liverpool;Everton
