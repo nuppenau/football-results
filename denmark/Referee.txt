@@ -1,0 +1,45 @@
+﻿//
+// Referee
+//
+// Generated: 2018-12-11 21:49:55Z
+//
+5023;Anders Hermansen;1973-11-06 00:00:00Z;
+5118;Anders Poulsen;1981-06-04 00:00:00Z;
+5127;Benjamin Helm Svedborg;1986-04-08 00:00:00Z;
+6358;Benjamin Willaume-Jantzen;0001-01-01 00:00:00Z;
+5029;Bo Blankholm Pedersen;1960-06-04 00:00:00Z;
+5003;Claus Bo Larsen;1965-10-28 00:00:00Z;
+5156;Dennis Mogensen;1982-01-13 00:00:00Z;
+5005;Emil Laursen;1970-09-23 00:00:00Z;
+5020;Finn Lambek;1957-10-03 00:00:00Z;
+5080;Hans Jørgen Stærk;1962-03-21 00:00:00Z;
+5041;Heine Sørensen;1974-12-22 00:00:00Z;
+5025;Henning Jensen;1969-10-03 00:00:00Z;
+5026;Henrik Nystrup Kragh;1973-04-05 00:00:00Z;
+5027;Henrik Priegel;1974-03-26 00:00:00Z;
+5042;Jakob Kehlet;1980-09-05 00:00:00Z;
+5207;Jens Maae;1982-03-10 00:00:00Z;
+5038;Jesper Bæk Overgaard;1974-09-22 00:00:00Z;
+5012;Johnny Højland Røn;1966-07-22 00:00:00Z;
+5219;Jørgen Daugbjerg Burchardt;1982-11-30 00:00:00Z;
+5330;Kasper Madsen;0001-01-01 00:00:00Z;
+5048;Kenn Hansen;1980-05-29 00:00:00Z;
+5001;Kim Milton Nielsen;1960-08-03 00:00:00Z;
+5002;Knud Erik Fisker;1960-09-17 00:00:00Z;
+5006;Knud Stadsgaard;1960-04-28 00:00:00Z;
+5024;Lars Christoffersen;1972-10-14 00:00:00Z;
+5250;Mads-Kristoffer Kristoffersen;1983-05-24 00:00:00Z;
+5017;Martin Wulff;1969-12-31 00:00:00Z;
+5040;Michael Johansen;1975-12-16 00:00:00Z;
+5004;Michael Svendsen;1967-05-31 00:00:00Z;
+5258;Michael Tykgaard;1977-06-07 00:00:00Z;
+6381;Mikkel Redder;1993-11-26 00:00:00Z;
+5333;Morten Krogh;1988-03-19 00:00:00Z;
+5014;Nicolai Vollquartz;1965-02-07 00:00:00Z;
+5275;Peter Kjærsgaard-Andersen;1984-04-30 00:00:00Z;
+6380;Peter Munch Larsen;0001-01-01 00:00:00Z;
+5016;Peter Rasmussen;1975-10-15 00:00:00Z;
+5013;René Christensen;1969-08-02 00:00:00Z;
+6360;Sandi Putros;1987-10-27 00:00:00Z;
+5011;Thomas Vejlgaard;1972-09-18 00:00:00Z;
+5007;Tonny Kolbech Poulsen;1965-07-02 00:00:00Z;

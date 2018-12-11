@@ -1,7 +1,7 @@
 ﻿//
 // Matches
 //
-// Generated: 2018-12-11 20:29:27Z
+// Generated: 2018-12-11 21:01:34Z
 //
 Superligaen;2018-07-13 18:00:00Z;Vejle BK;Hobro IK;3-1;0-0
 	Attendance=4168

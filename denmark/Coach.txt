@@ -1,0 +1,89 @@
+﻿//
+// Coach
+//
+// Generated: 2018-12-11 21:49:53Z
+//
+6570;Adolfo Sormani;1965-08-11 00:00:00Z;Italien
+4126;Alexander Zorniger;1967-10-08 00:00:00Z;Tyskland
+4096;Allan Hjortdal Kuhn;1968-03-02 00:00:00Z;Danmark
+4002;Allan Nielsen;1971-03-13 00:00:00Z;Danmark
+4004;Anders Linderoth;1950-03-21 00:00:00Z;Sverige
+4116;Ariël Jacobs;1953-07-25 00:00:00Z;Belgien
+4101;Aurelius Skarbalius;1973-05-12 00:00:00Z;Litauen
+4128;Bo Henriksen;1975-02-07 00:00:00Z;Danmark
+4010;Brian Steen Nielsen;1968-12-28 00:00:00Z;Danmark
+4011;Bruce Rioch;1947-09-06 00:00:00Z;Skotland
+4012;Carsten Broe;1962-08-20 00:00:00Z;Danmark
+4115;Carsten Vagn Jensen;1963-02-28 00:00:00Z;Danmark
+4013;Christian Andersen;1944-09-28 00:00:00Z;Danmark
+4131;Christian Lønstrup;1971-04-04 00:00:00Z;Danmark
+4130;Claus Nørgaard;1979-12-17 00:00:00Z;Danmark
+4014;Colin Todd;1948-12-12 00:00:00Z;England
+4127;David Nielsen;1976-12-01 00:00:00Z;Danmark
+4016;Erik Hamrén;1957-06-27 00:00:00Z;Sverige
+4017;Erik Sanvad Rasmussen;1960-12-24 00:00:00Z;Danmark
+4034;Faxe;1965-05-03 00:00:00Z;Danmark
+4021;Flemming Nielsen;1954-07-16 00:00:00Z;Danmark
+4022;Frank Andersen;1961-11-19 00:00:00Z;Danmark
+4111;Glen Riddersholm;1972-04-24 00:00:00Z;Danmark
+4024;Hans Backe;1952-02-14 00:00:00Z;Sverige
+4025;Hans Eklund;1969-04-16 00:00:00Z;Sverige
+4110;Henrik Clausen;1971-05-03 00:00:00Z;Danmark
+4028;Henrik Jensen;1959-10-25 00:00:00Z;Danmark
+6573;Jacob Friis;1976-12-11 00:00:00Z;Danmark
+4123;Jakob Michelsen;1980-09-30 00:00:00Z;Danmark
+4031;Jan Østergaard;1961-07-04 00:00:00Z;Danmark
+6571;Jens Berthel Askou;1982-08-19 00:00:00Z;Danmark
+4118;Jesper Fredberg;1981-05-11 00:00:00Z;Danmark
+4119;Jesper Sørensen;1973-06-10 00:00:00Z;Danmark
+4097;Jess Thorup;1970-02-21 00:00:00Z;Danmark
+6569;Johannes Gerardus Adrianus Lammers;1963-12-11 00:00:00Z;Holland
+4108;Johnny Mølby;1969-02-04 00:00:00Z;Danmark
+4036;Johnny Petersen;1947-11-27 00:00:00Z;Danmark
+4120;Jonas Dal Andersen;1976-07-07 00:00:00Z;Danmark
+4039;Kasper Hjulmand;1972-04-09 00:00:00Z;Danmark
+4040;Keld Bordinggaard;1962-11-23 00:00:00Z;Danmark
+6572;Kenneth Andersen;1967-10-23 00:00:00Z;Danmark
+4043;Kent Nielsen;1961-12-28 00:00:00Z;Danmark
+4045;Kim Poulsen;1959-03-22 00:00:00Z;Danmark
+4046;Klavs Rasmussen;1966-06-23 00:00:00Z;Danmark
+4125;Lars Justesen;1981-07-25 00:00:00Z;Danmark
+4129;Lars Lungi Sørensen;1969-05-04 00:00:00Z;Danmark
+4049;Lars Olsen;1961-02-02 00:00:00Z;Danmark
+4050;Lars Søndergaard;1959-04-05 00:00:00Z;Danmark
+4099;Lasse Christensen;1951-02-08 00:00:00Z;Danmark
+4098;Magnus Pehrsson;1976-05-25 00:00:00Z;Sverige
+4122;Michael Hansen;1971-09-22 00:00:00Z;Danmark
+4052;Michael Hemmingsen;1967-10-02 00:00:00Z;Danmark
+4053;Michael Laudrup;1964-06-15 00:00:00Z;Danmark
+4124;Michael Pedersen;1963-06-11 00:00:00Z;Danmark
+4054;Michael Schjønberg;1967-01-19 00:00:00Z;Danmark
+4056;Morten Bruun;1965-06-28 00:00:00Z;Danmark
+4058;Morten Wieghorst;1971-02-25 00:00:00Z;Danmark
+4109;Niels Frederiksen;1970-11-05 00:00:00Z;Danmark
+4121;Ólafur Kristjánsson;1968-05-20 00:00:00Z;Island
+4062;Ole Schwennesen;1963-01-28 00:00:00Z;Danmark
+4063;Ove Christensen;1950-03-26 00:00:00Z;Danmark
+4065;Ove Pedersen;1954-08-30 00:00:00Z;Danmark
+4066;Peder Knudsen;1970-07-16 00:00:00Z;Danmark
+4112;Peter Dahl Elstrup;1961-11-10 00:00:00Z;Danmark
+4074;Peter Sand;1972-07-19 00:00:00Z;Danmark
+4114;Peter Sørensen;1973-03-24 00:00:00Z;Danmark
+4076;Poul Hansen;1953-12-04 00:00:00Z;Danmark
+4078;Preben Lundbye;1950-04-01 00:00:00Z;Danmark
+6568;Rasmus Bertelsen;1983-12-21 00:00:00Z;Danmark
+4079;René Meulensteen;1964-03-01 00:00:00Z;Holland
+6567;Ricardo Moniz;1964-06-17 00:00:00Z;Holland
+4113;Roland Nilsson;1963-11-27 00:00:00Z;Sverige
+4083;Stephen Lowe;1963-03-13 00:00:00Z;England
+4084;Ståle Solbakken;1968-02-27 00:00:00Z;Norge
+4085;Søren Kusk Larsen;1960-04-06 00:00:00Z;Danmark
+4086;Sören Åkeby;1952-02-23 00:00:00Z;Sverige
+4117;Thomas Frank;1973-10-09 00:00:00Z;Danmark
+6566;Thomas Nørgaard;1982-04-13 00:00:00Z;Danmark
+4087;Thomas Thomasberg;1974-10-15 00:00:00Z;Danmark
+4088;Tom Køhlert;1947-04-30 00:00:00Z;Danmark
+4089;Tommy Møller Nielsen;1961-08-05 00:00:00Z;Danmark
+4092;Troels Bech;1966-07-29 00:00:00Z;Danmark
+4093;Uffe Pedersen;1954-03-21 00:00:00Z;Danmark
+4094;Viggo Jensen;1947-09-15 00:00:00Z;Danmark
