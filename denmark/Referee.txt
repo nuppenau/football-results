@@ -1,8 +1,6 @@
 ﻿//
 // Referee
 //
-// Generated: 2018-12-11 21:49:55Z
-//
 5023;Anders Hermansen;1973-11-06 00:00:00Z;
 5118;Anders Poulsen;1981-06-04 00:00:00Z;
 5127;Benjamin Helm Svedborg;1986-04-08 00:00:00Z;

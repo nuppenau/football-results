@@ -1,8 +1,6 @@
 ﻿//
 // Coach
 //
-// Generated: 2018-12-11 21:49:53Z
-//
 6570;Adolfo Sormani;1965-08-11 00:00:00Z;Italien
 4126;Alexander Zorniger;1967-10-08 00:00:00Z;Tyskland
 4096;Allan Hjortdal Kuhn;1968-03-02 00:00:00Z;Danmark
