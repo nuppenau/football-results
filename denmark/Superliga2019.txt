@@ -1,7 +1,7 @@
 ﻿//
 // Matches
 //
-// Generated: 2018-12-03 22:21:22Z
+// Generated: 2018-12-11 20:29:27Z
 //
 Superligaen;2018-07-13 18:00:00Z;Vejle BK;Hobro IK;3-1;0-0
 	Attendance=4168
@@ -2342,3 +2342,164 @@ Superligaen;2018-12-02 18:00:00Z;Brøndby IF;Hobro IK;1-0;1-0
 	Away|Bookings=15890;YellowCard1;77+0
 	Away|Bookings=10669;YellowCard1;90+0
 	Away|Coach=4096
+Superligaen;2018-12-03 19:00:00Z;AGF;Vejle BK;2-1;1-1
+	Attendance=4420
+	Ground=3006
+	Referee=5258
+	Home|Lineup=10856;11108;11131;11409;15853;16021;16052;16116;16172;16347;16424
+	Home|PlayerOff=16347|75+0;16424|90+0
+	Home|PlayerOn=11495|75+0;16551|90+0
+	Home|Scoring=16172;Goal;45+0
+	Home|Scoring=16172;Goal;52+0
+	Home|Bookings=10856;YellowCard1;38+0
+	Home|Bookings=16172;YellowCard1;90+0
+	Home|Coach=4127
+	Away|Lineup=11486;16459;16461;16463;16466;16468;16469;16471;16475;16479;16549
+	Away|PlayerOff=16469|64+0;16471|85+0;16549|71+0
+	Away|PlayerOn=16160|71+0;16473|85+0;16501|64+0
+	Away|Scoring=11108;OwnGoal;20+0
+	Away|Bookings=16475;YellowCard1;18+0
+	Away|Bookings=16479;YellowCard1;70+0
+	Away|Coach=6570
+Superligaen;2018-12-07 19:00:00Z;FC Midtjylland;OB;3-0;2-0
+	Attendance=7034
+	Ground=3004
+	Referee=5219
+	Home|Lineup=10043;10423;11187;15820;16051;16059;16193;16228;16487;16508;16516
+	Home|PlayerOff=16051|84+0;16228|78+0;16516|83+0
+	Home|PlayerOn=11325|78+0;16319|84+0;16335|83+0
+	Home|Scoring=16508;Goal;23+0
+	Home|Scoring=10043;PenaltyGoal;38+0
+	Home|Scoring=16487;Goal;89+0
+	Home|Bookings=16193;YellowCard1;51+0
+	Home|Bookings=16051;YellowCard1;58+0
+	Home|Bookings=15820;YellowCard1;59+0
+	Home|Bookings=16193;YellowCard2;90+0
+	Home|Coach=6572
+	Away|Lineup=10934;11344;11382;11439;15710;15880;15914;15945;16025;16136;16511
+	Away|PlayerOff=11439|54+0;15710|88+0;15914|70+0
+	Away|PlayerOn=11024|88+0;15869|70+0;16342|54+0
+	Away|Bookings=16025;YellowCard1;37+0
+	Away|Bookings=15880;YellowCard1;39+0
+	Away|Bookings=16136;YellowCard1;59+0
+	Away|Coach=4123
+Superligaen;2018-12-08 16:00:00Z;Hobro IK;SønderjyskE;0-0;0-0
+	Attendance=1012
+	Ground=3042
+	Referee=6358
+	Home|Lineup=10669;11314;15890;15919;16141;16308;16309;16310;16314;16336;16372
+	Home|PlayerOff=15890|67+0;16141|72+0;16372|87+0
+	Home|PlayerOn=11566|67+0;16078|72+0;16543|87+0
+	Home|Bookings=16336;YellowCard1;50+0
+	Home|Bookings=16372;YellowCard1;52+0
+	Home|Bookings=15890;YellowCard1;63+0
+	Home|Bookings=16543;YellowCard1;90+0
+	Home|Coach=4096
+	Away|Lineup=10287;10771;11152;11307;15957;16016;16081;16324;16325;16485;16555
+	Away|PlayerOff=16016|78+0;16485|88+0;16555|67+0
+	Away|PlayerOn=11227|88+0;16265|78+0;16286|67+0
+	Away|Bookings=15957;YellowCard1;84+0
+	Away|Bookings=11307;YellowCard1;86+0
+	Away|Bookings=16324;YellowCard1;89+0
+	Away|Coach=4130
+Superligaen;2018-12-09 12:00:00Z;Vendsyssel FF;Randers FC;0-1;0-1
+	Attendance=1053
+	Ground=3069
+	Referee=5258
+	Home|Lineup=11056;15799;15829;16443;16448;16450;16452;16456;16457;16491;16519
+	Home|PlayerOff=15829|73+0;16456|56+0;16457|73+0
+	Home|PlayerOn=16445|56+0;16447|73+0;16486|73+0
+	Home|Bookings=16450;YellowCard1;31+0
+	Home|Bookings=15829;YellowCard1;64+0
+	Home|Bookings=15799;YellowCard1;73+0
+	Home|Bookings=16491;YellowCard1;90+0
+	Home|Coach=6571
+	Away|Lineup=10825;11109;11229;11550;15792;15803;16084;16273;16337;16497;16512
+	Away|PlayerOff=11229|59+0;16337|78+0;16390|85+0
+	Away|PlayerOn=16163|59+0;16390|78+0;16435|85+0
+	Away|Scoring=16337;Goal;44+0
+	Away|Bookings=15792;YellowCard1;19+0
+	Away|Bookings=15803;YellowCard1;64+0
+	Away|Bookings=16163;YellowCard1;78+0
+	Away|Bookings=16273;YellowCard1;90+0
+	Away|Coach=4087
+Superligaen;2018-12-09 14:00:00Z;AaB;AC Horsens;2-4;2-2
+	Attendance=4656
+	Ground=3003
+	Referee=6360
+	Home|Lineup=11285;11348;11436;11441;15786;15833;16018;16151;16152;16368;16517
+	Home|PlayerOff=11285|75+0;11348|75+0;16517|46+0
+	Home|PlayerOn=10188|75+0;15954|75+0;16524|46+0
+	Home|Scoring=16517;Goal;13+0
+	Home|Scoring=11348;Goal;33+0
+	Home|Bookings=16018;YellowCard1;21+0
+	Home|Bookings=11441;YellowCard1;28+0
+	Home|Bookings=11285;YellowCard1;39+0
+	Home|Bookings=11441;YellowCard2;45+0
+	Home|Bookings=10188;YellowCard1;86+0
+	Home|Bookings=15954;YellowCard1;90+0
+	Home|Coach=6573
+	Away|Lineup=10740;10764;11367;15719;15821;15912;16035;16355;16382;16400;16504
+	Away|PlayerOff=10764|78+0;15912|88+0;16355|81+0
+	Away|PlayerOn=10299|88+0;16180|78+0;16499|81+0
+	Away|Scoring=15912;Goal;25+0
+	Away|Scoring=16382;PenaltyGoal;28+0
+	Away|Scoring=10740;Goal;61+0
+	Away|Scoring=10299;Goal;89+0
+	Away|Bookings=16180;YellowCard1;86+0
+	Away|Bookings=11367;YellowCard1;87+0
+	Away|Bookings=10299;YellowCard1;90+0
+	Away|Coach=4128
+Superligaen;2018-12-09 16:00:00Z;FC København;Esbjerg fB;3-0;2-0
+	Attendance=11193
+	Ground=3001
+	Referee=5207
+	Home|Lineup=11011;11213;11336;11343;15764;15800;16158;16348;16374;16375;16407
+	Home|PlayerOff=11011|46+0;11213|73+0;16407|66+0
+	Home|PlayerOn=16275|73+0;16321|66+0;16434|46+0
+	Home|Scoring=11213;Goal;4+0
+	Home|Scoring=15800;PenaltyGoal;45+0
+	Home|Scoring=15800;PenaltyGoal;56+0
+	Home|Coach=4084
+	Away|Lineup=11368;15839;16026;16079;16191;16200;16242;16243;16264;16272;16428
+	Away|PlayerOff=16242|77+0;16264|71+0;16428|85+0
+	Away|PlayerOn=16142|77+0;16430|85+0;16521|71+0
+	Away|Bookings=15839;YellowCard1;44+0
+	Away|Bookings=16079;YellowCard1;55+0
+	Away|Coach=6569
+Superligaen;2018-12-09 18:00:00Z;Vejle BK;Brøndby IF;1-2;1-0
+	Attendance=6994
+	Ground=3056
+	Referee=5275
+	Home|Lineup=11486;16028;16463;16465;16466;16468;16469;16471;16475;16479;16549
+	Home|PlayerOff=16465|46+0;16466|22+0;16549|79+0
+	Home|PlayerOn=16043|22+0;16501|46+0;16547|79+0
+	Home|Scoring=16479;Goal;11+0
+	Home|Bookings=16471;YellowCard1;39+0
+	Home|Bookings=16043;YellowCard1;47+0
+	Home|Bookings=16479;YellowCard1;90+0
+	Home|Bookings=16479;YellowCard2;90+2
+	Home|Coach=6570
+	Away|Lineup=15981;16112;16159;16203;16246;16338;16360;16361;16362;16432;16503
+	Away|PlayerOff=16338|46+0;16362|46+0;16503|83+0
+	Away|PlayerOn=11027|83+0;15793|46+0;16481|46+0
+	Away|Scoring=16112;Goal;47+0
+	Away|Scoring=15793;Goal;59+0
+	Away|Bookings=16246;YellowCard1;37+0
+	Away|Bookings=16362;YellowCard1;43+0
+	Away|Bookings=16112;YellowCard1;44+0
+	Away|Bookings=16481;YellowCard1;72+0
+	Away|Coach=4126
+Superligaen;2018-12-10 19:00:00Z;FC Nordsjælland;AGF;1-0;0-0
+	Attendance=2044
+	Ground=3007
+	Referee=5040
+	Home|Lineup=11352;16053;16119;16137;16224;16236;16359;16363;16391;16396;16492
+	Home|PlayerOff=16053|72+0;16119|72+0;16391|86+0
+	Home|PlayerOn=16369|86+0;16389|72+0;16556|72+0
+	Home|Scoring=11108;OwnGoal;82+0
+	Home|Coach=4039
+	Away|Lineup=10856;11108;11131;11409;15853;16021;16052;16116;16172;16229;16551
+	Away|PlayerOff=11409|80+0;15853|86+0;16229|69+0
+	Away|PlayerOn=11495|86+0;16356|80+0;16522|69+0
+	Away|Coach=4127
