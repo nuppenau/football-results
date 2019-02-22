@@ -1,44 +1,46 @@
 //
 // League Name;Start Date;End Date;Teams;Points Win;Points Draw
 //
-Superligaen;2017-07-14;2018-03-18;14;3;1
-	Clubs=OB;AGF;Brøndby IF;FC Midtjylland;FC Helsingør;FC Nordsjælland;SønderjyskE;AaB;Hobro;FC København;Randers FC;Lyngby;Silkeborg;AC Horsens
-Superligaen;2016-07-15;2017-03-19;14;3;1
-	Clubs=OB;AGF;Brøndby IF;FC Midtjylland;Viborg FF;FC Nordsjælland;SønderjyskE;AaB;Esbjerg fB;FC København;Randers FC;Lyngby;Silkeborg;AC Horsens
-Superligaen;2015-07-17;2016-05-29;12;3;1
-	Clubs=OB;Hobro IK;AGF;Brøndby IF;FC Midtjylland;Viborg FF;FC Nordsjælland;SønderjyskE;AaB;Esbjerg fB;FC København;Randers FC
+Superligaen;2018-07-13;2019-06-17;14;3;1
+	Clubs=OB;AGF;Brøndby IF;FC Midtjylland;+Vejle BK;FC Nordsjælland;SønderjyskE;AaB;Hobro;FC København;Randers FC;Lyngby;+Vendsyssel FF;AC Horsens
+Superligaen;2017-07-14;2018-06-18;14;3;1
+	Clubs=OB;AGF;Brøndby IF;FC Midtjylland;+FC Helsingør;FC Nordsjælland;SønderjyskE;AaB;+Hobro;FC København;Randers FC;Lyngby;Silkeborg IF;AC Horsens
+Superligaen;2016-07-15;2017-06-19;14;3;1
+	Clubs=OB;AGF;Brøndby IF;FC Midtjylland;Viborg FF;FC Nordsjælland;SønderjyskE;AaB;Esbjerg fB;FC København;Randers FC;+Lyngby;+Silkeborg IF;+AC Horsens
+Superligaen;2015-07-17;2016-06-29;12;3;1
+	Clubs=OB;Hobro IK;+AGF;Brøndby IF;FC Midtjylland;+Viborg FF;FC Nordsjælland;SønderjyskE;AaB;Esbjerg fB;FC København;Randers FC
 Superligaen;2014-07-18;2015-06-07;12;3;1
-	Clubs=FC Nordsjælland;FC Vestsjælland;OB;Hobro IK;SønderjyskE;AaB;FC Midtjylland;Brøndby IF;Esbjerg fB;Randers FC;FC København;Silkeborg IF
+	Clubs=FC Nordsjælland;FC Vestsjælland;OB;+Hobro IK;SønderjyskE;AaB;FC Midtjylland;Brøndby IF;Esbjerg fB;Randers FC;FC København;+Silkeborg IF
 Superligaen;2013-07-19;2014-05-18;12;3;1
-	Clubs=AaB;FC København;AGF;FC Midtjylland;Brøndby IF;FC Vestsjælland;OB;SønderjyskE;Viborg FF;Randers FC;Esbjerg fB;FC Nordsjælland
+	Clubs=AaB;FC København;AGF;FC Midtjylland;Brøndby IF;+FC Vestsjælland;OB;SønderjyskE;+Viborg FF;Randers FC;Esbjerg fB;FC Nordsjælland
 Superligaen;2012-07-13;2013-05-20;12;3;1
-	Clubs=FC København;FC Nordsjælland;Randers FC;Esbjerg fB;AaB;FC Midtjylland;AGF;SønderjyskE;Brøndby IF;OB;AC Horsens;Silkeborg IF
+	Clubs=FC København;FC Nordsjælland;+Randers FC;+Esbjerg fB;AaB;FC Midtjylland;AGF;SønderjyskE;Brøndby IF;OB;AC Horsens;Silkeborg IF
 Superligaen;2011-07-16;2012-05-23;12;3;1
-	Clubs=FC Nordsjælland;FC København;FC Midtjylland;AC Horsens;AGF;SønderjyskE;AaB;Silkeborg IF;Brøndby IF;OB;Lyngby BK;HB Køge
+	Clubs=FC Nordsjælland;FC København;FC Midtjylland;AC Horsens;+AGF;SønderjyskE;AaB;Silkeborg IF;Brøndby IF;OB;Lyngby BK;+HB Køge
 Superligaen;2010-07-17;2011-05-29;12;3;1
-	Clubs=FC København;OB;Brøndby IF;FC Midtjylland;Silkeborg;FC Nordsjælland;SønderjyskE;Lyngby;AC Horsens;AaB;Randers FC;Esbjerg fB
+	Clubs=FC København;OB;Brøndby IF;FC Midtjylland;Silkeborg IF;FC Nordsjælland;SønderjyskE;+Lyngby;+AC Horsens;AaB;Randers FC;Esbjerg fB
 Superligaen;2009-07-18;2010-05-16;12;3;1
-	Clubs=FC København;OB;Brøndby IF;Esbjerg fB;AaB;FC Midtjylland;FC Nordsjælland;Silkeborg;SønderjyskE;Randers FC;AGF;HB Køge
+	Clubs=FC København;OB;Brøndby IF;Esbjerg fB;AaB;FC Midtjylland;FC Nordsjælland;+Silkeborg IF;SønderjyskE;Randers FC;AGF;+HB Køge
 Superligaen;2008-07-19;2009-05-31;12;3;1
-	Clubs=FC København;OB;Brøndby IF;FC Midtjylland;Randers FC;AGF;AaB;FC Nordsjælland;Esbjerg fB;SønderjyskE;Vejle Boldklub;AC Horsens
+	Clubs=FC København;OB;Brøndby IF;FC Midtjylland;Randers FC;AGF;AaB;FC Nordsjælland;Esbjerg fB;+SønderjyskE;+Vejle BK;AC Horsens
 Superligaen;2007-07-18;2008-05-24;12;3;1
-	Clubs=AaB;FC Midtjylland;FC København;OB;AC Horsens;Randers FC;Esbjerg fB;Brøndby IF;FC Nordsjælland;AGF;Viborg;Lyngby
+	Clubs=AaB;FC Midtjylland;FC København;OB;AC Horsens;Randers FC;Esbjerg fB;Brøndby IF;FC Nordsjælland;+AGF;Viborg;+Lyngby
 Superligaen;2006-07-19;2007-05-27;12;3;1
-	Clubs=FC København;FC Midtjylland;AaB;OB;FC Nordsjælland;Brøndby IF;Esbjerg fB;Randers FC;Viborg;AC Horsens;Vejle Boldklub;Silkeborg
+	Clubs=FC København;FC Midtjylland;AaB;OB;FC Nordsjælland;Brøndby IF;Esbjerg fB;+Randers FC;Viborg;AC Horsens;+Vejle BK;Silkeborg
 Superligaen;2005-07-19;2006-05-14;12;3;1
-	Clubs=FC København;Brøndby IF;OB;Viborg;AaB;Esbjerg fB;FC Midtjylland;Silkeborg;FC Nordsjælland;AC Horsens;SønderjyskE;AGF
+	Clubs=FC København;Brøndby IF;OB;Viborg;AaB;Esbjerg fB;FC Midtjylland;Silkeborg IF;FC Nordsjælland;+AC Horsens;+SønderjyskE;AGF
 Superligaen;2004-07-24;2005-06-19;12;3;1
-	Clubs=Brøndby IF;FC København;FC Midtjylland;AaB;Esbjerg fB;OB;Viborg;Silkeborg;AGF;FC Nordsjælland;Herfølge;Randers FC
+	Clubs=Brøndby IF;FC København;FC Midtjylland;AaB;Esbjerg fB;OB;Viborg;+Silkeborg IF;AGF;FC Nordsjælland;Herfølge;+Randers FC
 Superligaen;2003-07-26;2004-05-29;12;3;1
-	Clubs=FC København;Brøndby IF;Esbjerg fB;OB;AaB;FC Midtjylland;Viborg;AGF;FC Nordsjælland;Herfølge;Frem;AB
+	Clubs=FC København;Brøndby IF;Esbjerg fB;OB;AaB;FC Midtjylland;Viborg;AGF;FC Nordsjælland;+Herfølge;+Frem;AB
 Superligaen;2002-07-27;2003-06-22;12;3;1
-	Clubs=FC København;Brøndby IF;FC Nordsjælland;OB;Esbjerg fB;AaB;FC Midtjylland;Viborg;AB;AGF;Silkeborg;Køge
+	Clubs=FC København;Brøndby IF;+FC Nordsjælland;OB;Esbjerg fB;AaB;FC Midtjylland;Viborg;AB;AGF;Silkeborg IF;+Køge
 Superligaen;2001-07-21;2002-05-16;12;3;1
-	Clubs=Brøndby IF;FC København;FC Midtjylland;AaB;AB;OB;Esbjerg fB;Viborg;Silkeborg;AGF;Vejle Boldklub;Lyngby
+	Clubs=Brøndby IF;FC København;FC Midtjylland;AaB;AB;OB;+Esbjerg fB;Viborg;Silkeborg IF;AGF;+Vejle BK;Lyngby
 Superligaen;2000-07-22;2001-06-13;12;3;1
-	Clubs=FC København;Brøndby IF;Silkeborg;FC Midtjylland;AaB;Viborg;OB;AGF;Lyngby;AB;Herfølge;SønderjyskE
+	Clubs=FC København;Brøndby IF;Silkeborg IF;FC Midtjylland;AaB;Viborg;OB;AGF;Lyngby;AB;+Herfølge;+SønderjyskE
 Superligaen;1999-07-24;2000-05-28;12;3;1
-	Clubs=Herfølge;Brøndby IF;AB;Viborg;AaB;Silkeborg;Lyngby;FC København;OB;AGF;Vejle Boldklub;Esbjerg fB
+	Clubs=Herfølge;Brøndby IF;AB;Viborg;AaB;Silkeborg IF;Lyngby;FC København;OB;AGF;Vejle BK;Esbjerg fB
 Superligaen;1998-06-15;1999-06-25;12;3;1
 Superligaen;1997-06-15;1998-06-25;12;3;1
 Premier League;2016-08-13;2017-05-21;20;3;1

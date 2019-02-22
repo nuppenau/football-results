@@ -1,0 +1,347 @@
+﻿//
+// Clubs
+//
+AB Gladsaxe
+	Alias=AB
+	Country=Danmark
+	City=Gladsaxe
+AC Horsens
+	Alias=Horsens
+	Country=Danmark
+	City=Horsens
+AGF
+	Country=Danmark
+Ajax Amsterdam
+	Alias=Ajax
+	Country=Holland
+Anderlecht
+	Country=Belgien
+APOEL Nicosia
+	Alias=APOEL
+	Country=Cyperen
+Arsenal
+	Country=England
+	City=London
+Aston Villa
+	Alias=Villa
+	Country=England
+Astra
+	Country=Rumænien
+Athletic Club
+	Country=Spanien
+Atlético Madrid
+	Country=Spanien
+AZ Alkmar
+	Alias=AZ;Alkmar
+	Country=Holland
+B93
+	Country=Danmark
+	City=København
+	Founded=1893/1/1
+Barnsley
+	Country=England
+Bayer Leverkusen
+	Country=Tyskland
+Bayern München
+	Country=Tyskland
+Beşiktaş
+	COuntry=Tyrkiet
+Birmingham City
+	Alias=Birmingham
+	Country=England
+Blackburn
+	Country=England
+Blackpool
+	Country=England
+Bolton Wanderes
+	Alias=Bolton
+	Country=England
+Borussia M'gladbach
+	Country=Tyskland
+AFC Bournemouth
+	Alias=Bournemouth
+	Country=England
+Bradford
+	Country=England
+Brentford
+	Country=England
+Brighton & Hove Albion
+	Alias=Brighton
+	Country=England
+Bristol City
+	Alias=Bristol
+	Country=England
+Brøndby IF
+	Alias=Brøndby
+	Country=Danmark
+	Founded=1964/12/3
+Burnley
+	Country=England
+Burton Albion
+	Country=England
+Cardiff City
+	Alias=Cardiff
+	Country=England
+Celta de Vigo
+	Alias=Celta
+	Country=Spanien
+Charlton
+	Country=England
+Chelsea
+	Country=England
+	City=London
+Coventry
+	Country=England
+Crystal Palace
+	Alias=Palace
+	Country=England
+Derby County
+	Alias=Derby
+	Country=England
+Esbjerg fB
+	Alias=EfB;Esbjerg
+	Country=Danmark
+Everton Football Club
+	Alias=Everton;Everton FC;Everton F.C.
+	Country=England
+	City=Liverpool
+	Founded=1878/3/15
+FC Helsingør
+	Alias=Helsingør
+	Country=Danmark
+F.C. København
+	Founded=1992/7/1
+	Alias=FC København;FCK;København
+	Country=Danmark
+	City=København
+FC Midtjylland
+	Alias=Midtjylland;FCM
+	Country=Danmark
+FC Nordsjælland
+	Alias=FCN;Nordsjælland
+	Country=Danmark
+FC Roskilde
+	Alias=Roskilde
+	Country=Danmark
+FC Vestsjælland
+	Alias=Vestsjælland;Slagelse
+	Country=Danmark
+Fenerbahçe
+	Country=Tyrkiet
+Ferencváros
+	Country=Ungarn
+Fiorentina
+	Country=Italien
+Fredericia
+	Country=Danmark
+	City=Fredericia
+Frem Boldklub
+	Alias=Frem
+	Country=Danmark
+	City=København
+Fremad Amager
+	Country=Danmark
+	City=København
+Fulham
+	Country=England
+	City=London
+Genk
+	Country=Belgien
+Gent
+	Country=Belgien
+Hapoel Be'er Sheva
+	Country=Israel
+HB Køge
+	Country=Danmark
+Herfølge
+	Country=Danmark
+Hobro IK
+	Alias=Hobro
+	Country=Danmark
+Huddersfield Town
+	Alias=Huddersfield
+	Country=England
+Hull City
+	Alias=Hull
+	Country=England
+Ipswich Town
+	Alias=Ipswich
+	Country=England
+Juventus
+	Country=Italien
+Krasnodar
+Køge
+	Country=Danmark
+Leeds United
+	Alias=Leeds
+	Country=England
+	City=Leeds
+Legia Warszawa
+	Country=Polen
+Leicester City
+	Alias=Leicester
+	Country=England
+Liverpool Football Club
+	Alias=Liverpool;Liverpool F.C.
+	Country=England
+	City=Liverpool
+	Founded=1892/3/15
+Ludogorets
+	Country=Bulgarien
+Lyngby Boldklub
+	Alias=Lyngby BK;Lyngby
+	Country=Danmark
+Manchester City
+	Country=England
+	City=Manchester
+Manchester United
+	Country=England
+	City=Manchester
+Middlesbrough
+	Country=England
+Milton Keynes Dons
+	Country=England
+Monaco
+	Country=Frankring
+Napoli
+	Country=Italien
+Newcastle United
+	Alias=Newcastle
+	Country=England
+Norwich City
+	Alias=Norwich
+	Country=England
+Nottingham Forest
+	Alias=Nottingham
+	Country=England
+Nykøbing FC
+	Alias=Nykøbing
+	Country=Danmark
+Næstved Boldklub
+	Alias=Næstved BK;Næstved
+	Country=Danmark
+Odense Boldklub
+	Alias=OB;Odense
+	Country=Danmark
+Olympiakos Piraeus
+	Country=Grækenland
+Olympique Lyonnais
+	Country=Frankrig
+Osmanlıspor
+	Country=Tyrkiet
+PAOK
+	Country=Grækenland
+Partizani Tirana
+	Country=Albanien
+Porto
+	Country=Portugal
+Portsmouth
+	Country=England
+Preston North End
+	Alias=Preston
+	Country=England
+Queens Park Rangers
+	Alias=QPC
+	Country=England
+Randers FC
+	Alias=Randers
+	Country=Danmark
+Reading
+	Country=England
+Real Madrid
+	Country=Spanien
+Roma
+	Country=Italien
+Rostov
+	Country=Rusland
+Rotherham United
+	Country=England
+Saint-Étienne
+	Country=Frankrig
+Schalke 04
+	Country=Tyskland
+Sevilla
+	Country=Spanien
+Shakhtar Donetsk
+	Country=Ukraine
+Sheffield United
+	Country=England
+	City=Sheffield
+Sheffield Wednesday
+	Country=England
+	City=Sheffield
+Silkeborg IF
+	Alias=Silkeborg;SIF
+	Country=Danmark
+	City=Silkeborg
+Skive IK
+	Alias=Skive
+	Country=Danmark
+	City=Skive
+Slovan Bratislava
+Southampton
+	Country=England
+Sparta Praha
+	Country=Tjekkiet
+Stoke City
+	Alias=Stoke
+	Country=England
+Sunderland
+	Country=England
+Swansea City
+	Alias=Swansea
+	Country=England
+SønderjyskE
+	Country=Danmark
+Tottenham Hotspur
+	Alias=Tottenham;Spurs
+	Country=England
+	City=London
+	Founded=1882/9/5
+Vendsyssel FF
+	Alias=Vendsyssel
+	Country=Danmark
+	City=Hjørring
+	Founded=2013/7/1
+Vejle Boldklub
+	Alias=Vejle;VB;Vejle BK
+	Country=Danmark
+	City=Vejle
+	Founded=1891/1/1
+Viborg FF
+	Alias=Viborg;VFF
+	Country=Danmark
+	City=Viborg
+Villarreal
+	Country=Spanien
+	Founded=1923/3/10
+VPS
+	Country=Finland
+Watford
+	Country=England
+	City=Watford
+West Bromwich Albion
+	Alias=WBA;West Bromwich
+	Country=England
+West Ham United
+	Alias=West Ham
+	Country=England
+	City=London
+Wigan Athletic
+	Alias=Wigan
+	Country=England
+Wolverhampton
+	Alias=Wolves
+	Country=England
+	City=Wolverhampton
+FC Zenit Saint Petersburg
+	Alias=Zenit
+	Country=Rusland
+	City=Saint Petersborg
+	Founded=1925/5/25
+Žilina
+	Country=Slovakiet
+AaB
+	Country=Danmark
+	Founded=1885/5/13
+	City=Aalborg
