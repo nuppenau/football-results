@@ -40,7 +40,7 @@ Superligaen;2001-07-22 15:00:00Z;Silkeborg IF;AB;1-1;0-1
 	Away|Bookings=10003;YellowCard1;51+0
 	Away|Bookings=10168;RedCard;51+0
 	Away|Coach=4063
-Superligaen;2001-07-22 15:00:00Z;Vejle BK;Lyngby FC;2-2;1-0
+Superligaen;2001-07-22 15:00:00Z;Vejle BK;Lyngby BK;2-2;1-0
 	Attendance=3726
 	Ground=3014
 	Referee=5014
@@ -150,7 +150,7 @@ Superligaen;2001-07-29 15:00:00Z;FC Midtjylland;Viborg FF;1-1;0-1
 	Away|Bookings=10199;YellowCard1;40+0
 	Away|Bookings=10046;YellowCard1;64+0
 	Away|Coach=4045
-Superligaen;2001-07-29 15:00:00Z;Lyngby FC;Esbjerg fB;2-0;1-0
+Superligaen;2001-07-29 15:00:00Z;Lyngby BK;Esbjerg fB;2-0;1-0
 	Attendance=2031
 	Ground=3012
 	Referee=5006
@@ -278,7 +278,7 @@ Superligaen;2001-08-05 17:05:00Z;FC Midtjylland;FC København;0-0;0-0
 	Away|Bookings=10209;YellowCard1;35+0
 	Away|Bookings=10033;YellowCard1;73+0
 	Away|Coach=4042
-Superligaen;2001-08-06 19:00:00Z;Silkeborg IF;Lyngby FC;0-0;0-0
+Superligaen;2001-08-06 19:00:00Z;Silkeborg IF;Lyngby BK;0-0;0-0
 	Attendance=2021
 	Ground=3013
 	Referee=5004
@@ -324,7 +324,7 @@ Superligaen;2001-08-12 15:00:00Z;AGF;FC Midtjylland;0-1;0-0
 	Away|Scoring=10027;Goal;80+0
 	Away|Bookings=10025;YellowCard1;85+0
 	Away|Coach=4065
-Superligaen;2001-08-12 15:00:00Z;Lyngby FC;Brøndby IF;1-0;1-0
+Superligaen;2001-08-12 15:00:00Z;Lyngby BK;Brøndby IF;1-0;1-0
 	Attendance=4415
 	Ground=3012
 	Referee=5001
@@ -429,7 +429,7 @@ Superligaen;2001-08-19 15:00:00Z;AGF;OB;0-1;0-0
 	Away|Scoring=10150;Goal;56+0
 	Away|Bookings=10087;YellowCard1;35+0
 	Away|Coach=4092
-Superligaen;2001-08-19 15:00:00Z;FC Midtjylland;Lyngby FC;0-0;0-0
+Superligaen;2001-08-19 15:00:00Z;FC Midtjylland;Lyngby BK;0-0;0-0
 	Attendance=1333
 	Ground=3043
 	Referee=5012
@@ -529,7 +529,7 @@ Superligaen;2001-08-26 15:00:00Z;Esbjerg fB;Brøndby IF;0-7;0-3
 	Away|Scoring=10073;Goal;90+0
 	Away|Bookings=10055;YellowCard1;26+0
 	Away|Coach=4095
-Superligaen;2001-08-26 15:00:00Z;Lyngby FC;Viborg FF;2-2;1-1
+Superligaen;2001-08-26 15:00:00Z;Lyngby BK;Viborg FF;2-2;1-1
 	Attendance=1588
 	Ground=3012
 	Referee=5002
@@ -622,7 +622,7 @@ Superligaen;2001-09-09 15:00:00Z;FC København;OB;1-1;0-1
 	Away|Bookings=10015;RedCard;84+0
 	Away|Bookings=10156;YellowCard1;90+0
 	Away|Coach=4092
-Superligaen;2001-09-09 15:00:00Z;AB;Lyngby FC;3-1;1-1
+Superligaen;2001-09-09 15:00:00Z;AB;Lyngby BK;3-1;1-1
 	Attendance=2326
 	Ground=3021
 	Referee=5005
@@ -825,7 +825,7 @@ Superligaen;2001-09-16 17:05:00Z;Brøndby IF;FC København;2-0;1-0
 	Away|Bookings=10236;YellowCard1;11+0
 	Away|Bookings=10014;YellowCard1;45+0
 	Away|Coach=4059
-Superligaen;2001-09-17 19:00:00Z;Lyngby FC;AGF;1-1;0-1
+Superligaen;2001-09-17 19:00:00Z;Lyngby BK;AGF;1-1;0-1
 	Attendance=1343
 	Ground=3012
 	Referee=5013
@@ -857,7 +857,7 @@ Superligaen;2001-09-23 15:00:00Z;Brøndby IF;Viborg FF;0-0;0-0
 	Away|Bookings=10172;YellowCard2;76+0
 	Away|Bookings=10385;YellowCard1;90+0
 	Away|Coach=4045
-Superligaen;2001-09-23 15:00:00Z;Lyngby FC;OB;2-2;0-0
+Superligaen;2001-09-23 15:00:00Z;Lyngby BK;OB;2-2;0-0
 	Attendance=1378
 	Ground=3012
 	Referee=5002
@@ -976,7 +976,7 @@ Superligaen;2001-09-30 15:00:00Z;AGF;Silkeborg IF;2-2;2-1
 	Away|Scoring=10107;Goal;34+0
 	Away|Scoring=10243;Goal;66+0
 	Away|Coach=4005
-Superligaen;2001-09-30 15:00:00Z;FC København;Lyngby FC;1-0;0-0
+Superligaen;2001-09-30 15:00:00Z;FC København;Lyngby BK;1-0;0-0
 	Attendance=12271
 	Ground=3001
 	Referee=5010
@@ -1144,7 +1144,7 @@ Superligaen;2001-10-10 19:00:00Z;Viborg FF;OB;2-2;0-1
 	Away|Scoring=10037;Goal;13+0
 	Away|Scoring=10016;Goal;70+0
 	Away|Coach=4092
-Superligaen;2001-10-10 19:00:00Z;AaB;Lyngby FC;2-1;1-0
+Superligaen;2001-10-10 19:00:00Z;AaB;Lyngby BK;2-1;1-0
 	Attendance=5106
 	Ground=3003
 	Referee=5009
@@ -1193,7 +1193,7 @@ Superligaen;2001-10-14 15:00:00Z;Esbjerg fB;OB;2-0;1-0
 	Away|PlayerOff=10016|46+0;10244|74+0
 	Away|PlayerOn=10313|46+0;10770|74+0
 	Away|Coach=4092
-Superligaen;2001-10-14 15:00:00Z;Lyngby FC;FC Midtjylland;0-4;0-3
+Superligaen;2001-10-14 15:00:00Z;Lyngby BK;FC Midtjylland;0-4;0-3
 	Attendance=1123
 	Ground=3012
 	Referee=5001
@@ -1315,7 +1315,7 @@ Superligaen;2001-10-21 15:00:00Z;Viborg FF;Esbjerg fB;0-1;0-1
 	Away|Bookings=10404;YellowCard1;40+0
 	Away|Bookings=10506;YellowCard1;77+0
 	Away|Coach=4094
-Superligaen;2001-10-21 17:05:00Z;FC København;Lyngby FC;4-1;2-0
+Superligaen;2001-10-21 17:05:00Z;FC København;Lyngby BK;4-1;2-0
 	Attendance=8812
 	Ground=3001
 	Referee=5003
@@ -1374,7 +1374,7 @@ Superligaen;2001-10-28 15:00:00Z;AGF;Brøndby IF;1-2;1-1
 	Away|Scoring=10073;Goal;61+0
 	Away|Bookings=10133;YellowCard1;71+0
 	Away|Coach=4095
-Superligaen;2001-10-28 15:00:00Z;Lyngby FC;OB;2-3;1-1
+Superligaen;2001-10-28 15:00:00Z;Lyngby BK;OB;2-3;1-1
 	Attendance=1147
 	Ground=3012
 	Referee=5008
@@ -1528,7 +1528,7 @@ Superligaen;2001-11-04 15:00:00Z;FC Midtjylland;AGF;2-0;0-0
 	Away|Bookings=10242;YellowCard1;28+0
 	Away|Bookings=10487;RedCard;65+0
 	Away|Coach=4035
-Superligaen;2001-11-04 15:00:00Z;Viborg FF;Lyngby FC;1-1;0-0
+Superligaen;2001-11-04 15:00:00Z;Viborg FF;Lyngby BK;1-1;0-0
 	Attendance=1074
 	Ground=3008
 	Referee=5012
@@ -1608,7 +1608,7 @@ Superligaen;2001-11-18 15:00:00Z;FC København;Viborg FF;2-1;0-0
 	Away|Bookings=10139;YellowCard1;82+0
 	Away|Bookings=10023;YellowCard1;87+0
 	Away|Coach=4085
-Superligaen;2001-11-18 15:00:00Z;Lyngby FC;AB;0-1;0-0
+Superligaen;2001-11-18 15:00:00Z;Lyngby BK;AB;0-1;0-0
 	Attendance=1571
 	Ground=3012
 	Referee=5014
@@ -1752,7 +1752,7 @@ Superligaen;2001-11-25 15:00:00Z;Viborg FF;OB;1-1;0-1
 	Away|PlayerOn=10313|63+0;10485|86+0
 	Away|Scoring=10018;Goal;6+0
 	Away|Coach=4092
-Superligaen;2001-11-25 15:00:00Z;AaB;Lyngby FC;4-0;2-0
+Superligaen;2001-11-25 15:00:00Z;AaB;Lyngby BK;4-0;2-0
 	Attendance=4211
 	Ground=3003
 	Referee=5013
@@ -1889,7 +1889,7 @@ Superligaen;2001-12-02 15:00:00Z;Viborg FF;FC Midtjylland;2-1;2-1
 	Away|Bookings=10024;YellowCard1;38+0
 	Away|Bookings=10162;YellowCard1;89+0
 	Away|Coach=4065
-Superligaen;2001-12-02 17:05:00Z;Lyngby FC;Brøndby IF;2-2;2-0
+Superligaen;2001-12-02 17:05:00Z;Lyngby BK;Brøndby IF;2-2;2-0
 	Attendance=2396
 	Ground=3012
 	Referee=5010
@@ -1942,7 +1942,7 @@ Superligaen;2001-12-09 15:00:00Z;AB;Viborg FF;1-2;1-0
 	Away|Scoring=10023;Goal;72+0
 	Away|Bookings=10128;YellowCard1;11+0
 	Away|Coach=4085
-Superligaen;2001-12-09 15:00:00Z;AGF;Lyngby FC;7-0;3-0
+Superligaen;2001-12-09 15:00:00Z;AGF;Lyngby BK;7-0;3-0
 	Attendance=3001
 	Ground=3006
 	Referee=5003

@@ -11,6 +11,8 @@ AC Horsens
 	City=Horsens
 AGF
 	Country=Danmark
+AIK
+	Country=Sweden
 Ajax Amsterdam
 	Alias=Ajax
 	Country=Holland
@@ -98,6 +100,8 @@ Crystal Palace
 Derby County
 	Alias=Derby
 	Country=England
+Djurgården
+	Country=Sweden
 Esbjerg fB
 	Alias=EfB;Esbjerg
 	Country=Danmark
@@ -331,7 +335,7 @@ Wigan Athletic
 	Alias=Wigan
 	Country=England
 Wolverhampton
-	Alias=Wolves
+	Alias=Wolves;Wolverhampton Wanderers
 	Country=England
 	City=Wolverhampton
 FC Zenit Saint Petersburg

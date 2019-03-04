@@ -1,12 +1,24 @@
-FC København;Brøndby IF
-AaB;FC Midtjylland
-Arsenal;Tottenham
-Manchester United;Liverpool
-Manchester United;Manchester City
-Tottenham;Chelsea
-AaB;AGF
+AC Horsens;Silkeborg IF
+AC Horsens;Vejle BK
+AGF;Brøndby IF
 AGF;Randers FC
+AIK;Djurgården;Tvillingderbyt
+AaB;AGF;Slaget om Jylland
+AaB;FC Midtjylland
+AaB;Hobro
+Arsenal;Chelsea
+Arsenal;Tottenham;North London derby
+Aston Villa;Birmingham;Second City derby
+FC København;Brøndby IF;New Firm
 FC Midtjylland;Viborg
-AC Horsens;Silkeborg
-Newcastle;Sunderland
-Liverpool;Everton
+Leeds United;Manchester United;War of the Roses
+Liverpool;Everton;Merseyside derby
+Lyngby;AB
+Manchester United;Liverpool;Northwest derby
+Manchester United;Manchester City;Manchester derby
+Newcastle;Middlesbrough;Tyne-Tees derby
+Newcastle;Sunderland;Tyne-Wear derby
+Silkeborg IF;FC Midtjylland
+Sunderland;Middlesbrough;Tees-Wear derby
+Tottenham;Chelsea
+Viborg FF;FC Midtjylland

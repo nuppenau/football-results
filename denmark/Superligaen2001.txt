@@ -58,7 +58,7 @@ Superligaen;2000-07-23 15:00:00Z;FC Midtjylland;Lyngby FC;4-0;0-0
 	Away|PlayerOn=10121|61+0;10228|70+0;10525|90+0
 	Away|Bookings=10272;YellowCard1;38+0
 	Away|Coach=4076
-Superligaen;2000-07-23 17:05:00Z;FC København;Haderslev FK;5-1;2-0
+Superligaen;2000-07-23 17:05:00Z;FC København;SønderjyskE;5-1;2-0
 	Attendance=11977
 	Ground=3001
 	Referee=5003
@@ -188,7 +188,7 @@ Superligaen;2000-07-30 15:00:00Z;AGF;FC København;1-0;0-0
 	Away|Bookings=10063;YellowCard1;24+0
 	Away|Bookings=10442;YellowCard1;90+0
 	Away|Coach=4081
-Superligaen;2000-07-30 17:05:00Z;Haderslev FK;AaB;1-2;0-1
+Superligaen;2000-07-30 17:05:00Z;SønderjyskE;AaB;1-2;0-1
 	Attendance=4094
 	Ground=3059
 	Referee=5006
@@ -267,7 +267,7 @@ Superligaen;2000-08-05 17:00:00Z;FC Midtjylland;Brøndby IF;2-2;1-0
 	Away|Scoring=10439;PenaltyGoal;78+0
 	Away|Scoring=10198;Goal;90+0
 	Away|Coach=4095
-Superligaen;2000-08-06 15:00:00Z;AB;Haderslev FK;4-0;2-0
+Superligaen;2000-08-06 15:00:00Z;AB;SønderjyskE;4-0;2-0
 	Attendance=2616
 	Ground=3021
 	Referee=5010
@@ -357,7 +357,7 @@ Superligaen;2000-08-13 15:00:00Z;AaB;AB;2-2;1-1
 	Away|Scoring=10017;Goal;75+0
 	Away|Bookings=10431;YellowCard1;55+0
 	Away|Coach=4020
-Superligaen;2000-08-13 15:00:00Z;Haderslev FK;Herfølge BK;1-2;1-1
+Superligaen;2000-08-13 15:00:00Z;SønderjyskE;Herfølge BK;1-2;1-1
 	Attendance=2987
 	Ground=3059
 	Referee=5002
@@ -491,7 +491,7 @@ Superligaen;2000-08-20 15:00:00Z;AGF;AB;1-3;0-0
 	Away|Bookings=10448;YellowCard1;43+0
 	Away|Bookings=10017;YellowCard1;80+0
 	Away|Coach=4020
-Superligaen;2000-08-20 15:00:00Z;Viborg FF;Haderslev FK;2-1;1-1
+Superligaen;2000-08-20 15:00:00Z;Viborg FF;SønderjyskE;2-1;1-1
 	Attendance=2378
 	Ground=3008
 	Referee=5004
@@ -576,7 +576,7 @@ Superligaen;2000-08-27 15:00:00Z;AaB;Viborg FF;1-0;0-0
 	Away|PlayerOn=9409|70+0;10011|52+0
 	Away|Bookings=10157;YellowCard1;55+0
 	Away|Coach=4045
-Superligaen;2000-08-27 15:00:00Z;Haderslev FK;Silkeborg IF;1-1;1-0
+Superligaen;2000-08-27 15:00:00Z;SønderjyskE;Silkeborg IF;1-1;1-0
 	Attendance=2454
 	Ground=3059
 	Referee=5008
@@ -722,7 +722,7 @@ Superligaen;2000-09-06 19:00:00Z;Herfølge BK;Silkeborg IF;0-0;0-0
 	Away|PlayerOn=9011|11+0;10106|88+0;10397|78+0
 	Away|Bookings=10170;YellowCard1;27+0
 	Away|Coach=4005
-Superligaen;2000-09-06 19:00:00Z;FC Midtjylland;Haderslev FK;5-1;2-1
+Superligaen;2000-09-06 19:00:00Z;FC Midtjylland;SønderjyskE;5-1;2-1
 	Attendance=2572
 	Ground=3043
 	Referee=5007
@@ -796,7 +796,7 @@ Superligaen;2000-09-10 15:00:00Z;AB;Herfølge BK;1-3;1-2
 	Away|Bookings=10443;YellowCard1;24+0
 	Away|Bookings=10552;YellowCard1;81+0
 	Away|Coach=4034
-Superligaen;2000-09-10 15:00:00Z;Haderslev FK;OB;1-4;1-2
+Superligaen;2000-09-10 15:00:00Z;SønderjyskE;OB;1-4;1-2
 	Attendance=2803
 	Ground=3059
 	Referee=5014
@@ -902,7 +902,7 @@ Superligaen;2000-09-17 15:00:00Z;AaB;AGF;2-1;1-1
 	Away|Bookings=9493;YellowCard1;##+#
 	Away|Bookings=9493;YellowCard2;88+0
 	Away|Coach=4063
-Superligaen;2000-09-17 15:00:00Z;Haderslev FK;Lyngby FC;2-4;2-1
+Superligaen;2000-09-17 15:00:00Z;SønderjyskE;Lyngby FC;2-4;2-1
 	Attendance=1710
 	Ground=3059
 	Referee=5001
@@ -1081,7 +1081,7 @@ Superligaen;2000-09-24 17:05:00Z;Brøndby IF;AaB;2-1;1-0
 	Away|Bookings=10316;YellowCard1;40+0
 	Away|Bookings=10460;YellowCard1;47+0
 	Away|Coach=4073
-Superligaen;2000-09-25 19:00:00Z;AGF;Haderslev FK;1-1;1-1
+Superligaen;2000-09-25 19:00:00Z;AGF;SønderjyskE;1-1;1-1
 	Attendance=2969
 	Ground=3006
 	Referee=5004
@@ -1101,7 +1101,7 @@ Superligaen;2000-09-25 19:00:00Z;AGF;Haderslev FK;1-1;1-1
 	Away|Bookings=10478;YellowCard1;70+0
 	Away|Bookings=10072;YellowCard1;83+0
 	Away|Coach=4022
-Superligaen;2000-10-01 15:00:00Z;Brøndby IF;Haderslev FK;6-1;2-0
+Superligaen;2000-10-01 15:00:00Z;Brøndby IF;SønderjyskE;6-1;2-0
 	Attendance=9410
 	Ground=3002
 	Referee=5015
@@ -1252,7 +1252,7 @@ Superligaen;2000-10-15 15:00:00Z;AB;Silkeborg IF;0-1;0-1
 	Away|Bookings=10454;YellowCard1;27+0
 	Away|Bookings=10406;YellowCard1;87+0
 	Away|Coach=4005
-Superligaen;2000-10-15 15:00:00Z;Haderslev FK;Viborg FF;0-4;0-1
+Superligaen;2000-10-15 15:00:00Z;SønderjyskE;Viborg FF;0-4;0-1
 	Attendance=1863
 	Ground=3059
 	Referee=5010
@@ -1345,7 +1345,7 @@ Superligaen;2000-10-22 15:00:00Z;AGF;Lyngby FC;5-2;1-1
 	Away|Bookings=10084;YellowCard1;61+0
 	Away|Bookings=10228;YellowCard1;72+0
 	Away|Coach=4076
-Superligaen;2000-10-22 15:00:00Z;Silkeborg IF;Haderslev FK;0-0;0-0
+Superligaen;2000-10-22 15:00:00Z;Silkeborg IF;SønderjyskE;0-0;0-0
 	Attendance=4331
 	Ground=3013
 	Referee=5005
@@ -1461,7 +1461,7 @@ Superligaen;2000-10-29 15:00:00Z;FC København;Herfølge BK;1-1;0-1
 	Away|Bookings=10574;YellowCard1;84+0
 	Away|Bookings=10443;YellowCard1;89+0
 	Away|Coach=4034
-Superligaen;2000-10-29 15:00:00Z;Haderslev FK;AB;1-1;1-0
+Superligaen;2000-10-29 15:00:00Z;SønderjyskE;AB;1-1;1-0
 	Attendance=1591
 	Ground=3059
 	Referee=5018
@@ -1611,7 +1611,7 @@ Superligaen;2000-11-05 15:00:00Z;FC Midtjylland;AGF;1-4;0-2
 	Away|Bookings=10120;YellowCard1;55+0
 	Away|Bookings=10472;YellowCard1;60+0
 	Away|Coach=4063
-Superligaen;2000-11-05 15:00:00Z;Brøndby IF;Haderslev FK;4-2;1-1
+Superligaen;2000-11-05 15:00:00Z;Brøndby IF;SønderjyskE;4-2;1-1
 	Attendance=14689
 	Ground=3002
 	Referee=5001
@@ -1664,7 +1664,7 @@ Superligaen;2000-11-06 19:00:00Z;Silkeborg IF;OB;0-1;0-1
 	Away|Scoring=10026;Goal;24+0
 	Away|Bookings=10313;YellowCard1;47+0
 	Away|Coach=4092
-Superligaen;2000-11-12 15:00:00Z;AaB;Haderslev FK;1-0;0-0
+Superligaen;2000-11-12 15:00:00Z;AaB;SønderjyskE;1-0;0-0
 	Attendance=4959
 	Ground=3003
 	Referee=5007
@@ -1765,7 +1765,7 @@ Superligaen;2000-11-12 17:05:00Z;FC Midtjylland;Brøndby IF;1-1;0-1
 	Away|Bookings=10388;YellowCard1;31+0
 	Away|Bookings=10134;YellowCard1;87+0
 	Away|Coach=4095
-Superligaen;2000-11-19 15:00:00Z;Haderslev FK;OB;4-2;1-1
+Superligaen;2000-11-19 15:00:00Z;SønderjyskE;OB;4-2;1-1
 	Attendance=1525
 	Ground=3059
 	Referee=5009
@@ -1896,7 +1896,7 @@ Superligaen;2000-11-26 15:00:00Z;AGF;Silkeborg IF;1-2;1-2
 	Away|Scoring=10243;Goal;10+0
 	Away|Scoring=10030;Goal;38+0
 	Away|Coach=4005
-Superligaen;2000-11-26 15:00:00Z;FC København;Haderslev FK;4-0;3-0
+Superligaen;2000-11-26 15:00:00Z;FC København;SønderjyskE;4-0;3-0
 	Attendance=13187
 	Ground=3001
 	Referee=5012
@@ -2016,7 +2016,7 @@ Superligaen;2001-03-11 15:00:00Z;Brøndby IF;OB;1-2;1-1
 	Away|Bookings=10015;YellowCard1;66+0
 	Away|Bookings=10156;YellowCard1;90+0
 	Away|Coach=4092
-Superligaen;2001-03-11 15:00:00Z;HFK Sønderjylland;Lyngby FC;1-3;0-3
+Superligaen;2001-03-11 15:00:00Z;SønderjyskE;Lyngby FC;1-3;0-3
 	Attendance=1669
 	Ground=3059
 	Referee=5003
@@ -2109,7 +2109,7 @@ Superligaen;2001-03-12 19:00:00Z;AB;AGF;2-0;1-0
 	Away|Bookings=10055;YellowCard1;59+0
 	Away|Bookings=10514;YellowCard1;73+0
 	Away|Coach=4035
-Superligaen;2001-03-18 15:00:00Z;AGF;HFK Sønderjylland;1-0;0-0
+Superligaen;2001-03-18 15:00:00Z;AGF;SønderjyskE;1-0;0-0
 	Attendance=4495
 	Ground=3006
 	Referee=5015
@@ -2246,7 +2246,7 @@ Superligaen;2001-04-01 15:00:00Z;AB;Herfølge BK;0-0;0-0
 	Away|Bookings=10392;YellowCard1;76+0
 	Away|Bookings=10465;YellowCard1;88+0
 	Away|Coach=4034
-Superligaen;2001-04-01 15:00:00Z;HFK Sønderjylland;FC Midtjylland;2-3;2-1
+Superligaen;2001-04-01 15:00:00Z;SønderjyskE;FC Midtjylland;2-3;2-1
 	Attendance=1655
 	Ground=3059
 	Referee=5006
@@ -2338,7 +2338,7 @@ Superligaen;2001-04-08 15:00:00Z;AGF;OB;4-1;2-1
 	Away|Scoring=10155;Goal;39+0
 	Away|Bookings=10155;YellowCard1;26+0
 	Away|Coach=4092
-Superligaen;2001-04-08 15:00:00Z;Herfølge BK;HFK Sønderjylland;3-0;2-0
+Superligaen;2001-04-08 15:00:00Z;Herfølge BK;SønderjyskE;3-0;2-0
 	Attendance=1528
 	Ground=3027
 	Referee=5012
@@ -2479,7 +2479,7 @@ Superligaen;2001-04-12 15:00:00Z;FC Midtjylland;Silkeborg IF;0-0;0-0
 	Away|Bookings=10406;YellowCard1;71+0
 	Away|Bookings=10030;YellowCard1;74+0
 	Away|Coach=4005
-Superligaen;2001-04-12 15:00:00Z;Lyngby FC;HFK Sønderjylland;1-1;0-1
+Superligaen;2001-04-12 15:00:00Z;Lyngby FC;SønderjyskE;1-1;0-1
 	Attendance=1681
 	Ground=3012
 	Referee=5004
@@ -2590,7 +2590,7 @@ Superligaen;2001-04-16 15:00:00Z;AB;Lyngby FC;4-0;2-0
 	Away|Bookings=10131;YellowCard1;40+0
 	Away|Bookings=9514;YellowCard1;44+0
 	Away|Coach=4076
-Superligaen;2001-04-16 15:00:00Z;HFK Sønderjylland;FC København;1-2;1-1
+Superligaen;2001-04-16 15:00:00Z;SønderjyskE;FC København;1-2;1-1
 	Attendance=3965
 	Ground=3059
 	Referee=5007
@@ -2713,7 +2713,7 @@ Superligaen;2001-04-22 15:00:00Z;Lyngby FC;Silkeborg IF;0-2;0-1
 	Away|Scoring=10272;OwnGoal;67+0
 	Away|Bookings=10149;YellowCard1;72+0
 	Away|Coach=4005
-Superligaen;2001-04-22 15:00:00Z;OB;HFK Sønderjylland;3-1;1-1
+Superligaen;2001-04-22 15:00:00Z;OB;SønderjyskE;3-1;1-1
 	Attendance=4459
 	Ground=3005
 	Referee=5018
@@ -2784,7 +2784,7 @@ Superligaen;2001-04-29 15:00:00Z;Herfølge BK;AGF;1-2;1-1
 	Away|Bookings=10187;YellowCard1;42+0
 	Away|Bookings=10239;YellowCard2;62+0
 	Away|Coach=4035
-Superligaen;2001-04-29 15:00:00Z;HFK Sønderjylland;AaB;1-1;1-0
+Superligaen;2001-04-29 15:00:00Z;SønderjyskE;AaB;1-1;1-0
 	Attendance=1409
 	Ground=3059
 	Referee=5014
@@ -2871,7 +2871,7 @@ Superligaen;2001-05-06 15:00:00Z;AaB;AB;4-1;1-1
 	Away|Scoring=10003;Goal;11+0
 	Away|Bookings=10290;YellowCard1;53+0
 	Away|Coach=4063
-Superligaen;2001-05-06 15:00:00Z;HFK Sønderjylland;Brøndby IF;0-4;0-1
+Superligaen;2001-05-06 15:00:00Z;SønderjyskE;Brøndby IF;0-4;0-1
 	Attendance=5234
 	Ground=3059
 	Referee=5008
@@ -2971,7 +2971,7 @@ Superligaen;2001-05-13 15:00:00Z;Brøndby IF;AGF;2-1;1-0
 	Away|Bookings=10210;YellowCard1;38+0
 	Away|Bookings=10088;YellowCard1;62+0
 	Away|Coach=4035
-Superligaen;2001-05-13 15:00:00Z;AB;HFK Sønderjylland;1-1;0-1
+Superligaen;2001-05-13 15:00:00Z;AB;SønderjyskE;1-1;0-1
 	Attendance=2095
 	Ground=3021
 	Referee=5009
@@ -3100,7 +3100,7 @@ Superligaen;2001-05-17 19:00:00Z;FC København;FC Midtjylland;3-0;2-0
 	Away|Bookings=10148;YellowCard1;35+0
 	Away|Bookings=10075;YellowCard1;46+0
 	Away|Coach=4065
-Superligaen;2001-05-17 19:00:00Z;HFK Sønderjylland;Silkeborg IF;0-1;0-1
+Superligaen;2001-05-17 19:00:00Z;SønderjyskE;Silkeborg IF;0-1;0-1
 	Attendance=1186
 	Ground=3059
 	Referee=5010
@@ -3225,7 +3225,7 @@ Superligaen;2001-05-20 15:00:00Z;FC Midtjylland;OB;1-1;1-0
 	Away|Scoring=10015;Goal;52+0
 	Away|Bookings=10244;YellowCard1;63+0
 	Away|Coach=4092
-Superligaen;2001-05-20 15:00:00Z;Viborg FF;HFK Sønderjylland;3-1;2-1
+Superligaen;2001-05-20 15:00:00Z;Viborg FF;SønderjyskE;3-1;2-1
 	Attendance=1418
 	Ground=3008
 	Referee=5012
@@ -3320,7 +3320,7 @@ Superligaen;2001-05-27 15:00:00Z;AB;Viborg FF;2-0;0-0
 	Away|PlayerOn=10007|60+0;10099|68+0;10139|15+0
 	Away|Bookings=10139;YellowCard1;45+0
 	Away|Coach=4045
-Superligaen;2001-05-27 15:00:00Z;HFK Sønderjylland;Herfølge BK;1-2;1-1
+Superligaen;2001-05-27 15:00:00Z;SønderjyskE;Herfølge BK;1-2;1-1
 	Attendance=1495
 	Ground=3059
 	Referee=5002
@@ -3432,7 +3432,7 @@ Superligaen;2001-06-10 15:00:00Z;Herfølge BK;AB;0-3;0-2
 	Away|Scoring=10121;Goal;73+0
 	Away|Bookings=10448;YellowCard1;50+0
 	Away|Coach=4063
-Superligaen;2001-06-10 15:00:00Z;FC Midtjylland;HFK Sønderjylland;6-0;1-0
+Superligaen;2001-06-10 15:00:00Z;FC Midtjylland;SønderjyskE;6-0;1-0
 	Attendance=4478
 	Ground=3043
 	Referee=5004
@@ -3559,7 +3559,7 @@ Superligaen;2001-06-13 19:00:00Z;AB;FC Midtjylland;1-1;1-0
 	Away|Bookings=10456;YellowCard1;20+0
 	Away|Bookings=10027;YellowCard1;52+0
 	Away|Coach=4065
-Superligaen;2001-06-13 19:00:00Z;HFK Sønderjylland;AGF;2-2;2-1
+Superligaen;2001-06-13 19:00:00Z;SønderjyskE;AGF;2-2;2-1
 	Attendance=1602
 	Ground=3059
 	Referee=5015
