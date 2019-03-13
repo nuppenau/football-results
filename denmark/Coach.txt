@@ -17,6 +17,7 @@
 4131;Christian Lønstrup;1971-04-04 00:00:00Z;Danmark
 4130;Claus Nørgaard;1979-12-17 00:00:00Z;Danmark
 4014;Colin Todd;1948-12-12 00:00:00Z;England
+6575;Constantin Gâlcă;1972-03-08 00:00:00Z;Rumænien
 4127;David Nielsen;1976-12-01 00:00:00Z;Danmark
 4016;Erik Hamrén;1957-06-27 00:00:00Z;Sverige
 4017;Erik Sanvad Rasmussen;1960-12-24 00:00:00Z;Danmark
@@ -51,6 +52,7 @@
 4050;Lars Søndergaard;1959-04-05 00:00:00Z;Danmark
 4099;Lasse Christensen;1951-02-08 00:00:00Z;Danmark
 4098;Magnus Pehrsson;1976-05-25 00:00:00Z;Sverige
+6574;Martin Retov;1980-05-05 00:00:00Z;Danmark
 4122;Michael Hansen;1971-09-22 00:00:00Z;Danmark
 4052;Michael Hemmingsen;1967-10-02 00:00:00Z;Danmark
 4053;Michael Laudrup;1964-06-15 00:00:00Z;Danmark

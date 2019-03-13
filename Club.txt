@@ -5,43 +5,63 @@ AB Gladsaxe
 	Alias=AB
 	Country=Danmark
 	City=Gladsaxe
+	ShortName=AB
+	Location=Sjælland
 AC Horsens
 	Alias=Horsens
 	Country=Danmark
 	City=Horsens
+	ShortName=ACH
+	Location=Jylland
 AGF
 	Country=Danmark
+	ShortName=AGF
+	Location=Jylland
 AIK
 	Country=Sweden
+	ShortName=AIK
 Ajax Amsterdam
 	Alias=Ajax
 	Country=Holland
+	ShortName=AJAX
 Anderlecht
 	Country=Belgien
+	ShortName=ANDL
 APOEL Nicosia
 	Alias=APOEL
 	Country=Cyperen
 Arsenal
 	Country=England
 	City=London
+	ShortName=ARS
 Aston Villa
 	Alias=Villa
 	Country=England
+	ShortName=AVFC
 Astra
 	Country=Rumænien
 Athletic Club
 	Country=Spanien
+	ShortName=ATH
 Atlético Madrid
 	Country=Spanien
+	ShortName=ATM
 AZ Alkmar
 	Alias=AZ;Alkmar
 	Country=Holland
+	ShortName=AZ
 B93
 	Country=Danmark
 	City=København
 	Founded=1893/1/1
+	ShortName=B93
+	Location=Sjælland
 Barnsley
 	Country=England
+	ShortName=BARN
+Barcelona
+	Country=Spanien
+	ShortName=BARC
 Bayer Leverkusen
 	Country=Tyskland
 Bayern München
@@ -51,301 +71,424 @@ Beşiktaş
 Birmingham City
 	Alias=Birmingham
 	Country=England
-Blackburn
+	ShortName=BIR
+Blackburn Rovers
+	Alias=Blackburn
 	Country=England
+	ShortName=ATM
 Blackpool
 	Country=England
+	ShortName=BLAK
 Bolton Wanderes
-	Alias=Bolton
+	Alias=Bolton;Bolton Wanderers
 	Country=England
+	ShortName=BOL
 Borussia M'gladbach
 	Country=Tyskland
 AFC Bournemouth
 	Alias=Bournemouth
 	Country=England
+	ShortName=AFCB
 Bradford
 	Country=England
+	ShortName=BRAD
 Brentford
 	Country=England
+	ShortName=BREN
 Brighton & Hove Albion
 	Alias=Brighton
 	Country=England
+	ShortName=BHAL
 Bristol City
 	Alias=Bristol
 	Country=England
+	ShortName=BRSC
 Brøndby IF
 	Alias=Brøndby
 	Country=Danmark
 	Founded=1964/12/3
+	ShortName=BIF
+	Location=Sjælland
 Burnley
 	Country=England
+	ShortName=BURN
 Burton Albion
 	Country=England
+	ShortName=BURT
 Cardiff City
 	Alias=Cardiff
 	Country=England
+	ShortName=CARC
 Celta de Vigo
 	Alias=Celta
 	Country=Spanien
 Charlton
 	Country=England
+	ShortName=CHAR
 Chelsea
 	Country=England
 	City=London
+	ShortName=CHEL
 Coventry
 	Country=England
+	ShortName=COVN
 Crystal Palace
 	Alias=Palace
 	Country=England
+	ShortName=CRYP
 Derby County
 	Alias=Derby
 	Country=England
+	ShortName=DER
 Djurgården
 	Country=Sweden
 Esbjerg fB
 	Alias=EfB;Esbjerg
 	Country=Danmark
+	ShortName=EFB
+	Location=Jylland
 Everton Football Club
 	Alias=Everton;Everton FC;Everton F.C.
 	Country=England
 	City=Liverpool
 	Founded=1878/3/15
+	ShortName=EVRT
 FC Helsingør
 	Alias=Helsingør
 	Country=Danmark
+	ShortName=FCH
+	Location=Sjælland
 F.C. København
 	Founded=1992/7/1
 	Alias=FC København;FCK;København
 	Country=Danmark
 	City=København
+	ShortName=FCK
+	Location=Sjælland
 FC Midtjylland
 	Alias=Midtjylland;FCM
 	Country=Danmark
+	ShortName=FCM
+	Location=Jylland
 FC Nordsjælland
 	Alias=FCN;Nordsjælland
 	Country=Danmark
+	ShortName=FCN
+	Location=Sjælland
 FC Roskilde
 	Alias=Roskilde
 	Country=Danmark
+	ShortName=FCR
+	Location=Sjælland
 FC Vestsjælland
 	Alias=Vestsjælland;Slagelse
 	Country=Danmark
+	ShortName=FCV
+	Location=Sjælland
 Fenerbahçe
 	Country=Tyrkiet
 Ferencváros
 	Country=Ungarn
 Fiorentina
 	Country=Italien
+	ShortName=FIO
 Fredericia
 	Country=Danmark
 	City=Fredericia
+	ShortName=FRE
+	Location=Jylland
 Frem Boldklub
 	Alias=Frem
 	Country=Danmark
 	City=København
+	ShortName=FREM
+	Location=Sjælland
 Fremad Amager
 	Country=Danmark
 	City=København
+	ShortName=FAMA
+	Location=Sjælland
 Fulham
 	Country=England
 	City=London
+	ShortName=FUL
 Genk
 	Country=Belgien
+	ShortName=GNK
 Gent
 	Country=Belgien
+	ShortName=GNT
 Hapoel Be'er Sheva
 	Country=Israel
 HB Køge
 	Country=Danmark
+	ShortName=HBK
+	Location=Sjælland
 Herfølge
 	Country=Danmark
+	ShortName=HER
+	Location=Sjælland
 Hobro IK
 	Alias=Hobro
 	Country=Danmark
+	ShortName=HOB
+	Location=Jylland
 Huddersfield Town
 	Alias=Huddersfield
 	Country=England
+	ShortName=HUDT
 Hull City
 	Alias=Hull
 	Country=England
+	ShortName=HULC
 Ipswich Town
 	Alias=Ipswich
 	Country=England
+	ShortName=ITSW
 Juventus
 	Country=Italien
+	ShortName=JUV
 Krasnodar
 Køge
 	Country=Danmark
+	ShortName=KØGE
+	Location=Sjælland
 Leeds United
 	Alias=Leeds
 	Country=England
 	City=Leeds
+	ShortName=LUFC
 Legia Warszawa
 	Country=Polen
 Leicester City
 	Alias=Leicester
 	Country=England
+	ShortName=LEIC
 Liverpool Football Club
 	Alias=Liverpool;Liverpool F.C.
 	Country=England
 	City=Liverpool
 	Founded=1892/3/15
+	ShortName=LFC
 Ludogorets
 	Country=Bulgarien
 Lyngby Boldklub
 	Alias=Lyngby BK;Lyngby
 	Country=Danmark
+	ShortName=LBK
+	Location=Sjælland
 Manchester City
 	Country=England
 	City=Manchester
+	ShortName=MANC
 Manchester United
 	Country=England
 	City=Manchester
+	ShortName=MANU
 Middlesbrough
 	Country=England
+	ShortName=BORO
+Millwall
+	Country=England
+	ShortName=MILL
 Milton Keynes Dons
 	Country=England
+	ShortName=MKD
 Monaco
 	Country=Frankring
+	ShortName=MONA
 Napoli
 	Country=Italien
+	ShortName=NAPO
 Newcastle United
 	Alias=Newcastle
 	Country=England
+	ShortName=NEWU
 Norwich City
 	Alias=Norwich
 	Country=England
+	ShortName=NORC
 Nottingham Forest
 	Alias=Nottingham
 	Country=England
+	ShortName=NFFC
 Nykøbing FC
 	Alias=Nykøbing
 	Country=Danmark
+	ShortName=NFC
+	Location=Falster
 Næstved Boldklub
 	Alias=Næstved BK;Næstved
 	Country=Danmark
+	ShortName=NÆST
+	Location=Sjælland
 Odense Boldklub
 	Alias=OB;Odense
 	Country=Danmark
+	ShortName=OB
+	Location=Fyn
 Olympiakos Piraeus
 	Country=Grækenland
 Olympique Lyonnais
 	Country=Frankrig
+	ShortName=OLLY
 Osmanlıspor
 	Country=Tyrkiet
 PAOK
 	Country=Grækenland
+	ShortName=PAOK
 Partizani Tirana
 	Country=Albanien
 Porto
 	Country=Portugal
+	ShortName=PORT
 Portsmouth
 	Country=England
+	ShortName=PMPY
 Preston North End
 	Alias=Preston
 	Country=England
+	ShortName=PRNE
 Queens Park Rangers
 	Alias=QPC
 	Country=England
+	ShortName=QPR
 Randers FC
 	Alias=Randers
 	Country=Danmark
+	ShortName=RFC
+	Location=Jylland
 Reading
 	Country=England
+	ShortName=READ
 Real Madrid
 	Country=Spanien
+	ShortName=RMA
 Roma
 	Country=Italien
+	ShortName=ROMA
 Rostov
 	Country=Rusland
 Rotherham United
 	Country=England
+	ShortName=ROTH
 Saint-Étienne
 	Country=Frankrig
 Schalke 04
 	Country=Tyskland
+	ShortName=SC04
 Sevilla
 	Country=Spanien
+	ShortName=SEV
 Shakhtar Donetsk
 	Country=Ukraine
+	ShortName=SKDO
 Sheffield United
 	Country=England
 	City=Sheffield
+	ShortName=SHFU
 Sheffield Wednesday
 	Country=England
 	City=Sheffield
+	ShortName=SHFW
 Silkeborg IF
 	Alias=Silkeborg;SIF
 	Country=Danmark
 	City=Silkeborg
+	ShortName=SIF
+	Location=Jylland
 Skive IK
 	Alias=Skive
 	Country=Danmark
 	City=Skive
+	ShortName=SKIK
 Slovan Bratislava
 Southampton
 	Country=England
+	ShortName=SOUT
 Sparta Praha
 	Country=Tjekkiet
+	ShortName=SPRA
 Stoke City
 	Alias=Stoke
 	Country=England
+	ShortName=STKC
 Sunderland
 	Country=England
+	ShortName=SUN
 Swansea City
 	Alias=Swansea
 	Country=England
+	ShortName=SWN
 SønderjyskE
 	Country=Danmark
+	ShortName=SJE
+	Location=Jylland
 Tottenham Hotspur
 	Alias=Tottenham;Spurs
 	Country=England
 	City=London
 	Founded=1882/9/5
+	ShortName=TOT
 Vendsyssel FF
 	Alias=Vendsyssel
 	Country=Danmark
 	City=Hjørring
 	Founded=2013/7/1
+	ShortName=VEN
+	Location=Jylland
 Vejle Boldklub
 	Alias=Vejle;VB;Vejle BK
 	Country=Danmark
 	City=Vejle
 	Founded=1891/1/1
+	ShortName=VB
+	Location=Jylland
 Viborg FF
 	Alias=Viborg;VFF
 	Country=Danmark
 	City=Viborg
+	ShortName=VFF
+	Location=Jylland
 Villarreal
 	Country=Spanien
 	Founded=1923/3/10
+	ShortName=VIL
 VPS
 	Country=Finland
 Watford
 	Country=England
 	City=Watford
+	ShortName=WAT
 West Bromwich Albion
 	Alias=WBA;West Bromwich
 	Country=England
+	ShortName=WBA
 West Ham United
 	Alias=West Ham
 	Country=England
 	City=London
+	ShortName=WHU
 Wigan Athletic
 	Alias=Wigan
 	Country=England
+	ShortName=WIG
 Wolverhampton
 	Alias=Wolves;Wolverhampton Wanderers
 	Country=England
 	City=Wolverhampton
+	ShortName=WOL
 FC Zenit Saint Petersburg
 	Alias=Zenit
 	Country=Rusland
 	City=Saint Petersborg
 	Founded=1925/5/25
+	ShortName=ZSPE
 Žilina
 	Country=Slovakiet
 AaB
 	Country=Danmark
 	Founded=1885/5/13
 	City=Aalborg
+	ShortName=AAB
+	Location=Jylland
