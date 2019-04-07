@@ -1,7 +1,6 @@
 ﻿//
 // Player
 //
-113442;;0001-01-01 00:00:00Z;
 16392;Abdul Bilal Hamid;1990-11-25 00:00:00Z;USA;M&aring;lmand
 16214;Abdul Mumin;1998-06-06 00:00:00Z;Ghana;Forsvarsspiller
 10082;Abdul Sule;1975-01-20 00:00:00Z;Nigeria;Angriber
@@ -66,8 +65,8 @@
 10078;Allan Gaarde;1975-01-25 00:00:00Z;Danmark;Midtbanespiller
 9069;Allan Hjortdal Kuhn;1968-03-02 00:00:00Z;Danmark;Midtbanespiller
 10167;Allan Kierstein Jepsen;1977-07-04 00:00:00Z;Danmark;Forsvarsspiller
-10256;Allan Nielsen;1976-06-26 00:00:00Z;Danmark;Midtbanespiller
 10103;Allan Nielsen;1971-03-13 00:00:00Z;Danmark;Midtbanespiller
+10256;Allan Nielsen;1976-06-26 00:00:00Z;Danmark;Midtbanespiller
 10253;Allan Olesen;1974-01-25 00:00:00Z;Danmark;Forsvarsspiller
 10750;Allan Søgaard;1978-01-20 00:00:00Z;Danmark;Midtbanespiller
 10300;Álvaro Santos;1980-01-30 00:00:00Z;Brasilien;Angriber
@@ -632,8 +631,8 @@
 10423;Jesper Hansen;1985-03-31 00:00:00Z;Danmark;M&aring;lmand
 10211;Jesper Håkansson;1981-08-18 00:00:00Z;Danmark;Midtbanespiller
 11146;Jesper Jensen;1988-04-22 00:00:00Z;Danmark;Midtbanespiller
-10818;Jesper Jørgensen;1983-03-10 00:00:00Z;Danmark;Angriber
 10417;Jesper Jørgensen;1984-05-09 00:00:00Z;Danmark;Midtbanespiller
+10818;Jesper Jørgensen;1983-03-10 00:00:00Z;Danmark;Angriber
 11149;Jesper Kjærulff;1983-10-07 00:00:00Z;Danmark;Angriber
 11141;Jesper Kristoffersen;1984-02-02 00:00:00Z;Danmark;Forsvarsspiller
 10713;Jesper Lange;1986-01-11 00:00:00Z;Danmark;Angriber
@@ -798,8 +797,8 @@
 11077;Kian Christensen;1986-08-12 00:00:00Z;Danmark;Forsvarsspiller
 11187;Kian Hansen;1989-03-03 00:00:00Z;Danmark;Forsvarsspiller
 10489;Kim Albrekt Madsen;1978-02-13 00:00:00Z;Danmark;Forsvarsspiller
-10215;Kim Christensen;1980-05-08 00:00:00Z;Danmark;Angriber
 10653;Kim Christensen;1979-07-16 00:00:00Z;Danmark;M&aring;lmand
+10215;Kim Christensen;1980-05-08 00:00:00Z;Danmark;Angriber
 10133;Kim Daugaard Hansen;1974-03-29 00:00:00Z;Danmark;Midtbanespiller
 10799;Kim Drejs;1980-08-15 00:00:00Z;Danmark;M&aring;lmand
 10281;Kim Kristensen;1975-01-10 00:00:00Z;Danmark;Midtbanespiller
@@ -857,8 +856,8 @@
 10872;Lasse Kronborg;1986-04-03 00:00:00Z;Danmark;Midtbanespiller
 10299;Lasse Kryger;1982-11-03 00:00:00Z;Danmark;Forsvarsspiller
 16259;Lasse Mikkelsen;1998-01-18 00:00:00Z;Danmark;M&aring;lmand
-15812;Lasse Nielsen;1987-03-03 00:00:00Z;Danmark;Forsvarsspiller
 11033;Lasse Nielsen;1988-01-08 00:00:00Z;Danmark;Forsvarsspiller
+15812;Lasse Nielsen;1987-03-03 00:00:00Z;Danmark;Forsvarsspiller
 11510;Lasse Petry Andersen;1992-09-19 00:00:00Z;Danmark;Midtbanespiller
 10775;Lasse Qvist;1987-01-17 00:00:00Z;Danmark;Angriber
 11019;Lasse Rise;1986-06-09 00:00:00Z;Danmark;Angriber
@@ -1033,8 +1032,8 @@
 16057;Mathias Jensen;1996-01-01 00:00:00Z;Danmark;Midtbanespiller
 16294;Mathias Johannsen;1992-04-27 00:00:00Z;Danmark;Forsvarsspiller
 16415;Mathias Jørgensen;2000-09-20 00:00:00Z;Danmark;Angriber
-16393;Mathias Kristensen;1993-06-24 00:00:00Z;Danmark;Angriber
 16026;Mathias Kristensen;1997-03-21 00:00:00Z;Danmark;Midtbanespiller
+16393;Mathias Kristensen;1993-06-24 00:00:00Z;Danmark;Angriber
 16202;Mathias Rasmussen;1997-11-25 00:00:00Z;Norge;Midtbanespiller
 16524;Mathias Ross Jensen;2001-01-15 00:00:00Z;Danmark;Forsvarsspiller
 15943;Mathias Schlie;1988-01-31 00:00:00Z;Danmark;Midtbanespiller
@@ -1062,8 +1061,8 @@
 16333;Michael Baidoo;1999-05-14 00:00:00Z;Ghana;Midtbanespiller
 11114;Michael Beauchamp;1981-03-08 00:00:00Z;Australien;Forsvarsspiller
 11286;Michael Byskov;1988-02-20 00:00:00Z;Danmark;Midtbanespiller
-10357;Michael Christensen;1983-02-06 00:00:00Z;Danmark;Forsvarsspiller
 10763;Michael Christensen;1978-11-18 00:00:00Z;Danmark;Forsvarsspiller
+10357;Michael Christensen;1983-02-06 00:00:00Z;Danmark;Forsvarsspiller
 10905;Michael Elvers Tørnes;1986-01-08 00:00:00Z;Danmark;M&aring;lmand
 10013;Michael Gravgaard;1978-04-03 00:00:00Z;Danmark;Forsvarsspiller
 10010;Michael Hansen;1971-09-22 00:00:00Z;Danmark;Midtbanespiller
@@ -1164,8 +1163,8 @@
 11520;Morten Moldskred;1980-06-13 00:00:00Z;Norge;Angriber
 11426;Morten Nielsen;1990-02-24 00:00:00Z;Danmark;Angriber
 10899;Morten Nordstrand Nielsen;1983-06-08 00:00:00Z;Danmark;Angriber
-10108;Morten Petersen;1978-05-27 00:00:00Z;Danmark;Forsvarsspiller
 10651;Morten Petersen;1982-03-03 00:00:00Z;Danmark;Forsvarsspiller
+10108;Morten Petersen;1978-05-27 00:00:00Z;Danmark;Forsvarsspiller
 10007;Morten Poulsen;1971-03-09 00:00:00Z;Danmark;Midtbanespiller
 10398;Morten Rasmussen;1980-06-11 00:00:00Z;Danmark;Forsvarsspiller
 16147;Morten Rokkedal Kristensen;1997-10-10 00:00:00Z;Danmark;Forsvarsspiller
@@ -1240,8 +1239,8 @@
 11532;Nikola Saric;1991-01-06 00:00:00Z;Danmark;Angriber
 15948;Nikolai Laursen;1998-02-19 00:00:00Z;Danmark;Angriber
 16114;Nikolaj Hagelskjær;1990-05-06 00:00:00Z;Danmark;Forsvarsspiller
-10893;Nikolaj Hansen;1987-04-07 00:00:00Z;Danmark;Forsvarsspiller
 15818;Nikolaj Hansen;1993-03-15 00:00:00Z;Danmark;Angriber
+10893;Nikolaj Hansen;1987-04-07 00:00:00Z;Danmark;Forsvarsspiller
 10865;Nikolaj Hust;1978-10-30 00:00:00Z;Danmark;Midtbanespiller
 16326;Nikolaj Lyngø;1998-02-03 00:00:00Z;Danmark;Forsvarsspiller
 16124;Nikolay Bodurov;1986-05-30 00:00:00Z;Bulgarien;Forsvarsspiller
@@ -1576,8 +1575,8 @@
 10429;Thomas Kortegaard;1984-07-02 00:00:00Z;Danmark;Midtbanespiller
 10057;Thomas Lindrup;1976-05-21 00:00:00Z;Danmark;Midtbanespiller
 10961;Thomas Lund Helveg;1971-06-24 00:00:00Z;Danmark;Forsvarsspiller
-15810;Thomas Mikkelsen;1983-08-27 00:00:00Z;Danmark;M&aring;lmand
 15960;Thomas Mikkelsen;1990-01-19 00:00:00Z;Danmark;Angriber
+15810;Thomas Mikkelsen;1983-08-27 00:00:00Z;Danmark;M&aring;lmand
 11274;Thomas Nørgaard;1987-01-07 00:00:00Z;Danmark;M&aring;lmand
 10208;Thomas Olsen;1979-06-13 00:00:00Z;Danmark;Midtbanespiller
 10169;Thomas Poulsen;1972-07-02 00:00:00Z;Danmark;Midtbanespiller
