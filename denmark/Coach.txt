@@ -23,6 +23,7 @@
 4017;Erik Sanvad Rasmussen;1960-12-24 00:00:00Z;Danmark
 4034;Faxe;1965-05-03 00:00:00Z;Danmark
 4021;Flemming Nielsen;1954-07-16 00:00:00Z;Danmark
+6576;Flemming Pedersen;1963-06-06 00:00:00Z;Danmark
 4022;Frank Andersen;1961-11-19 00:00:00Z;Danmark
 4111;Glen Riddersholm;1972-04-24 00:00:00Z;Danmark
 4024;Hans Backe;1952-02-14 00:00:00Z;Sverige
