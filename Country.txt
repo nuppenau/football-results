@@ -1,0 +1,94 @@
+﻿//
+// Countries
+//[Name;Alias]
+//
+Unknown;Ukendt|Unknown
+Denmark;Danmark|Denmark
+Sweden;Sverige|Sweden
+Norway;Norge|Norway
+England;England
+Spain;Spanien|Spain
+Germany;Tyskland|Germany
+Italy;Italien|Italy
+Portugal;Portugal
+Belgium;Belgien|Belgium
+Holland;Netherlands|Holland
+France;Frankrig|France
+Iceland;Island|Iceland
+Finland;Finland
+Poland;Polen|Poland
+Greece;Grækenland|Greece
+Turkey;Tyrkiet|Turkey
+Wales;Wales
+Faroe Islands;Færøerne|Faroe Islands
+Zambia;Zambia
+Ghana;Ghana
+South Africa;Sydafrika|South Africa
+Nigeria;Nigeria
+Egypt;Egypten|Egypt
+Lithuania;Litauen|Lithuania
+Morocco;Marokko|Morocco
+Estonia;Estland|Estonia
+Latvia;Letland|Latvia
+Australia;Australien|Australia
+Kenya;Kenya
+Brazil;Brasilien|Brazil
+Hungary;Ungarn|Hungary
+Algeria;Algeriet|Algeria
+Gambia;Gambia
+USA;USA
+Canada;Kanada|Canada
+Bosnia and Herzegovina;Bosnien-Hercegovina|Bosnia-Herzegovina|Bosnia and Herzegovina
+Albania;Albanien|Albania
+Cameroon;Cameroun|Cameroon
+Ivory Coast;Elfenbenskysten|Ivory Coast|Côte d'Ivoire
+Macedonia;Makedonien|Macedonia
+New Zealand;New Zealand
+Colombia;Colombia
+Malawi;Malawi
+Croatia;Kroatien|Croatia
+Bulgaria;Bulgarien|Bulgaria
+Senegal;Senegal
+Haiti;Haiti
+Georgia;Georgien|Georgia
+Moldova;Moldova
+Montenegro;Montenegro
+Japan;Japan
+Slovakia;Slovakiet|Slovakia
+Costa Rica;Costa Rica
+Liberia;Liberia
+Romania;Rumænien|Romania
+Armenia;Armenien|Armenia
+Burkina Faso;Burkina Faso
+Scotland;Skotland|Scotland
+Serbia;Serbien|Serbia
+Syria;Syrien|Syria
+Northern Ireland;Nordirland|Northern Ireland
+Zimbabwe;Zimbabwe
+Mali;Mali
+Austria;Østrig|Austria
+Slovenia;Slovenien|Slovenia
+Argentina;Argentina
+Sudan;Sudan
+Jamaica;Jamaica
+Congo DR;DR Congo|Congo DR
+Paraguay;Paraguay
+Republic of Ireland;Irland|Republic of Ireland
+China;Kina|China
+Czech Republic;Tjekkiet|Czech Republic
+Chile;Chile
+Ecuador;Ecuador
+Switzerland;Switzerland
+Kosovo;Kosovo
+Benin;Benin
+Réunion;Réunion
+Burundi;Burundi
+Uzbekistan;Uzbekistan
+Uruguay;Uruguay
+Tunisia;Tunisia
+Curaçao;Curaçao
+Korea Republic;Korea Republic
+Martinique;Martinique
+Guinea-Bissau;Guinea-Bissau
+Mexico;Mexico
+Venezuela;Venezuela

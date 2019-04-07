@@ -1,114 +1,114 @@
 //
 // League Name;Start Date;End Date;Teams;Points Win;Points Draw
 //
-Superligaen;2018-07-13;2019-06-17;14;3;1
+Superligaen;2018-07-13;2019-06-17;14;3;1;Denmark
 	
-Superligaen;2017-07-14;2018-06-18;14;3;1
+Superligaen;2017-07-14;2018-06-18;14;3;1;Denmark
 	
-Superligaen;2016-07-15;2017-06-19;14;3;1
+Superligaen;2016-07-15;2017-06-19;14;3;1;Denmark
 		
-Superligaen;2015-07-17;2016-06-29;12;3;1
+Superligaen;2015-07-17;2016-06-29;12;3;1;Denmark
 	
-Superligaen;2014-07-18;2015-06-07;12;3;1
+Superligaen;2014-07-18;2015-06-07;12;3;1;Denmark
 	
-Superligaen;2013-07-19;2014-05-18;12;3;1
+Superligaen;2013-07-19;2014-05-18;12;3;1;Denmark
 
-Superligaen;2012-07-13;2013-05-20;12;3;1
+Superligaen;2012-07-13;2013-05-20;12;3;1;Denmark
 
-Superligaen;2011-07-16;2012-05-23;12;3;1
+Superligaen;2011-07-16;2012-05-23;12;3;1;Denmark
 
-Superligaen;2010-07-17;2011-05-29;12;3;1
+Superligaen;2010-07-17;2011-05-29;12;3;1;Denmark
 
-Superligaen;2009-07-18;2010-05-16;12;3;1
+Superligaen;2009-07-18;2010-05-16;12;3;1;Denmark
 
-Superligaen;2008-07-19;2009-05-31;12;3;1
+Superligaen;2008-07-19;2009-05-31;12;3;1;Denmark
 
-Superligaen;2007-07-18;2008-05-24;12;3;1
+Superligaen;2007-07-18;2008-05-24;12;3;1;Denmark
 
-Superligaen;2006-07-19;2007-05-27;12;3;1
+Superligaen;2006-07-19;2007-05-27;12;3;1;Denmark
 
-Superligaen;2005-07-19;2006-05-14;12;3;1
+Superligaen;2005-07-19;2006-05-14;12;3;1;Denmark
 
-Superligaen;2004-07-24;2005-06-19;12;3;1
+Superligaen;2004-07-24;2005-06-19;12;3;1;Denmark
 
-Superligaen;2003-07-26;2004-05-29;12;3;1
+Superligaen;2003-07-26;2004-05-29;12;3;1;Denmark
 
-Superligaen;2002-07-27;2003-06-22;12;3;1
+Superligaen;2002-07-27;2003-06-22;12;3;1;Denmark
 
-Superligaen;2001-07-21;2002-05-16;12;3;1
+Superligaen;2001-07-21;2002-05-16;12;3;1;Denmark
 
-Superligaen;2000-07-22;2001-06-13;12;3;1
+Superligaen;2000-07-22;2001-06-13;12;3;1;Denmark
 
-Superligaen;1999-07-24;2000-05-28;12;3;1
+Superligaen;1999-07-24;2000-05-28;12;3;1;Denmark
 
-Superligaen;1998-06-15;1999-06-25;12;3;1
+Superligaen;1998-06-15;1999-06-25;12;3;1;Denmark
 
-Superligaen;1997-06-15;1998-06-25;12;3;1
+Superligaen;1997-06-15;1998-06-25;12;3;1;Denmark
 
-Premier League;2018-08-10;2019-05-12;20;3;1
+Premier League;2018-08-10;2019-05-12;20;3;1;England
 
-Premier League;2016-08-13;2017-05-21;20;3;1
+Premier League;2016-08-13;2017-05-21;20;3;1;England
 	Clubs=Leicester;Manchester City;Tottenham;Arsenal;Manchester United;West Ham;Southampton;Liverpool;Watford;Stoke;Everton;Crystal Palace;Chelsea;West Bromwich;Bournemouth;Swansea;Sunderland;Hull;Burnley;Middlesbrough
 
-Premier League;2015-08-08;2016-05-17;20;3;1
+Premier League;2015-08-08;2016-05-17;20;3;1;England
 	Clubs=Leicester;Manchester City;Tottenham;Arsenal;Manchester United;West Ham;Southampton;Liverpool;Watford;Stoke;Everton;Crystal Palace;Chelsea;West Bromwich;Bournemouth;Swansea;Norwich;Newcastle;Sunderland;Aston Villa
 
-Premier League;2014-08-16;2015-05-24;20;3;1
+Premier League;2014-08-16;2015-05-24;20;3;1;England
 	Clubs=Chelsea;Manchester City;Arsenal;Manchester United;Tottenham;Liverpool;Southampton;Swansea;Stoke;Crystal Palace;Everton;West Ham;West Bromwich;Leicester;Newcastle;Sunderland;Aston Villa;Hull;Burnley;Queens Park Rangers
 
-Premier League;2013-08-17;2014-05-11;20;3;1
+Premier League;2013-08-17;2014-05-11;20;3;1;England
 	Clubs=Manchester City;Liverpool;Chelsea;Arsenal;Everton;Tottenham;Manchester United;Southampton;Stoke;Newcastle;Crystal Palace;Swansea;West Ham;Sunderland;Aston Villa;Hull;West Bromwich;Norwich;Fulham;Cardiff
 
-Premier League;2012-08-18;2013-05-19;20;3;1
+Premier League;2012-08-18;2013-05-19;20;3;1;England
 	Clubs=Manchester United;Manchester City;Chelsea;Arsenal;Tottenham;Everton;Liverpool;West Bromwich;Swansea;West Ham;Norwich;Fulham;Stoke;Southampton;Aston Villa;Newcastle;Sunderland;Wigan;Reading;Queens Park Rangers
 
-Premier League;2011-08-13;2012-05-13;20;3;1
+Premier League;2011-08-13;2012-05-13;20;3;1;England
 	Clubs=Manchester City;Manchester United;Arsenal;Tottenham;Newcastle;Chelsea;Everton;Liverpool;Fulham;West Bromwich;Swansea;Norwich;Sunderland;Stoke;Wigan;Aston Villa;Queens Park Rangers;Bolton;Blackburn;Wolverhampton
 
-Premier League;2010-08-14;2011-05-22;20;3;1
+Premier League;2010-08-14;2011-05-22;20;3;1;England
 	Clubs=Manchester United;Chelsea;Manchester City;Arsenal;Tottenham;Liverpool;Everton;Fulham;Aston Villa;Sunderland;West Bromwich;Newcastle;Stoke;Bolton;Blackburn;Wigan;Wolverhampton;Birmingham;Blackpool;West Ham
 
-Premier League;2009-08-15;2010-05-09;20;3;1
+Premier League;2009-08-15;2010-05-09;20;3;1;England
 	Clubs=Chelsea;Manchester United;Arsenal;Tottenham;Manchester City;Aston Villa;Liverpool;Everton;Birmingham;Blackburn;Stoke;Fulham;Sunderland;Bolton;Wolverhampton;Wigan;West Ham;Burnley;Hull;Portsmouth
 
-Premier League;2008-08-16;2009-05-24;20;3;1
+Premier League;2008-08-16;2009-05-24;20;3;1;England
 	Clubs=Manchester United;Liverpool;Chelsea;Arsenal;Everton;Aston Villa;Fulham;Tottenham;West Ham;Manchester City;Wigan;Stoke;Bolton;Portsmouth;Blackburn;Sunderland;Hull;Newcastle;Middlesbrough;West Bromwich
 
-Premier League;2007-08-11;2008-05-11;20;3;1
+Premier League;2007-08-11;2008-05-11;20;3;1;England
 	Clubs=Manchester United;Chelsea;Arsenal;Liverpool;Everton;Aston Villa;Blackburn;Portsmouth;Manchester City;West Ham;Tottenham;Newcastle;Middlesbrough;Wigan;Sunderland;Bolton;Fulham;Reading;Birmingham;Derby
 
-Premier League;2006-08-19;2007-05-13;20;3;1
+Premier League;2006-08-19;2007-05-13;20;3;1;England
 	Clubs=Manchester United;Chelsea;Liverpool;Arsenal;Tottenham;Everton;Bolton;Reading;Portsmouth;Blackburn;Aston Villa;Middlesbrough;Newcastle;Manchester City;West Ham;Fulham;Wigan;Sheffield United;Charlton;Watford
 
-Premier League;2005-08-13;2006-05-07;20;3;1
+Premier League;2005-08-13;2006-05-07;20;3;1;England
 	Clubs=Chelsea;Manchester United;Liverpool;Arsenal;Tottenham;Blackburn;Newcastle;Bolton;West Ham;Wigan;Everton;Fulham;Charlton;Middlesbrough;Manchester City;Aston Villa;Portsmouth;Birmingham;West Bromwich;Sunderland
 
-Premier League;2004-08-14;2005-05-15;20;3;1
+Premier League;2004-08-14;2005-05-15;20;3;1;England
 	Clubs=Chelsea;Arsenal;Manchester United;Everton;Liverpool;Bolton;Middlesbrough;Manchester City;Tottenham;Aston Villa;Charlton;Birmingham;Fulham;Newcastle;Blackburn;Portsmouth;West Bromwich;Crystal Palace;Norwich;Southampton
 
-Premier League;2003-08-16;2004-05-15;20;3;1
+Premier League;2003-08-16;2004-05-15;20;3;1;England
 	Clubs=Arsenal;Chelsea;Manchester United;Liverpool;Newcastle;Aston Villa;Charlton;Bolton;Fulham;Birmingham;Middlesbrough;Southampton;Portsmouth;Tottenham;Blackburn;Manchester City;Everton;Leicester;Leeds;Wolverhampton
 
-Premier League;2002-08-17;2003-05-11;20;3;1
+Premier League;2002-08-17;2003-05-11;20;3;1;England
 	Clubs=Manchester United;Arsenal;Newcastle;Chelsea;Liverpool;Blackburn;Everton;Southampton;Manchester City;Tottenham;Middlesbrough;Charlton;Birmingham;Fulham;Leeds;Aston Villa;Bolton;West Ham;West Bromwich;Sunderland
 
-Premier League;2001-08-18;2002-05-11;20;3;1
+Premier League;2001-08-18;2002-05-11;20;3;1;England
 	Clubs=Arsenal;Liverpool;Manchester United;Newcastle;Leeds;Chelsea;West Ham;Aston Villa;Tottenham;Blackburn;Southampton;Middlesbrough;Fulham;Charlton;Everton;Bolton;Sunderland;Ipswich;Derby;Leicester
 
-Premier League;2000-08-19;2001-05-19;20;3;1
+Premier League;2000-08-19;2001-05-19;20;3;1;England
 	Clubs=Manchester United;Arsenal;Liverpool;Leeds;Ipswich;Chelsea;Sunderland;Aston Villa;Charlton;Southampton;Newcastle;Tottenham;Leicester;Middlesbrough;West Ham;Everton;Derby;Manchester City;Coventry;Bradford
 
-Premier League;1999-08-07;2000-05-14;20;3;1
+Premier League;1999-08-07;2000-05-14;20;3;1;England
 	Clubs=Manchester United;Arsenal;Leeds;Liverpool;Chelsea;Aston Villa;Sunderland;Leicester;West Ham;Tottenham;Newcastle;Middlesbrough;Everton;Coventry;Southampton;Derby;Bradford;Milton Keynes Dons;Sheffield Wednesday;Watford
 
-Championship;2015-08-07;2017-05-07;24;3;1
+Championship;2015-08-07;2017-05-07;24;3;1;England
 
-Championship;2016-08-05;2017-05-07;24;3;1
+Championship;2016-08-05;2017-05-07;24;3;1;England
 
-UEFA Champions League;2015-06-10;2016-05-30;0;3;1
+UEFA Champions League;2015-06-10;2016-05-30;0;3;1;Unknown
 
-UEFA Champions League;2016-06-27;2017-05-26;0;3;1
+UEFA Champions League;2016-06-27;2017-05-26;0;3;1;Unknown
 
-UEFA Europa League;2015-06-10;2017-05-30;0;3;1
+UEFA Europa League;2015-06-10;2017-05-30;0;3;1;Unknown
 
-UEFA Europa League;2016-06-29;2017-05-16;0;3;1
+UEFA Europa League;2016-06-29;2017-05-16;0;3;1;Unknown

@@ -1,7 +1,6 @@
 ﻿//
 // Player
 //
-113442;;0001-01-01 00:00:00Z;
 16392;Abdul Bilal Hamid;1990-11-25 00:00:00Z;USA;M&aring;lmand
 16214;Abdul Mumin;1998-06-06 00:00:00Z;Ghana;Forsvarsspiller
 10082;Abdul Sule;1975-01-20 00:00:00Z;Nigeria;Angriber
