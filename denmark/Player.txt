@@ -856,8 +856,8 @@
 10872;Lasse Kronborg;1986-04-03 00:00:00Z;Danmark;Midtbanespiller
 10299;Lasse Kryger;1982-11-03 00:00:00Z;Danmark;Forsvarsspiller
 16259;Lasse Mikkelsen;1998-01-18 00:00:00Z;Danmark;M&aring;lmand
-11033;Lasse Nielsen;1988-01-08 00:00:00Z;Danmark;Forsvarsspiller
 15812;Lasse Nielsen;1987-03-03 00:00:00Z;Danmark;Forsvarsspiller
+11033;Lasse Nielsen;1988-01-08 00:00:00Z;Danmark;Forsvarsspiller
 11510;Lasse Petry Andersen;1992-09-19 00:00:00Z;Danmark;Midtbanespiller
 10775;Lasse Qvist;1987-01-17 00:00:00Z;Danmark;Angriber
 11019;Lasse Rise;1986-06-09 00:00:00Z;Danmark;Angriber
@@ -1011,8 +1011,8 @@
 10154;Martin Sejr Jensen;1973-07-10 00:00:00Z;Danmark;M&aring;lmand
 10856;Martin Spelmann;1987-03-21 00:00:00Z;Danmark;Midtbanespiller
 10693;Martin Søndergaard;1984-07-27 00:00:00Z;Danmark;Forsvarsspiller
-10762;Martin Thomsen;1980-10-31 00:00:00Z;Danmark;Forsvarsspiller
 9577;Martin Thomsen;1982-08-06 00:00:00Z;Danmark;Angriber
+10762;Martin Thomsen;1980-10-31 00:00:00Z;Danmark;Forsvarsspiller
 10365;Martin Ulander;1976-02-23 00:00:00Z;Sverige;Forsvarsspiller
 10707;Martin Vingaard Hansen;1985-03-20 00:00:00Z;Danmark;Midtbanespiller
 10637;Martin Ørnskov Nielsen;1985-10-10 00:00:00Z;Danmark;Midtbanespiller
@@ -1032,8 +1032,8 @@
 16057;Mathias Jensen;1996-01-01 00:00:00Z;Danmark;Midtbanespiller
 16294;Mathias Johannsen;1992-04-27 00:00:00Z;Danmark;Forsvarsspiller
 16415;Mathias Jørgensen;2000-09-20 00:00:00Z;Danmark;Angriber
-16026;Mathias Kristensen;1997-03-21 00:00:00Z;Danmark;Midtbanespiller
 16393;Mathias Kristensen;1993-06-24 00:00:00Z;Danmark;Angriber
+16026;Mathias Kristensen;1997-03-21 00:00:00Z;Danmark;Midtbanespiller
 16202;Mathias Rasmussen;1997-11-25 00:00:00Z;Norge;Midtbanespiller
 16524;Mathias Ross Jensen;2001-01-15 00:00:00Z;Danmark;Forsvarsspiller
 15943;Mathias Schlie;1988-01-31 00:00:00Z;Danmark;Midtbanespiller
@@ -1208,14 +1208,14 @@
 11063;Niclas Tüchsen;1989-07-28 00:00:00Z;Danmark;Midtbanespiller
 16388;Nicolai Baden Frederiksen;2000-05-18 00:00:00Z;Danmark;Angriber
 15797;Nicolai Bak Johannessen;1994-05-22 00:00:00Z;Danmark;Forsvarsspiller
-15764;Nicolai Boilesen;1992-02-16 00:00:00Z;Danmark;Forsvarsspiller
 16223;Nicolai Boilesen;1992-02-16 00:00:00Z;Danmark;Forsvarsspiller
+15764;Nicolai Boilesen;1992-02-16 00:00:00Z;Danmark;Forsvarsspiller
 11558;Nicolai Brock-Madsen;1993-01-09 00:00:00Z;Danmark;Angriber
 16281;Nicolai Dohn;1998-08-18 00:00:00Z;Danmark;Midtbanespiller
 16443;Nicolai Flø Jepsen;1995-09-25 00:00:00Z;Danmark;M&aring;lmand
 10342;Nicolai Jacobsen Høgh;1983-11-09 00:00:00Z;Danmark;Forsvarsspiller
-11572;Nicolai Jørgensen;1991-01-15 00:00:00Z;Danmark;Midtbanespiller
 10231;Nicolai Jørgensen;1980-01-15 00:00:00Z;Danmark;Forsvarsspiller
+11572;Nicolai Jørgensen;1991-01-15 00:00:00Z;Danmark;Midtbanespiller
 10288;Nicolai Melchiorsen;1984-03-09 00:00:00Z;Danmark;Midtbanespiller
 11228;Nicolai Oliver Feldballe Petersen;1990-04-03 00:00:00Z;Danmark;Midtbanespiller
 11352;Nicolai Oppen Larsen;1991-03-09 00:00:00Z;Danmark;M&aring;lmand
@@ -1287,6 +1287,7 @@
 16010;Patrick Andersen;1994-01-03 00:00:00Z;Danmark;Midtbanespiller
 15773;Patrick Banggaard Jensen;1994-04-04 00:00:00Z;Danmark;Forsvarsspiller
 15788;Patrick da Silva;1994-10-23 00:00:00Z;Danmark;Forsvarsspiller
+16593;Patrick Egelund;2000-08-02 00:00:00Z;Danmark;Angriber
 11331;Patrick Hansen;1991-04-15 00:00:00Z;Danmark;Midtbanespiller
 10814;Patrick Kristensen;1987-04-28 00:00:00Z;Danmark;Midtbanespiller
 11110;Patrick Mortensen;1989-07-13 00:00:00Z;Danmark;Angriber
@@ -1528,8 +1529,8 @@
 10037;Søren Berg Andersen;1976-05-15 00:00:00Z;Danmark;Angriber
 10898;Søren Ejlersgård Christensen;1986-06-29 00:00:00Z;Danmark;Midtbanespiller
 10751;Søren Engell Friis;1976-12-13 00:00:00Z;Danmark;Midtbanespiller
-11152;Søren Frederiksen;1989-07-08 00:00:00Z;Danmark;Angriber
 10046;Søren Frederiksen;1972-01-27 00:00:00Z;Danmark;Angriber
+11152;Søren Frederiksen;1989-07-08 00:00:00Z;Danmark;Angriber
 10095;Søren Frimodt Nielsen;1982-08-14 00:00:00Z;Danmark;Midtbanespiller
 10404;Søren Hedegaard Pallesen;1977-10-07 00:00:00Z;Danmark;Midtbanespiller
 11576;Søren Henriksen;1992-02-04 00:00:00Z;Danmark;Forsvarsspiller
