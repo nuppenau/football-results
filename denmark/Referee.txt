@@ -34,6 +34,7 @@
 6381;Mikkel Redder;1993-11-26 00:00:00Z;
 5333;Morten Krogh;1988-03-19 00:00:00Z;
 5014;Nicolai Vollquartz;1965-02-07 00:00:00Z;
+6388;Patrick Stenzel Rasmussen;0001-01-01 00:00:00Z;
 5275;Peter Kjærsgaard-Andersen;1984-04-30 00:00:00Z;
 6380;Peter Munch Larsen;0001-01-01 00:00:00Z;
 5016;Peter Rasmussen;1975-10-15 00:00:00Z;

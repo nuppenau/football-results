@@ -454,6 +454,7 @@
 10741;Frederik Krabbe;1988-03-10 00:00:00Z;Danmark;Forsvarsspiller
 10658;Frederik Lassen;1986-02-20 00:00:00Z;Danmark;Angriber
 16086;Frederik Lauenborg;1997-05-18 00:00:00Z;Danmark;Midtbanespiller
+16439;Frederik Mortensen;1998-10-30 00:00:00Z;Danmark;Midtbanespiller
 15771;Frederik Møller;1993-07-08 00:00:00Z;Danmark;Forsvarsspiller
 11396;Frederik Riis Rønnow;1992-08-04 00:00:00Z;Danmark;M&aring;lmand
 16354;Frederik Roepstorff;1998-06-09 00:00:00Z;Danmark;Midtbanespiller
@@ -541,6 +542,7 @@
 16474;Imed Louati;1993-10-11 00:00:00Z;Tunesien;Angriber
 16212;Indy Groothuizen;1996-07-22 00:00:00Z;Holland;M&aring;lmand
 10870;Issey Morgan Nakajima-Farran;1984-05-16 00:00:00Z;Canada;Midtbanespiller
+16595;Isaac Atanga;2000-06-14 00:00:00Z;Ghana;Angriber
 15712;Isaac Oliseh;1993-08-03 00:00:00Z;Nigeria;Midtbanespiller
 11523;Ivan Runje;1990-10-09 00:00:00Z;Kroatien;Forsvarsspiller
 11226;Izunna Arnest Uzochukwu;1990-04-11 00:00:00Z;Nigeria;Midtbanespiller
@@ -729,6 +731,7 @@
 15881;Julián Luque Conde;1992-03-27 00:00:00Z;Spanien;Midtbanespiller
 16342;Julius Eskesen;1999-03-16 00:00:00Z;Danmark;Midtbanespiller
 16072;Jung-Bin Park;1994-02-22 00:00:00Z;Sydkorea;Midtbanespiller
+16577;Júnior Brumado;1999-05-15 00:00:00Z;Brasilien;Angriber
 10871;Justice John Erhenede;1986-06-26 00:00:00Z;Nigeria;Angriber
 11269;Kaimar Saag;1988-08-05 00:00:00Z;Estland;Angriber
 11370;Kalilou Mohamed Traoré;1987-09-09 00:00:00Z;Mali;Midtbanespiller
@@ -903,6 +906,7 @@
 11222;Mads Fenger Nielsen;1990-09-10 00:00:00Z;Danmark;Forsvarsspiller
 10969;Mads Fogh;1988-09-19 00:00:00Z;Danmark;Midtbanespiller
 10706;Mads Frost;1983-04-06 00:00:00Z;Danmark;Midtbanespiller
+16441;Mads Frøkjær-Jensen;1999-07-29 00:00:00Z;Danmark;Midtbanespiller
 16463;Mads Greve;1989-09-12 00:00:00Z;Danmark;Forsvarsspiller
 11017;Mads Haarslev Thomsen;1989-03-15 00:00:00Z;Danmark;Angriber
 11151;Mads Jessen;1989-10-14 00:00:00Z;Danmark;Midtbanespiller
@@ -1604,6 +1608,7 @@
 16303;Tobias Christensen;1995-01-04 00:00:00Z;Danmark;Midtbanespiller
 16390;Tobias Damsgaard;1998-08-03 00:00:00Z;Danmark;Forsvarsspiller
 10228;Tobias Grahn;1980-03-05 00:00:00Z;Sverige;Midtbanespiller
+16594;Tobias Klysner Breuner;2001-07-03 00:00:00Z;Danmark;Angriber
 10676;Tobias Linderoth;1979-04-21 00:00:00Z;Sverige;Midtbanespiller
 16468;Tobias Mølgaard Henriksen;1996-07-22 00:00:00Z;Danmark;Midtbanespiller
 10990;Tobias Pilegaard Mikkelsen;1986-09-18 00:00:00Z;Danmark;Angriber
