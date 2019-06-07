@@ -311,6 +311,7 @@
 15766;Daniel Monberg Jensen;1979-06-25 00:00:00Z;Danmark;Midtbanespiller
 10644;Daniel Munthe Agger;1984-12-12 00:00:00Z;Danmark;Forsvarsspiller
 11455;Daniel Norouzi;1992-01-03 00:00:00Z;Danmark;Forsvarsspiller
+16596;Daniel Obbekjær;2002-07-16 00:00:00Z;Danmark;Forsvarsspiller
 15874;Daniel Omoya Braaten;1982-05-25 00:00:00Z;Norge;Midtbanespiller
 16117;Daniel O'Shaughnessy;1994-09-14 00:00:00Z;Finland;Forsvarsspiller
 16012;Daniel Royer;1990-05-22 00:00:00Z;Østrig;Midtbanespiller
@@ -451,6 +452,7 @@
 16174;Frederik Gytkjær;1993-03-16 00:00:00Z;Danmark;Midtbanespiller
 11478;Frederik Helstrup Jensen;1993-03-16 00:00:00Z;Danmark;Forsvarsspiller
 11541;Frederik Holst;1994-09-24 00:00:00Z;Danmark;Forsvarsspiller
+16449;Frederik Ibsen;1997-03-20 00:00:00Z;Danmark;M&aring;lmand
 10741;Frederik Krabbe;1988-03-10 00:00:00Z;Danmark;Forsvarsspiller
 10658;Frederik Lassen;1986-02-20 00:00:00Z;Danmark;Angriber
 16086;Frederik Lauenborg;1997-05-18 00:00:00Z;Danmark;Midtbanespiller
@@ -486,6 +488,7 @@
 11122;Gunnar Heidar Thorvaldsson;1982-04-01 00:00:00Z;Island;Angriber
 15794;Gunnar Nielsen;1986-10-07 00:00:00Z;Færøerne;M&aring;lmand
 16160;Gustaf Nilsson;1997-05-23 00:00:00Z;Sverige;Angriber
+16597;Gustav Grubbe Madsen;2003-01-27 00:00:00Z;Danmark;Forsvarsspiller
 16006;Gustav Klitgaard Dahl;1996-01-21 00:00:00Z;Danmark;Midtbanespiller
 16228;Gustav Mendonca Wikheim;1993-03-18 00:00:00Z;Norge;Midtbanespiller
 16282;Gustav Ølsted Marcussen;1998-06-12 00:00:00Z;Danmark;Midtbanespiller
@@ -892,6 +895,7 @@
 16421;Lukas Bornhøft Jensen;1999-03-18 00:00:00Z;Danmark;M&aring;lmand
 11503;Lukas Fernandes;1993-03-01 00:00:00Z;Danmark;M&aring;lmand
 11216;Lukáš Hrádecký;1989-11-24 00:00:00Z;Finland;M&aring;lmand
+16386;Lukas Klitten;2000-05-01 00:00:00Z;Danmark;Forsvarsspiller
 15857;Lukas Lerager;1993-07-12 00:00:00Z;Danmark;Midtbanespiller
 15836;Lukas Spalvis;1994-07-27 00:00:00Z;Litauen;Angriber
 11215;Luton Shelton;1985-11-11 00:00:00Z;Jamaica;Angriber
@@ -930,6 +934,7 @@
 15803;Mads Aaquist;1994-12-31 00:00:00Z;Danmark;Forsvarsspiller
 10677;Magne Hoseth;1980-10-13 00:00:00Z;Norge;Midtbanespiller
 10823;Magne Sturød;1979-10-19 00:00:00Z;Norge;Midtbanespiller
+16542;Magnus Anbo Clausen;2000-09-18 00:00:00Z;Danmark;Forsvarsspiller
 16151;Magnus Christensen;1997-08-20 00:00:00Z;Danmark;Angriber
 16047;Magnus Eriksson;1990-04-08 00:00:00Z;Sverige;Angriber
 16418;Magnus Hee Westergaard;1998-05-27 00:00:00Z;Danmark;Midtbanespiller
@@ -1268,6 +1273,7 @@
 16382;Oliver Drost;1995-11-04 00:00:00Z;Danmark;Angriber
 15851;Oliver Eyro Thychosen;1993-01-17 00:00:00Z;Danmark;Angriber
 16278;Oliver Kjærgaard;1998-07-11 00:00:00Z;Danmark;Midtbanespiller
+16588;Oliver Klitten;2000-05-01 00:00:00Z;Danmark;Midtbanespiller
 11417;Oliver Larsen;1991-11-12 00:00:00Z;Danmark;Forsvarsspiller
 15815;Oliver Lund;1990-08-21 00:00:00Z;Danmark;Forsvarsspiller
 16489;Oliver Olsen;2000-08-13 00:00:00Z;Danmark;Forsvarsspiller

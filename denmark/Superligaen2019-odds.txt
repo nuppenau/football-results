@@ -19,19 +19,22 @@ Superligaen|Grundspil;2019-02-09 16:00:00Z;Vejle Boldklub;SønderjyskE
 	Odds=YouBet;2,6;3,25;2,75;94,7;2018-12-19 00:00:00Z
 	Odds=NordicBet;2,65;3,3;2,75;95,8;2018-12-19 00:00:00Z
 Superligaen|Grundspil;2019-02-10 12:00:00Z;Hobro;AC Horsens
+	Odds=YouBet;2,45;3,3;2,95;95,2;2018-12-19 00:00:00Z
+	Odds=NordicBet;2,4;3,35;2,9;94,3;2018-12-19 00:00:00Z
+Superligaen|Grundspil;2019-02-10 12:00:00Z;Hobro;AC Horsens
 	Odds=YouBet;2,65;3,25;2,7;94,7;2019-02-03 00:00:00Z
 	Odds=bet365;2,55;3,3;2,62;92,9;2019-02-05 00:00:00Z
 	Odds=NordicBet;2,65;3,25;2,75;95,4;2019-02-06 00:00:00Z
 	Odds=Oddset;2,7;3,25;2,7;95,4;2019-02-08 00:00:00Z
-Superligaen|Grundspil;2019-02-10 12:00:00Z;Hobro;AC Horsens
-	Odds=YouBet;2,45;3,3;2,95;95,2;2018-12-19 00:00:00Z
-	Odds=NordicBet;2,4;3,35;2,9;94,3;2018-12-19 00:00:00Z
+Superligaen|Grundspil;2019-02-10 14:00:00Z;AaB;Randers FC
+	Odds=NordicBet;2,11;3,35;3,7;95,9;2018-12-19 00:00:00Z
+	Odds=YouBet;2,05;3,3;3,75;94,6;2018-12-19 00:00:00Z
 Superligaen|Grundspil;2019-02-10 14:00:00Z;AaB;Randers FC
 	Odds=bet365;2,2;3,2;3,4;94,2;2018-12-30 00:00:00Z
 	Odds=YouBet;2,15;3,25;3,45;94,1;2019-01-30 00:00:00Z
 	Odds=Oddset;2,15;3,3;3,5;94,9;2019-02-05 00:00:00Z
 	Odds=NordicBet;2,12;3,35;3,6;95,4;2019-02-07 00:00:00Z
-Superligaen|Grundspil;2019-02-10 14:00:00Z;AaB;Randers FC
+Superligaen|Grundspil;2019-02-10 15:00:00Z;AaB;Randers FC
 	Odds=NordicBet;2,11;3,35;3,7;95,9;2018-12-19 00:00:00Z
 	Odds=YouBet;2,05;3,3;3,75;94,6;2018-12-19 00:00:00Z
 Superligaen|Grundspil;2019-02-10 15:00:00Z;Hobro;AC Horsens
@@ -40,9 +43,6 @@ Superligaen|Grundspil;2019-02-10 15:00:00Z;Hobro;AC Horsens
 Superligaen|Grundspil;2019-02-10 15:00:00Z;FC København;OB
 	Odds=NordicBet;1,5;4,3;6,85;95,7;2018-12-19 00:00:00Z
 	Odds=YouBet;1,51;4,1;6,4;94,1;2018-12-19 00:00:00Z
-Superligaen|Grundspil;2019-02-10 15:00:00Z;AaB;Randers FC
-	Odds=NordicBet;2,11;3,35;3,7;95,9;2018-12-19 00:00:00Z
-	Odds=YouBet;2,05;3,3;3,75;94,6;2018-12-19 00:00:00Z
 Superligaen|Grundspil;2019-02-10 15:00:00Z;FC Nordsjælland;Brøndby IF
 	Odds=NordicBet;3,4;3,5;2,16;95,9;2018-12-19 00:00:00Z
 	Odds=YouBet;3,25;3,45;2,15;94,1;2018-12-19 00:00:00Z
@@ -106,13 +106,13 @@ Superligaen|Grundspil;2019-02-23 16:00:00Z;Vejle Boldklub;FC Nordsjælland
 	Odds=NordicBet;3,3;3,65;2,12;95,4;2019-02-22 00:00:00Z
 	Odds=bet365;3,5;3,5;2,05;94,4;2019-02-22 00:00:00Z
 Superligaen|Grundspil;2019-02-24 12:00:00Z;Hobro;Esbjerg fB
-	Odds=Oddset;3,55;3,25;2,2;95,8;2019-02-23 00:00:00Z
-	Odds=bet365;3,1;3,4;2,25;94,2;2019-02-23 00:00:00Z
-	Odds=NordicBet;3,1;3,25;2,38;95,2;2019-02-23 00:00:00Z
-Superligaen|Grundspil;2019-02-24 12:00:00Z;Hobro;Esbjerg fB
 	Odds=bet365;3,1;3,3;2,25;93,5;2019-02-19 00:00:00Z
 	Odds=Oddset;3,15;3,2;2,4;95,5;2019-02-20 00:00:00Z
 	Odds=NordicBet;3,05;3,25;2,4;95;2019-02-22 00:00:00Z
+Superligaen|Grundspil;2019-02-24 12:00:00Z;Hobro;Esbjerg fB
+	Odds=Oddset;3,55;3,25;2,2;95,8;2019-02-23 00:00:00Z
+	Odds=bet365;3,1;3,4;2,25;94,2;2019-02-23 00:00:00Z
+	Odds=NordicBet;3,1;3,25;2,38;95,2;2019-02-23 00:00:00Z
 Superligaen|Grundspil;2019-02-24 14:00:00Z;AC Horsens;OB
 	Odds=Oddset;3,45;3,4;2,15;95,3;2019-02-21 00:00:00Z
 	Odds=bet365;3,5;3,6;2;94;2019-02-23 00:00:00Z
@@ -131,12 +131,12 @@ Superligaen|Grundspil;2019-02-24 16:00:00Z;AGF;FC Midtjylland
 	Odds=NordicBet;4,4;3,7;1,82;95,5;2019-02-22 00:00:00Z
 Superligaen|Grundspil;2019-02-24 18:00:00Z;Brøndby IF;Randers FC
 	Odds=Oddset;1,9;3,7;3,95;95,3;2019-02-18 00:00:00Z
-	Odds=NordicBet;1,97;3,75;3,65;95,4;2019-02-22 00:00:00Z
-	Odds=bet365;1,9;4;3,6;94,9;2019-02-22 00:00:00Z
-Superligaen|Grundspil;2019-02-24 18:00:00Z;Brøndby IF;Randers FC
-	Odds=Oddset;1,9;3,7;3,95;95,3;2019-02-18 00:00:00Z
 	Odds=bet365;1,9;4;3,6;94,9;2019-02-22 00:00:00Z
 	Odds=NordicBet;1,97;3,7;3,7;95,4;2019-02-22 00:00:00Z
+Superligaen|Grundspil;2019-02-24 18:00:00Z;Brøndby IF;Randers FC
+	Odds=Oddset;1,9;3,7;3,95;95,3;2019-02-18 00:00:00Z
+	Odds=NordicBet;1,97;3,75;3,65;95,4;2019-02-22 00:00:00Z
+	Odds=bet365;1,9;4;3,6;94,9;2019-02-22 00:00:00Z
 Superligaen|Grundspil;2019-02-25 19:00:00Z;FC København;Vendsyssel
 	Odds=bet365;1,18;6,5;15;93,6;2019-02-17 00:00:00Z
 	Odds=Oddset;1,16;7,5;19;95,4;2019-02-18 00:00:00Z
@@ -146,6 +146,10 @@ Superligaen|Grundspil;2019-02-25 19:00:00Z;FC København;Vendsyssel
 	Odds=Oddset;1,16;7,5;19;95,4;2019-02-18 00:00:00Z
 	Odds=NordicBet;1,16;7,75;20;96,1;2019-02-23 00:00:00Z
 Superligaen|Grundspil;2019-03-01 19:00:00Z;AaB;Hobro
+	Odds=Oddset;1,58;4;6;95,3;2019-02-25 00:00:00Z
+	Odds=bet365;1,61;3,6;6;93,8;2019-02-26 00:00:00Z
+	Odds=NordicBet;1,66;3,95;5,25;95,6;2019-02-27 00:00:00Z
+Superligaen|Grundspil;2019-03-01 19:00:00Z;AaB;Hobro
 	Odds=Oddset;1,67;3,85;5,2;95,2;2019-03-01 00:00:00Z
 	Odds=NordicBet;1,67;3,7;5,65;95,6;2019-03-01 00:00:00Z
 	Odds=bet365;1,61;3,6;6;93,8;2019-03-01 00:00:00Z
@@ -153,10 +157,6 @@ Superligaen|Grundspil;2019-03-01 19:00:00Z;AaB;Hobro
 	Odds=Oddset;1,58;4;6;95,3;2019-02-25 00:00:00Z
 	Odds=bet365;1,61;3,6;6;93,8;2019-02-26 00:00:00Z
 	Odds=NordicBet;1,66;4;5,15;95,5;2019-02-28 00:00:00Z
-Superligaen|Grundspil;2019-03-01 19:00:00Z;AaB;Hobro
-	Odds=Oddset;1,58;4;6;95,3;2019-02-25 00:00:00Z
-	Odds=bet365;1,61;3,6;6;93,8;2019-02-26 00:00:00Z
-	Odds=NordicBet;1,66;3,95;5,25;95,6;2019-02-27 00:00:00Z
 Superligaen|Grundspil;2019-03-01 19:00:00Z;AaB;Hobro
 	Odds=Oddset;1,45;4,3;7,5;94,7;2019-02-23 00:00:00Z
 Superligaen|Grundspil;2019-03-02 16:00:00Z;Esbjerg fB;AC Horsens
@@ -521,16 +521,12 @@ Superligaen|Grundspil;2019-03-17 17:00:00Z;FC København;Hobro
 	Odds=Oddset;1,2;6,7;15;95,3;2019-03-11 00:00:00Z
 	Odds=NordicBet;1,2;6,95;15,5;96;2019-03-15 00:00:00Z
 	Odds=bet365;1,16;6,5;19;93,6;2019-03-16 00:00:00Z
-Superligaen;2019-03-17 17:00:00Z;OB;Randers FC
-	Odds=NordicBet;2,13;3,45;3,45;95,3;2019-03-12 00:00:00Z
-	Odds=Oddset;2,05;3,5;3,6;95,1;2019-03-12 00:00:00Z
-	Odds=bet365;2,1;3,4;3,4;93,9;2019-03-12 00:00:00Z
 Superligaen|Grundspil;2019-03-17 17:00:00Z;OB;Randers FC
 	Odds=Oddset;1,9;3,65;3,95;94,9;2019-03-11 00:00:00Z
-Superligaen|Grundspil;2019-03-17 17:00:00Z;FC Midtjylland;SønderjyskE
-	Odds=Oddset;1,3;5,6;10;95,4;2019-03-14 00:00:00Z
-	Odds=bet365;1,28;5;12;93,9;2019-03-14 00:00:00Z
-	Odds=NordicBet;1,29;5,65;10,5;95,5;2019-03-17 00:00:00Z
+Superligaen|Grundspil;2019-03-17 17:00:00Z;FC København;Hobro
+	Odds=Oddset;1,2;6,7;15;95,3;2019-03-11 00:00:00Z
+	Odds=NordicBet;1,23;6,55;12,5;95,6;2019-03-17 00:00:00Z
+	Odds=bet365;1,22;6;13;94,1;2019-03-17 00:00:00Z
 Superligaen|Grundspil;2019-03-17 17:00:00Z;FC Midtjylland;SønderjyskE
 	Odds=Oddset;1,3;5,6;10;95,4;2019-03-14 00:00:00Z
 	Odds=bet365;1,28;5;12;93,9;2019-03-14 00:00:00Z
@@ -571,6 +567,10 @@ Superligaen|Grundspil;2019-03-17 17:00:00Z;Vendsyssel;FC Nordsjælland
 	Odds=Oddset;4,3;4,1;1,75;95,4;2019-03-12 00:00:00Z
 	Odds=bet365;4,33;3,8;1,75;93,8;2019-03-12 00:00:00Z
 	Odds=NordicBet;4,2;4;1,79;95,5;2019-03-13 00:00:00Z
+Superligaen|Grundspil;2019-03-17 17:00:00Z;Vendsyssel;FC Nordsjælland
+	Odds=Oddset;4,3;4,1;1,75;95,4;2019-03-12 00:00:00Z
+	Odds=bet365;4,33;3,8;1,75;93,8;2019-03-12 00:00:00Z
+	Odds=NordicBet;4,2;4;1,79;95,5;2019-03-13 00:00:00Z
 Superligaen;2019-03-17 17:00:00Z;Vendsyssel;FC Nordsjælland
 	Odds=NordicBet;4,15;3,9;1,82;95,5;2019-03-12 00:00:00Z
 	Odds=Oddset;4,3;4,1;1,75;95,4;2019-03-12 00:00:00Z
@@ -603,22 +603,18 @@ Superligaen;2019-03-17 17:00:00Z;AaB;AGF
 	Odds=bet365;1,85;3,8;3,9;94,3;2019-03-11 00:00:00Z
 	Odds=Oddset;1,92;3,9;3,65;95,1;2019-03-12 00:00:00Z
 	Odds=NordicBet;1,87;3,9;3,9;95,5;2019-03-12 00:00:00Z
+Superligaen;2019-03-17 17:00:00Z;OB;Randers FC
+	Odds=NordicBet;2,13;3,45;3,45;95,3;2019-03-12 00:00:00Z
+	Odds=Oddset;2,05;3,5;3,6;95,1;2019-03-12 00:00:00Z
+	Odds=bet365;2,1;3,4;3,4;93,9;2019-03-12 00:00:00Z
 Superligaen|Grundspil;2019-03-17 17:00:00Z;OB;Randers FC
 	Odds=bet365;2,15;3,4;3,3;94,1;2019-03-12 00:00:00Z
 	Odds=Oddset;2,05;3,5;3,6;95,1;2019-03-12 00:00:00Z
 	Odds=NordicBet;2,13;3,45;3,45;95,3;2019-03-13 00:00:00Z
-Superligaen|Grundspil;2019-03-17 17:00:00Z;OB;Randers FC
-	Odds=Oddset;2,05;3,5;3,6;95,1;2019-03-12 00:00:00Z
-	Odds=bet365;2,1;3,4;3,4;93,9;2019-03-13 00:00:00Z
-	Odds=NordicBet;2,1;3,5;3,5;95,5;2019-03-14 00:00:00Z
-Superligaen|Grundspil;2019-03-17 17:00:00Z;Vendsyssel;FC Nordsjælland
-	Odds=Oddset;4,3;4,1;1,75;95,4;2019-03-12 00:00:00Z
-	Odds=bet365;4,33;3,8;1,75;93,8;2019-03-12 00:00:00Z
-	Odds=NordicBet;4,2;4;1,79;95,5;2019-03-13 00:00:00Z
-Superligaen|Grundspil;2019-03-17 17:00:00Z;OB;Randers FC
-	Odds=Oddset;2,05;3,5;3,6;95,1;2019-03-12 00:00:00Z
-	Odds=bet365;1,95;3,5;3,75;93,9;2019-03-15 00:00:00Z
-	Odds=NordicBet;2;3,55;3,75;95,4;2019-03-16 00:00:00Z
+Superligaen|Grundspil;2019-03-17 17:00:00Z;FC Midtjylland;SønderjyskE
+	Odds=Oddset;1,3;5,6;10;95,4;2019-03-14 00:00:00Z
+	Odds=bet365;1,28;5;12;93,9;2019-03-14 00:00:00Z
+	Odds=NordicBet;1,29;5,65;10,5;95,5;2019-03-17 00:00:00Z
 Superligaen;2019-03-17 17:00:00Z;OB;Randers FC
 	Odds=Oddset;2,05;3,5;3,6;95,1;2019-03-12 00:00:00Z
 	Odds=bet365;1,95;3,5;3,75;93,9;2019-03-15 00:00:00Z
@@ -651,34 +647,49 @@ Superligaen|Grundspil;2019-03-17 17:00:00Z;AC Horsens;Brøndby IF
 	Odds=Oddset;4;3,65;1,9;95,2;2019-03-12 00:00:00Z
 	Odds=bet365;3,8;3,5;1,95;94,2;2019-03-12 00:00:00Z
 	Odds=NordicBet;3,65;3,65;2;95,4;2019-03-15 00:00:00Z
-Superligaen;2019-03-17 17:00:00Z;AC Horsens;Brøndby IF
-	Odds=Oddset;4;3,65;1,9;95,2;2019-03-12 00:00:00Z
-	Odds=bet365;3,8;3,5;1,95;94,2;2019-03-12 00:00:00Z
-	Odds=NordicBet;3,65;3,65;2;95,4;2019-03-15 00:00:00Z
+Superligaen|Grundspil;2019-03-17 17:00:00Z;OB;Randers FC
+	Odds=Oddset;2,05;3,5;3,6;95,1;2019-03-12 00:00:00Z
+	Odds=bet365;2,1;3,4;3,4;93,9;2019-03-13 00:00:00Z
+	Odds=NordicBet;2,1;3,5;3,5;95,5;2019-03-14 00:00:00Z
 Superligaen|Grundspil;2019-03-17 17:00:00Z;AC Horsens;Brøndby IF
 	Odds=Oddset;4;3,65;1,9;95,2;2019-03-12 00:00:00Z
 	Odds=bet365;3,8;3,5;1,95;94,2;2019-03-12 00:00:00Z
 	Odds=NordicBet;3,65;3,7;1,99;95,5;2019-03-13 00:00:00Z
-Superligaen|Grundspil;2019-03-17 17:00:00Z;FC København;Hobro
-	Odds=Oddset;1,2;6,7;15;95,3;2019-03-11 00:00:00Z
-	Odds=NordicBet;1,23;6,55;12,5;95,6;2019-03-17 00:00:00Z
-	Odds=bet365;1,22;6;13;94,1;2019-03-17 00:00:00Z
-Superligaen;2019-03-17 17:00:00Z;AC Horsens;Brøndby IF
-	Odds=NordicBet;3,7;3,75;1,96;95,5;2019-03-12 00:00:00Z
-	Odds=Oddset;4;3,65;1,9;95,2;2019-03-12 00:00:00Z
-	Odds=bet365;3,8;3,5;1,95;94,2;2019-03-12 00:00:00Z
-Superligaen|Grundspil;2019-03-17 17:00:00Z;AC Horsens;Brøndby IF
-	Odds=NordicBet;3,65;3,7;1,99;95,5;2019-03-11 00:00:00Z
-	Odds=Oddset;4,1;3,65;1,85;94,5;2019-03-11 00:00:00Z
-	Odds=bet365;4,2;3,5;1,85;94;2019-03-11 00:00:00Z
 Superligaen|Grundspil;2019-03-17 17:00:00Z;AC Horsens;Brøndby IF
 	Odds=Oddset;4;3,65;1,9;95,2;2019-03-12 00:00:00Z
 	Odds=bet365;3,8;3,5;1,95;94,2;2019-03-12 00:00:00Z
 	Odds=NordicBet;3,7;3,65;1,99;95,5;2019-03-13 00:00:00Z
+Superligaen;2019-03-17 17:00:00Z;AC Horsens;Brøndby IF
+	Odds=NordicBet;3,7;3,75;1,96;95,5;2019-03-12 00:00:00Z
+	Odds=Oddset;4;3,65;1,9;95,2;2019-03-12 00:00:00Z
+	Odds=bet365;3,8;3,5;1,95;94,2;2019-03-12 00:00:00Z
+Superligaen;2019-03-17 17:00:00Z;AC Horsens;Brøndby IF
+	Odds=Oddset;4;3,65;1,9;95,2;2019-03-12 00:00:00Z
+	Odds=bet365;3,8;3,5;1,95;94,2;2019-03-12 00:00:00Z
+	Odds=NordicBet;3,65;3,65;2;95,4;2019-03-15 00:00:00Z
 Superligaen|Grundspil;2019-03-17 17:00:00Z;Esbjerg fB;Vejle Boldklub
 	Odds=Oddset;2,1;3,25;3,7;94,9;2019-03-14 00:00:00Z
 	Odds=bet365;2,05;3,2;3,8;94;2019-03-17 00:00:00Z
 	Odds=NordicBet;2,15;3,2;3,7;95,4;2019-03-17 00:00:00Z
+Superligaen|Grundspil;2019-03-17 17:00:00Z;AC Horsens;Brøndby IF
+	Odds=NordicBet;3,65;3,7;1,99;95,5;2019-03-11 00:00:00Z
+	Odds=Oddset;4,1;3,65;1,85;94,5;2019-03-11 00:00:00Z
+	Odds=bet365;4,2;3,5;1,85;94;2019-03-11 00:00:00Z
+Superligaen|Grundspil;2019-03-17 17:00:00Z;OB;Randers FC
+	Odds=Oddset;2,05;3,5;3,6;95,1;2019-03-12 00:00:00Z
+	Odds=bet365;2;3,5;3,6;94;2019-03-16 00:00:00Z
+	Odds=NordicBet;2,03;3,5;3,7;95,4;2019-03-17 00:00:00Z
+Superligaen|Grundspil;2019-03-17 17:00:00Z;Esbjerg fB;Vejle Boldklub
+	Odds=NordicBet;2,1;3,35;3,65;95,4;2019-03-11 00:00:00Z
+	Odds=bet365;2;3,25;4;94,5;2019-03-11 00:00:00Z
+Superligaen;2019-03-17 17:00:00Z;Esbjerg fB;Vejle Boldklub
+	Odds=NordicBet;2,11;3,25;3,75;95,4;2019-03-12 00:00:00Z
+	Odds=Oddset;2;3,4;3,9;95,2;2019-03-12 00:00:00Z
+	Odds=bet365;2;3,4;3,75;94,3;2019-03-12 00:00:00Z
+Superligaen|Grundspil;2019-03-17 17:00:00Z;OB;Randers FC
+	Odds=Oddset;2,05;3,5;3,6;95,1;2019-03-12 00:00:00Z
+	Odds=bet365;1,95;3,5;3,75;93,9;2019-03-15 00:00:00Z
+	Odds=NordicBet;2;3,55;3,75;95,4;2019-03-16 00:00:00Z
 Superligaen|Grundspil;2019-03-17 17:00:00Z;Esbjerg fB;Vejle Boldklub
 	Odds=bet365;2,05;3,2;3,75;93,7;2019-03-13 00:00:00Z
 	Odds=Oddset;2,1;3,25;3,7;94,9;2019-03-14 00:00:00Z
@@ -695,33 +706,6 @@ Superligaen|Grundspil;2019-03-17 17:00:00Z;Esbjerg fB;Vejle Boldklub
 	Odds=NordicBet;2,1;3,35;3,65;95,4;2019-03-13 00:00:00Z
 	Odds=Oddset;2;3,4;3,9;95,2;2019-03-13 00:00:00Z
 	Odds=bet365;2,15;3,2;3,5;94;2019-03-13 00:00:00Z
-Superligaen;2019-03-17 17:00:00Z;Esbjerg fB;Vejle Boldklub
-	Odds=NordicBet;2,11;3,25;3,75;95,4;2019-03-12 00:00:00Z
-	Odds=Oddset;2;3,4;3,9;95,2;2019-03-12 00:00:00Z
-	Odds=bet365;2;3,4;3,75;94,3;2019-03-12 00:00:00Z
-Superligaen|Grundspil;2019-03-17 17:00:00Z;Esbjerg fB;Vejle Boldklub
-	Odds=NordicBet;2,1;3,35;3,65;95,4;2019-03-11 00:00:00Z
-	Odds=bet365;2;3,25;4;94,5;2019-03-11 00:00:00Z
-Superligaen|Grundspil;2019-03-17 17:00:00Z;OB;Randers FC
-	Odds=Oddset;2,05;3,5;3,6;95,1;2019-03-12 00:00:00Z
-	Odds=bet365;2;3,5;3,6;94;2019-03-16 00:00:00Z
-	Odds=NordicBet;2,03;3,5;3,7;95,4;2019-03-17 00:00:00Z
-Superligaen|Mesterskabsspil;2019-03-29 19:00:00Z;Brøndby IF;OB
-	Odds=Oddset;2,15;3,65;3,25;95,5;2019-03-25 00:00:00Z
-	Odds=bet365;2,15;3,5;3,2;94;2019-03-26 00:00:00Z
-	Odds=NordicBet;2,23;3,65;3,05;95,2;2019-03-29 00:00:00Z
-Superligaen|Mesterskabsspil;2019-03-29 19:00:00Z;Brøndby IF;OB
-	Odds=Oddset;2,15;3,65;3,25;95,5;2019-03-25 00:00:00Z
-	Odds=bet365;2,15;3,5;3,2;94;2019-03-26 00:00:00Z
-	Odds=NordicBet;2,23;3,65;3,05;95,2;2019-03-28 00:00:00Z
-Superligaen|Mesterskabsspil;2019-03-29 19:00:00Z;Brøndby IF;OB
-	Odds=Oddset;2,15;3,65;3,25;95,5;2019-03-25 00:00:00Z
-	Odds=bet365;2,15;3,5;3,2;94;2019-03-26 00:00:00Z
-	Odds=NordicBet;2,26;3,6;3,05;95,4;2019-03-27 00:00:00Z
-Superligaen|Mesterskabsspil;2019-03-29 19:00:00Z;Brøndby IF;OB
-	Odds=NordicBet;2,16;3,65;3,2;95,3;2019-03-25 00:00:00Z
-	Odds=Oddset;2,15;3,65;3,25;95,5;2019-03-25 00:00:00Z
-	Odds=bet365;2,15;3,5;3,2;94;2019-03-26 00:00:00Z
 Superligaen|Mesterskabsspil;2019-03-29 19:00:00Z;Brøndby IF;OB
 	Odds=Oddset;2,1;3,45;3,45;94,7;2019-03-20 00:00:00Z
 	Odds=bet365;2,1;3,5;3,3;93,9;2019-03-21 00:00:00Z
@@ -734,6 +718,26 @@ Superligaen|Mesterskabsspil;2019-03-29 19:00:00Z;Brøndby IF;OB
 	Odds=NordicBet;2,16;3,6;3,25;95,4;2019-03-21 00:00:00Z
 	Odds=bet365;2,1;3,5;3,3;93,9;2019-03-21 00:00:00Z
 	Odds=Oddset;2,1;3,45;3,45;94,7;2019-03-22 00:00:00Z
+Superligaen|Mesterskabsspil;2019-03-29 19:00:00Z;Brøndby IF;OB
+	Odds=NordicBet;2,16;3,6;3,25;95,4;2019-03-21 00:00:00Z
+	Odds=Oddset;2,15;3,65;3,25;95,5;2019-03-25 00:00:00Z
+	Odds=bet365;2,05;3,5;3,4;93,7;2019-03-25 00:00:00Z
+Superligaen|Mesterskabsspil;2019-03-29 19:00:00Z;Brøndby IF;OB
+	Odds=NordicBet;2,16;3,65;3,2;95,3;2019-03-25 00:00:00Z
+	Odds=Oddset;2,15;3,65;3,25;95,5;2019-03-25 00:00:00Z
+	Odds=bet365;2,15;3,5;3,2;94;2019-03-26 00:00:00Z
+Superligaen|Mesterskabsspil;2019-03-29 19:00:00Z;Brøndby IF;OB
+	Odds=Oddset;2,15;3,65;3,25;95,5;2019-03-25 00:00:00Z
+	Odds=bet365;2,15;3,5;3,2;94;2019-03-26 00:00:00Z
+	Odds=NordicBet;2,26;3,6;3,05;95,4;2019-03-27 00:00:00Z
+Superligaen|Mesterskabsspil;2019-03-29 19:00:00Z;Brøndby IF;OB
+	Odds=Oddset;2,15;3,65;3,25;95,5;2019-03-25 00:00:00Z
+	Odds=bet365;2,15;3,5;3,2;94;2019-03-26 00:00:00Z
+	Odds=NordicBet;2,23;3,65;3,05;95,2;2019-03-28 00:00:00Z
+Superligaen|Mesterskabsspil;2019-03-29 19:00:00Z;Brøndby IF;OB
+	Odds=Oddset;2,15;3,65;3,25;95,5;2019-03-25 00:00:00Z
+	Odds=bet365;2,15;3,5;3,2;94;2019-03-26 00:00:00Z
+	Odds=NordicBet;2,23;3,65;3,05;95,2;2019-03-29 00:00:00Z
 Superligaen|Mesterskabsspil;2019-03-29 19:00:00Z;Brøndby IF;OB
 	Odds=Oddset;2,1;3,45;3,45;94,7;2019-03-20 00:00:00Z
 	Odds=NordicBet;2,1;3,65;3,35;95,4;2019-03-21 00:00:00Z
@@ -742,10 +746,42 @@ Superligaen|Mesterskabsspil;2019-03-29 19:00:00Z;Brøndby IF;OB
 	Odds=bet365;2,15;3,5;3,25;94,5;2019-03-19 00:00:00Z
 	Odds=Oddset;2,1;3,45;3,45;94,7;2019-03-20 00:00:00Z
 	Odds=NordicBet;2,13;3,55;3,35;95,3;2019-03-20 00:00:00Z
-Superligaen|Mesterskabsspil;2019-03-29 19:00:00Z;Brøndby IF;OB
-	Odds=NordicBet;2,16;3,6;3,25;95,4;2019-03-21 00:00:00Z
-	Odds=Oddset;2,15;3,65;3,25;95,5;2019-03-25 00:00:00Z
-	Odds=bet365;2,05;3,5;3,4;93,7;2019-03-25 00:00:00Z
+Superligaen|Mesterskabsspil;2019-03-30 16:00:00Z;FC Midtjylland;FC Nordsjælland
+	Odds=Oddset;1,55;4;6,2;94,7;2019-03-20 00:00:00Z
+	Odds=bet365;1,5;4,5;5,75;94,1;2019-03-21 00:00:00Z
+	Odds=NordicBet;1,55;4,65;5,45;95,8;2019-03-21 00:00:00Z
+Superligaen|Mesterskabsspil;2019-03-30 16:00:00Z;FC Midtjylland;FC Nordsjælland
+	Odds=Oddset;1,55;4;6,2;94,7;2019-03-20 00:00:00Z
+	Odds=bet365;1,5;4,5;5,75;94,1;2019-03-21 00:00:00Z
+	Odds=NordicBet;1,55;4,65;5,45;95,8;2019-03-21 00:00:00Z
+Superligaen|Mesterskabsspil;2019-03-30 16:00:00Z;FC Midtjylland;FC Nordsjælland
+	Odds=Oddset;1,52;4,6;5,8;95,4;2019-03-25 00:00:00Z
+	Odds=NordicBet;1,51;4,7;5,95;95,9;2019-03-30 00:00:00Z
+	Odds=bet365;1,45;4,8;6;93,9;2019-03-30 00:00:00Z
+Superligaen|Mesterskabsspil;2019-03-30 16:00:00Z;FC Midtjylland;FC Nordsjælland
+	Odds=Oddset;1,52;4,6;5,8;95,4;2019-03-25 00:00:00Z
+	Odds=bet365;1,5;4,5;5,75;94,1;2019-03-26 00:00:00Z
+	Odds=NordicBet;1,52;4,65;5,85;95,8;2019-03-28 00:00:00Z
+Superligaen|Mesterskabsspil;2019-03-30 16:00:00Z;FC Midtjylland;FC Nordsjælland
+	Odds=Oddset;1,52;4,6;5,8;95,4;2019-03-25 00:00:00Z
+	Odds=bet365;1,5;4,5;5,75;94,1;2019-03-26 00:00:00Z
+	Odds=NordicBet;1,52;4,65;5,85;95,8;2019-03-28 00:00:00Z
+Superligaen|Mesterskabsspil;2019-03-30 16:00:00Z;FC Midtjylland;FC Nordsjælland
+	Odds=NordicBet;1,52;4,65;5,85;95,8;2019-03-25 00:00:00Z
+	Odds=Oddset;1,52;4,6;5,8;95,4;2019-03-25 00:00:00Z
+	Odds=bet365;1,5;4,5;5,75;94,1;2019-03-26 00:00:00Z
+Superligaen|Mesterskabsspil;2019-03-30 16:00:00Z;FC Midtjylland;FC Nordsjælland
+	Odds=NordicBet;1,52;4,65;5,85;95,8;2019-03-25 00:00:00Z
+	Odds=Oddset;1,52;4,6;5,8;95,4;2019-03-25 00:00:00Z
+	Odds=bet365;1,5;4,5;5,75;94,1;2019-03-26 00:00:00Z
+Superligaen|Mesterskabsspil;2019-03-30 16:00:00Z;FC Midtjylland;FC Nordsjælland
+	Odds=NordicBet;1,52;4,65;5,85;95,8;2019-03-25 00:00:00Z
+	Odds=Oddset;1,52;4,6;5,8;95,4;2019-03-25 00:00:00Z
+	Odds=bet365;1,53;4,5;5,5;94,6;2019-03-25 00:00:00Z
+Superligaen|Mesterskabsspil;2019-03-30 16:00:00Z;FC Midtjylland;FC Nordsjælland
+	Odds=Oddset;1,55;4;6,2;94,7;2019-03-20 00:00:00Z
+	Odds=bet365;1,5;4,5;5,75;94,1;2019-03-21 00:00:00Z
+	Odds=NordicBet;1,55;4,65;5,45;95,8;2019-03-21 00:00:00Z
 Superligaen|Mesterskabsspil;2019-03-30 16:00:00Z;FC Midtjylland;FC Nordsjælland
 	Odds=Oddset;1,55;4;6,2;94,7;2019-03-20 00:00:00Z
 	Odds=bet365;1,5;4,5;5,75;94,1;2019-03-21 00:00:00Z
@@ -754,122 +790,74 @@ Superligaen|Mesterskabsspil;2019-03-30 16:00:00Z;FC Midtjylland;FC Nordsjælland
 	Odds=bet365;1,53;4,5;5,5;94,6;2019-03-19 00:00:00Z
 	Odds=Oddset;1,55;4;6,2;94,7;2019-03-20 00:00:00Z
 	Odds=NordicBet;1,57;4,25;5,85;95,9;2019-03-20 00:00:00Z
-Superligaen|Mesterskabsspil;2019-03-30 16:00:00Z;FC Midtjylland;FC Nordsjælland
-	Odds=Oddset;1,55;4;6,2;94,7;2019-03-20 00:00:00Z
-	Odds=bet365;1,5;4,5;5,75;94,1;2019-03-21 00:00:00Z
-	Odds=NordicBet;1,55;4,65;5,45;95,8;2019-03-21 00:00:00Z
-Superligaen|Mesterskabsspil;2019-03-30 16:00:00Z;FC Midtjylland;FC Nordsjælland
-	Odds=NordicBet;1,52;4,65;5,85;95,8;2019-03-25 00:00:00Z
-	Odds=Oddset;1,52;4,6;5,8;95,4;2019-03-25 00:00:00Z
-	Odds=bet365;1,5;4,5;5,75;94,1;2019-03-26 00:00:00Z
-Superligaen|Mesterskabsspil;2019-03-30 16:00:00Z;FC Midtjylland;FC Nordsjælland
-	Odds=Oddset;1,55;4;6,2;94,7;2019-03-20 00:00:00Z
-	Odds=bet365;1,5;4,5;5,75;94,1;2019-03-21 00:00:00Z
-	Odds=NordicBet;1,55;4,65;5,45;95,8;2019-03-21 00:00:00Z
-Superligaen|Mesterskabsspil;2019-03-30 16:00:00Z;FC Midtjylland;FC Nordsjælland
-	Odds=NordicBet;1,52;4,65;5,85;95,8;2019-03-25 00:00:00Z
-	Odds=Oddset;1,52;4,6;5,8;95,4;2019-03-25 00:00:00Z
-	Odds=bet365;1,53;4,5;5,5;94,6;2019-03-25 00:00:00Z
-Superligaen|Mesterskabsspil;2019-03-30 16:00:00Z;FC Midtjylland;FC Nordsjælland
-	Odds=NordicBet;1,52;4,65;5,85;95,8;2019-03-25 00:00:00Z
-	Odds=Oddset;1,52;4,6;5,8;95,4;2019-03-25 00:00:00Z
-	Odds=bet365;1,5;4,5;5,75;94,1;2019-03-26 00:00:00Z
-Superligaen|Mesterskabsspil;2019-03-30 16:00:00Z;FC Midtjylland;FC Nordsjælland
-	Odds=Oddset;1,52;4,6;5,8;95,4;2019-03-25 00:00:00Z
-	Odds=bet365;1,5;4,5;5,75;94,1;2019-03-26 00:00:00Z
-	Odds=NordicBet;1,52;4,65;5,85;95,8;2019-03-28 00:00:00Z
-Superligaen|Mesterskabsspil;2019-03-30 16:00:00Z;FC Midtjylland;FC Nordsjælland
-	Odds=Oddset;1,52;4,6;5,8;95,4;2019-03-25 00:00:00Z
-	Odds=bet365;1,5;4,5;5,75;94,1;2019-03-26 00:00:00Z
-	Odds=NordicBet;1,52;4,65;5,85;95,8;2019-03-28 00:00:00Z
-Superligaen|Mesterskabsspil;2019-03-30 16:00:00Z;FC Midtjylland;FC Nordsjælland
-	Odds=Oddset;1,52;4,6;5,8;95,4;2019-03-25 00:00:00Z
-	Odds=NordicBet;1,51;4,7;5,95;95,9;2019-03-30 00:00:00Z
-	Odds=bet365;1,45;4,8;6;93,9;2019-03-30 00:00:00Z
-Superligaen|Mesterskabsspil;2019-03-30 16:00:00Z;FC Midtjylland;FC Nordsjælland
-	Odds=Oddset;1,55;4;6,2;94,7;2019-03-20 00:00:00Z
-	Odds=bet365;1,5;4,5;5,75;94,1;2019-03-21 00:00:00Z
-	Odds=NordicBet;1,55;4,65;5,45;95,8;2019-03-21 00:00:00Z
-Superligaen|Pulje 2;2019-03-31 12:00:00Z;Vendsyssel;Hobro
-	Odds=NordicBet;2,5;3,2;2,95;95,1;2019-03-27 00:00:00Z
-	Odds=bet365;2,4;3,1;3,1;94,2;2019-03-28 00:00:00Z
-	Odds=Oddset;2,5;3,1;3,05;95,2;2019-03-29 00:00:00Z
-Superligaen|Pulje 2;2019-03-31 12:00:00Z;Vendsyssel;Hobro
-	Odds=Oddset;2,5;3,15;3,05;95,7;2019-03-25 00:00:00Z
-	Odds=NordicBet;2,5;3,2;2,95;95,1;2019-03-27 00:00:00Z
-	Odds=bet365;2,4;3,1;3,1;94,2;2019-03-28 00:00:00Z
 Superligaen|Pulje 2;2019-03-31 12:00:00Z;Vendsyssel;Hobro
 	Odds=NordicBet;2,28;3,2;3,35;95,3;2019-03-31 00:00:00Z
 	Odds=bet365;2,2;3,2;3,4;94,2;2019-03-31 00:00:00Z
 	Odds=Oddset;2,25;3,2;3,45;95,5;2019-03-31 00:00:00Z
 Superligaen|Pulje 2;2019-03-31 12:00:00Z;Vendsyssel;Hobro
-	Odds=Oddset;2,35;3,35;3;94,6;2019-03-20 00:00:00Z
-	Odds=bet365;2,4;3,4;2,87;94,4;2019-03-21 00:00:00Z
-	Odds=NordicBet;2,45;3,3;2,95;95,2;2019-03-21 00:00:00Z
-Superligaen|Pulje 2;2019-03-31 12:00:00Z;Vendsyssel;Hobro
-	Odds=bet365;2,45;3,1;3;94;2019-03-25 00:00:00Z
-	Odds=Oddset;2,5;3,15;3,05;95,7;2019-03-25 00:00:00Z
-	Odds=NordicBet;2,5;3,25;2,95;95,5;2019-03-25 00:00:00Z
-Superligaen|Pulje 2;2019-03-31 12:00:00Z;Vendsyssel;Hobro
-	Odds=Oddset;2,35;3,35;3;94,6;2019-03-20 00:00:00Z
-	Odds=bet365;2,4;3,4;2,87;94,4;2019-03-21 00:00:00Z
-	Odds=NordicBet;2,55;3,25;2,85;95,2;2019-03-23 00:00:00Z
-Superligaen|Pulje 2;2019-03-31 12:00:00Z;Vendsyssel;Hobro
-	Odds=bet365;2,45;3,1;3;94;2019-03-25 00:00:00Z
 	Odds=Oddset;2,5;3,15;3,05;95,7;2019-03-25 00:00:00Z
 	Odds=NordicBet;2,5;3,2;2,95;95,1;2019-03-27 00:00:00Z
+	Odds=bet365;2,4;3,1;3,1;94,2;2019-03-28 00:00:00Z
 Superligaen|Pulje 2;2019-03-31 12:00:00Z;Vendsyssel;Hobro
 	Odds=Oddset;2,5;3,15;3,05;95,7;2019-03-25 00:00:00Z
 	Odds=NordicBet;2,5;3,2;2,95;95,1;2019-03-27 00:00:00Z
 	Odds=bet365;2,4;3,1;3,1;94,2;2019-03-28 00:00:00Z
 Superligaen|Pulje 2;2019-03-31 12:00:00Z;Vendsyssel;Hobro
-	Odds=Oddset;2,35;3,35;3;94,6;2019-03-20 00:00:00Z
-	Odds=bet365;2,4;3,4;2,87;94,4;2019-03-21 00:00:00Z
-	Odds=NordicBet;2,55;3,25;2,85;95,2;2019-03-23 00:00:00Z
+	Odds=bet365;2,45;3,1;3;94;2019-03-25 00:00:00Z
+	Odds=Oddset;2,5;3,15;3,05;95,7;2019-03-25 00:00:00Z
+	Odds=NordicBet;2,5;3,2;2,95;95,1;2019-03-27 00:00:00Z
 Superligaen|Pulje 2;2019-03-31 12:00:00Z;Vendsyssel;Hobro
 	Odds=bet365;2,45;3,1;3;94;2019-03-25 00:00:00Z
 	Odds=Oddset;2,5;3,15;3,05;95,7;2019-03-25 00:00:00Z
 	Odds=NordicBet;2,5;3,25;2,95;95,5;2019-03-25 00:00:00Z
 Superligaen|Pulje 2;2019-03-31 12:00:00Z;Vendsyssel;Hobro
-	Odds=bet365;2,35;3,4;2,9;93,9;2019-03-19 00:00:00Z
+	Odds=bet365;2,45;3,1;3;94;2019-03-25 00:00:00Z
+	Odds=Oddset;2,5;3,15;3,05;95,7;2019-03-25 00:00:00Z
+	Odds=NordicBet;2,5;3,25;2,95;95,5;2019-03-25 00:00:00Z
+Superligaen|Pulje 2;2019-03-31 12:00:00Z;Vendsyssel;Hobro
 	Odds=Oddset;2,35;3,35;3;94,6;2019-03-20 00:00:00Z
-	Odds=NordicBet;2,4;3,35;3;95,4;2019-03-20 00:00:00Z
+	Odds=bet365;2,4;3,4;2,87;94,4;2019-03-21 00:00:00Z
+	Odds=NordicBet;2,55;3,25;2,85;95,2;2019-03-23 00:00:00Z
+Superligaen|Pulje 2;2019-03-31 12:00:00Z;Vendsyssel;Hobro
+	Odds=Oddset;2,35;3,35;3;94,6;2019-03-20 00:00:00Z
+	Odds=bet365;2,4;3,4;2,87;94,4;2019-03-21 00:00:00Z
+	Odds=NordicBet;2,55;3,25;2,85;95,2;2019-03-23 00:00:00Z
 Superligaen|Pulje 2;2019-03-31 12:00:00Z;Vendsyssel;Hobro
 	Odds=Oddset;2,35;3,35;3;94,6;2019-03-20 00:00:00Z
 	Odds=bet365;2,4;3,4;2,87;94,4;2019-03-21 00:00:00Z
 	Odds=NordicBet;2,45;3,3;2,95;95,2;2019-03-21 00:00:00Z
-Superligaen|Pulje 2;2019-03-31 14:00:00Z;AaB;Randers FC
-	Odds=Oddset;2,15;3,4;3,35;94,5;2019-03-20 00:00:00Z
-	Odds=bet365;2,1;3,4;3,4;93,9;2019-03-21 00:00:00Z
-	Odds=NordicBet;2,17;3,45;3,35;95,3;2019-03-21 00:00:00Z
-Superligaen|Pulje 2;2019-03-31 14:00:00Z;AaB;Randers FC
-	Odds=bet365;2,15;3,4;3,3;94,1;2019-03-25 00:00:00Z
-	Odds=Oddset;2,15;3,45;3,4;95,3;2019-03-28 00:00:00Z
-	Odds=NordicBet;2,22;3,5;3,2;95,4;2019-03-28 00:00:00Z
-Superligaen|Pulje 2;2019-03-31 14:00:00Z;AaB;Randers FC
-	Odds=bet365;2,15;3,4;3,3;94,1;2019-03-25 00:00:00Z
-	Odds=Oddset;2,15;3,45;3,4;95,3;2019-03-28 00:00:00Z
-	Odds=NordicBet;2,22;3,5;3,2;95,4;2019-03-28 00:00:00Z
-Superligaen|Pulje 2;2019-03-31 14:00:00Z;AaB;Randers FC
-	Odds=NordicBet;2,24;3,5;3,15;95,3;2019-03-25 00:00:00Z
-	Odds=bet365;2,15;3,4;3,3;94,1;2019-03-25 00:00:00Z
-	Odds=Oddset;2,15;3,35;3,5;95,3;2019-03-25 00:00:00Z
+Superligaen|Pulje 2;2019-03-31 12:00:00Z;Vendsyssel;Hobro
+	Odds=Oddset;2,35;3,35;3;94,6;2019-03-20 00:00:00Z
+	Odds=bet365;2,4;3,4;2,87;94,4;2019-03-21 00:00:00Z
+	Odds=NordicBet;2,45;3,3;2,95;95,2;2019-03-21 00:00:00Z
+Superligaen|Pulje 2;2019-03-31 12:00:00Z;Vendsyssel;Hobro
+	Odds=bet365;2,35;3,4;2,9;93,9;2019-03-19 00:00:00Z
+	Odds=Oddset;2,35;3,35;3;94,6;2019-03-20 00:00:00Z
+	Odds=NordicBet;2,4;3,35;3;95,4;2019-03-20 00:00:00Z
+Superligaen|Pulje 2;2019-03-31 12:00:00Z;Vendsyssel;Hobro
+	Odds=NordicBet;2,5;3,2;2,95;95,1;2019-03-27 00:00:00Z
+	Odds=bet365;2,4;3,1;3,1;94,2;2019-03-28 00:00:00Z
+	Odds=Oddset;2,5;3,1;3,05;95,2;2019-03-29 00:00:00Z
 Superligaen|Pulje 2;2019-03-31 14:00:00Z;AaB;Randers FC
 	Odds=bet365;2,3;3,4;3;94,1;2019-03-29 00:00:00Z
 	Odds=Oddset;2,35;3,45;3;95,4;2019-03-30 00:00:00Z
 	Odds=NordicBet;2,4;3,5;2,85;94,9;2019-03-30 00:00:00Z
 Superligaen|Pulje 2;2019-03-31 14:00:00Z;AaB;Randers FC
-	Odds=NordicBet;2,24;3,5;3,15;95,3;2019-03-25 00:00:00Z
-	Odds=bet365;2,15;3,4;3,3;94,1;2019-03-25 00:00:00Z
-	Odds=Oddset;2,15;3,35;3,5;95,3;2019-03-25 00:00:00Z
-Superligaen|Pulje 2;2019-03-31 14:00:00Z;AaB;Randers FC
 	Odds=Oddset;2,35;3,45;3;95,4;2019-03-30 00:00:00Z
 	Odds=bet365;2,37;3,25;3;94,1;2019-03-31 00:00:00Z
 	Odds=NordicBet;2,4;3,4;2,95;95,3;2019-03-31 00:00:00Z
 Superligaen|Pulje 2;2019-03-31 14:00:00Z;AaB;Randers FC
+	Odds=bet365;2,15;3,4;3,3;94,1;2019-03-25 00:00:00Z
+	Odds=Oddset;2,15;3,45;3,4;95,3;2019-03-28 00:00:00Z
+	Odds=NordicBet;2,22;3,5;3,2;95,4;2019-03-28 00:00:00Z
+Superligaen|Pulje 2;2019-03-31 14:00:00Z;AaB;Randers FC
 	Odds=NordicBet;2,15;3,45;3,4;95,3;2019-03-20 00:00:00Z
 	Odds=Oddset;2,15;3,4;3,35;94,5;2019-03-20 00:00:00Z
 	Odds=bet365;2,15;3,4;3,3;94,1;2019-03-20 00:00:00Z
+Superligaen|Pulje 2;2019-03-31 14:00:00Z;AaB;Randers FC
+	Odds=Oddset;2,15;3,4;3,35;94,5;2019-03-20 00:00:00Z
+	Odds=bet365;2,1;3,4;3,4;93,9;2019-03-21 00:00:00Z
+	Odds=NordicBet;2,17;3,45;3,35;95,3;2019-03-21 00:00:00Z
 Superligaen|Pulje 2;2019-03-31 14:00:00Z;AaB;Randers FC
 	Odds=Oddset;2,15;3,4;3,35;94,5;2019-03-20 00:00:00Z
 	Odds=bet365;2,1;3,4;3,4;93,9;2019-03-21 00:00:00Z
@@ -886,10 +874,26 @@ Superligaen|Pulje 2;2019-03-31 14:00:00Z;AaB;Randers FC
 	Odds=NordicBet;2,24;3,5;3,15;95,3;2019-03-25 00:00:00Z
 	Odds=bet365;2,15;3,4;3,3;94,1;2019-03-25 00:00:00Z
 	Odds=Oddset;2,15;3,35;3,5;95,3;2019-03-25 00:00:00Z
+Superligaen|Pulje 2;2019-03-31 14:00:00Z;AaB;Randers FC
+	Odds=NordicBet;2,24;3,5;3,15;95,3;2019-03-25 00:00:00Z
+	Odds=bet365;2,15;3,4;3,3;94,1;2019-03-25 00:00:00Z
+	Odds=Oddset;2,15;3,35;3,5;95,3;2019-03-25 00:00:00Z
+Superligaen|Pulje 2;2019-03-31 14:00:00Z;AaB;Randers FC
+	Odds=NordicBet;2,24;3,5;3,15;95,3;2019-03-25 00:00:00Z
+	Odds=bet365;2,15;3,4;3,3;94,1;2019-03-25 00:00:00Z
+	Odds=Oddset;2,15;3,35;3,5;95,3;2019-03-25 00:00:00Z
+Superligaen|Pulje 2;2019-03-31 14:00:00Z;AaB;Randers FC
+	Odds=bet365;2,15;3,4;3,3;94,1;2019-03-25 00:00:00Z
+	Odds=Oddset;2,15;3,45;3,4;95,3;2019-03-28 00:00:00Z
+	Odds=NordicBet;2,22;3,5;3,2;95,4;2019-03-28 00:00:00Z
 Superligaen|Mesterskabsspil;2019-03-31 16:00:00Z;FC København;Esbjerg fB
 	Odds=NordicBet;1,28;5,85;10,5;95,5;2019-03-31 00:00:00Z
 	Odds=Oddset;1,27;5,6;13;95,9;2019-03-31 00:00:00Z
 	Odds=bet365;1,33;5;8,5;93,5;2019-03-31 00:00:00Z
+Superligaen|Mesterskabsspil;2019-03-31 16:00:00Z;FC København;Esbjerg fB
+	Odds=Oddset;1,28;5,2;12;94,6;2019-03-20 00:00:00Z
+	Odds=bet365;1,28;5,5;10;94,1;2019-03-21 00:00:00Z
+	Odds=NordicBet;1,26;5,95;11,5;95,4;2019-03-21 00:00:00Z
 Superligaen|Mesterskabsspil;2019-03-31 16:00:00Z;FC København;Esbjerg fB
 	Odds=bet365;1,28;5,5;10;94,1;2019-03-19 00:00:00Z
 	Odds=Oddset;1,28;5,2;12;94,6;2019-03-20 00:00:00Z
@@ -901,11 +905,7 @@ Superligaen|Mesterskabsspil;2019-03-31 16:00:00Z;FC København;Esbjerg fB
 Superligaen|Mesterskabsspil;2019-03-31 16:00:00Z;FC København;Esbjerg fB
 	Odds=Oddset;1,28;5,2;12;94,6;2019-03-20 00:00:00Z
 	Odds=bet365;1,28;5,5;10;94,1;2019-03-21 00:00:00Z
-	Odds=NordicBet;1,26;5,95;11,5;95,4;2019-03-21 00:00:00Z
-Superligaen|Mesterskabsspil;2019-03-31 16:00:00Z;FC København;Esbjerg fB
-	Odds=Oddset;1,28;5,2;12;94,6;2019-03-20 00:00:00Z
-	Odds=bet365;1,28;5,5;10;94,1;2019-03-21 00:00:00Z
-	Odds=NordicBet;1,26;5,95;11,5;95,4;2019-03-21 00:00:00Z
+	Odds=NordicBet;1,28;5,95;10,5;95,7;2019-03-24 00:00:00Z
 Superligaen|Mesterskabsspil;2019-03-31 16:00:00Z;FC København;Esbjerg fB
 	Odds=bet365;1,28;5,5;10;94,1;2019-03-21 00:00:00Z
 	Odds=NordicBet;1,27;6,15;10,5;95,7;2019-03-24 00:00:00Z
@@ -914,6 +914,10 @@ Superligaen|Mesterskabsspil;2019-03-31 16:00:00Z;FC København;Esbjerg fB
 	Odds=bet365;1,28;5,5;10;94,1;2019-03-21 00:00:00Z
 	Odds=NordicBet;1,27;6,15;10,5;95,7;2019-03-24 00:00:00Z
 	Odds=Oddset;1,28;5,7;11;95,5;2019-03-25 00:00:00Z
+Superligaen|Mesterskabsspil;2019-03-31 16:00:00Z;FC København;Esbjerg fB
+	Odds=bet365;1,28;5,5;10;94,1;2019-03-21 00:00:00Z
+	Odds=NordicBet;1,27;6,15;10,5;95,7;2019-03-24 00:00:00Z
+	Odds=Oddset;1,28;5,7;11;95,5;2019-03-27 00:00:00Z
 Superligaen|Mesterskabsspil;2019-03-31 16:00:00Z;FC København;Esbjerg fB
 	Odds=bet365;1,28;5,5;10;94,1;2019-03-21 00:00:00Z
 	Odds=Oddset;1,28;5,7;11;95,5;2019-03-27 00:00:00Z
@@ -929,27 +933,15 @@ Superligaen|Mesterskabsspil;2019-03-31 16:00:00Z;FC København;Esbjerg fB
 Superligaen|Mesterskabsspil;2019-03-31 16:00:00Z;FC København;Esbjerg fB
 	Odds=Oddset;1,28;5,2;12;94,6;2019-03-20 00:00:00Z
 	Odds=bet365;1,28;5,5;10;94,1;2019-03-21 00:00:00Z
-	Odds=NordicBet;1,28;5,95;10,5;95,7;2019-03-24 00:00:00Z
-Superligaen|Mesterskabsspil;2019-03-31 16:00:00Z;FC København;Esbjerg fB
-	Odds=bet365;1,28;5,5;10;94,1;2019-03-21 00:00:00Z
-	Odds=NordicBet;1,27;6,15;10,5;95,7;2019-03-24 00:00:00Z
-	Odds=Oddset;1,28;5,7;11;95,5;2019-03-27 00:00:00Z
-Superligaen|Pulje 1;2019-03-31 18:00:00Z;SønderjyskE;AC Horsens
-	Odds=Oddset;2,2;3,3;3,5;95,9;2019-03-25 00:00:00Z
-	Odds=bet365;2,05;3,3;3,6;93,6;2019-03-26 00:00:00Z
-	Odds=NordicBet;2,19;3,4;3,35;95,3;2019-03-31 00:00:00Z
-Superligaen|Pulje 1;2019-03-31 18:00:00Z;SønderjyskE;AC Horsens
-	Odds=Oddset;2,2;3,3;3,5;95,9;2019-03-25 00:00:00Z
-	Odds=bet365;2,05;3,3;3,6;93,6;2019-03-26 00:00:00Z
-	Odds=NordicBet;2,19;3,45;3,3;95,3;2019-03-27 00:00:00Z
-Superligaen|Pulje 1;2019-03-31 18:00:00Z;SønderjyskE;AC Horsens
-	Odds=NordicBet;2,02;3,45;3,8;95,4;2019-03-20 00:00:00Z
-	Odds=Oddset;2,05;3,45;3,6;94,7;2019-03-20 00:00:00Z
-	Odds=bet365;2,05;3,5;3,6;95,1;2019-03-20 00:00:00Z
+	Odds=NordicBet;1,26;5,95;11,5;95,4;2019-03-21 00:00:00Z
 Superligaen|Pulje 1;2019-03-31 18:00:00Z;SønderjyskE;AC Horsens
 	Odds=Oddset;2,05;3,45;3,6;94,7;2019-03-20 00:00:00Z
 	Odds=bet365;2,15;3,5;3,3;94,9;2019-03-21 00:00:00Z
 	Odds=NordicBet;2,17;3,45;3,35;95,3;2019-03-21 00:00:00Z
+Superligaen|Pulje 1;2019-03-31 18:00:00Z;SønderjyskE;AC Horsens
+	Odds=NordicBet;2,02;3,45;3,8;95,4;2019-03-20 00:00:00Z
+	Odds=Oddset;2,05;3,45;3,6;94,7;2019-03-20 00:00:00Z
+	Odds=bet365;2,05;3,5;3,6;95,1;2019-03-20 00:00:00Z
 Superligaen|Pulje 1;2019-03-31 18:00:00Z;SønderjyskE;AC Horsens
 	Odds=Oddset;2,05;3,45;3,6;94,7;2019-03-20 00:00:00Z
 	Odds=bet365;2,15;3,5;3,3;94,9;2019-03-21 00:00:00Z
@@ -967,21 +959,37 @@ Superligaen|Pulje 1;2019-03-31 18:00:00Z;SønderjyskE;AC Horsens
 	Odds=bet365;2,05;3,3;3,6;93,6;2019-03-26 00:00:00Z
 	Odds=NordicBet;2,17;3,4;3,4;95,3;2019-03-28 00:00:00Z
 Superligaen|Pulje 1;2019-03-31 18:00:00Z;SønderjyskE;AC Horsens
+	Odds=NordicBet;2,19;3,45;3,3;95,3;2019-03-24 00:00:00Z
 	Odds=Oddset;2,2;3,3;3,5;95,9;2019-03-25 00:00:00Z
-	Odds=bet365;2,05;3,3;3,6;93,6;2019-03-26 00:00:00Z
-	Odds=NordicBet;2,17;3,4;3,4;95,3;2019-03-28 00:00:00Z
-Superligaen|Pulje 1;2019-03-31 18:00:00Z;SønderjyskE;AC Horsens
-	Odds=Oddset;2,2;3,3;3,5;95,9;2019-03-25 00:00:00Z
-	Odds=bet365;2,05;3,3;3,6;93,6;2019-03-26 00:00:00Z
-	Odds=NordicBet;2,17;3,4;3,4;95,3;2019-03-28 00:00:00Z
+	Odds=bet365;2,15;3,3;3,4;94,1;2019-03-26 00:00:00Z
 Superligaen|Pulje 1;2019-03-31 18:00:00Z;SønderjyskE;AC Horsens
 	Odds=bet365;2,15;3,5;3,3;94,9;2019-03-21 00:00:00Z
 	Odds=NordicBet;2,19;3,45;3,3;95,3;2019-03-24 00:00:00Z
 	Odds=Oddset;2,2;3,3;3,5;95,9;2019-03-25 00:00:00Z
 Superligaen|Pulje 1;2019-03-31 18:00:00Z;SønderjyskE;AC Horsens
-	Odds=NordicBet;2,19;3,45;3,3;95,3;2019-03-24 00:00:00Z
 	Odds=Oddset;2,2;3,3;3,5;95,9;2019-03-25 00:00:00Z
-	Odds=bet365;2,15;3,3;3,4;94,1;2019-03-26 00:00:00Z
+	Odds=bet365;2,05;3,3;3,6;93,6;2019-03-26 00:00:00Z
+	Odds=NordicBet;2,19;3,4;3,35;95,3;2019-03-31 00:00:00Z
+Superligaen|Pulje 1;2019-03-31 18:00:00Z;SønderjyskE;AC Horsens
+	Odds=Oddset;2,2;3,3;3,5;95,9;2019-03-25 00:00:00Z
+	Odds=bet365;2,05;3,3;3,6;93,6;2019-03-26 00:00:00Z
+	Odds=NordicBet;2,17;3,4;3,4;95,3;2019-03-28 00:00:00Z
+Superligaen|Pulje 1;2019-03-31 18:00:00Z;SønderjyskE;AC Horsens
+	Odds=Oddset;2,2;3,3;3,5;95,9;2019-03-25 00:00:00Z
+	Odds=bet365;2,05;3,3;3,6;93,6;2019-03-26 00:00:00Z
+	Odds=NordicBet;2,19;3,45;3,3;95,3;2019-03-27 00:00:00Z
+Superligaen|Pulje 1;2019-03-31 18:00:00Z;SønderjyskE;AC Horsens
+	Odds=Oddset;2,2;3,3;3,5;95,9;2019-03-25 00:00:00Z
+	Odds=bet365;2,05;3,3;3,6;93,6;2019-03-26 00:00:00Z
+	Odds=NordicBet;2,17;3,4;3,4;95,3;2019-03-28 00:00:00Z
+Superligaen|Pulje 1;2019-04-01 19:00:00Z;AGF;Vejle Boldklub
+	Odds=NordicBet;1,72;3,75;5,05;95,6;2019-03-20 00:00:00Z
+	Odds=Oddset;1,65;3,8;5,3;94,5;2019-03-20 00:00:00Z
+	Odds=bet365;1,65;3,75;5,25;94,1;2019-03-20 00:00:00Z
+Superligaen|Pulje 1;2019-04-01 19:00:00Z;AGF;Vejle Boldklub
+	Odds=NordicBet;1,74;3,75;4,85;95,5;2019-04-01 00:00:00Z
+	Odds=bet365;1,66;3,75;5;93,5;2019-04-01 00:00:00Z
+	Odds=Oddset;1,72;3,75;4,9;95;2019-04-01 00:00:00Z
 Superligaen|Pulje 1;2019-04-01 19:00:00Z;AGF;Vejle Boldklub
 	Odds=bet365;1,83;3,6;4,2;94,1;2019-03-24 00:00:00Z
 	Odds=Oddset;1,82;3,6;4,5;95,3;2019-03-25 00:00:00Z
@@ -995,21 +1003,9 @@ Superligaen|Pulje 1;2019-04-01 19:00:00Z;AGF;Vejle Boldklub
 	Odds=Oddset;1,82;3,6;4,5;95,3;2019-03-25 00:00:00Z
 	Odds=NordicBet;1,81;3,8;4,35;95,6;2019-03-27 00:00:00Z
 Superligaen|Pulje 1;2019-04-01 19:00:00Z;AGF;Vejle Boldklub
-	Odds=NordicBet;1,72;3,75;5,05;95,6;2019-03-20 00:00:00Z
-	Odds=Oddset;1,65;3,8;5,3;94,5;2019-03-20 00:00:00Z
-	Odds=bet365;1,65;3,75;5,25;94,1;2019-03-20 00:00:00Z
-Superligaen|Pulje 1;2019-04-01 19:00:00Z;AGF;Vejle Boldklub
 	Odds=bet365;1,83;3,6;4,2;94,1;2019-03-24 00:00:00Z
 	Odds=Oddset;1,82;3,6;4,5;95,3;2019-03-25 00:00:00Z
 	Odds=NordicBet;1,81;3,8;4,35;95,6;2019-03-27 00:00:00Z
-Superligaen|Pulje 1;2019-04-01 19:00:00Z;AGF;Vejle Boldklub
-	Odds=bet365;1,83;3,6;4,2;94,1;2019-03-24 00:00:00Z
-	Odds=Oddset;1,82;3,6;4,5;95,3;2019-03-25 00:00:00Z
-	Odds=NordicBet;1,81;3,8;4,35;95,6;2019-03-27 00:00:00Z
-Superligaen|Pulje 1;2019-04-01 19:00:00Z;AGF;Vejle Boldklub
-	Odds=bet365;1,83;3,6;4,2;94,1;2019-03-24 00:00:00Z
-	Odds=Oddset;1,82;3,6;4,5;95,3;2019-03-25 00:00:00Z
-	Odds=NordicBet;1,82;3,8;4,3;95,7;2019-03-25 00:00:00Z
 Superligaen|Pulje 1;2019-04-01 19:00:00Z;AGF;Vejle Boldklub
 	Odds=bet365;1,83;3,6;4,2;94,1;2019-03-24 00:00:00Z
 	Odds=Oddset;1,82;3,6;4,5;95,3;2019-03-25 00:00:00Z
@@ -1031,49 +1027,45 @@ Superligaen|Pulje 1;2019-04-01 19:00:00Z;AGF;Vejle Boldklub
 	Odds=Oddset;1,72;3,7;4,9;94,7;2019-03-21 00:00:00Z
 	Odds=bet365;1,8;3,6;4,5;94,7;2019-03-21 00:00:00Z
 Superligaen|Pulje 1;2019-04-01 19:00:00Z;AGF;Vejle Boldklub
-	Odds=NordicBet;1,74;3,75;4,85;95,5;2019-04-01 00:00:00Z
-	Odds=bet365;1,66;3,75;5;93,5;2019-04-01 00:00:00Z
-	Odds=Oddset;1,72;3,75;4,9;95;2019-04-01 00:00:00Z
+	Odds=bet365;1,83;3,6;4,2;94,1;2019-03-24 00:00:00Z
+	Odds=Oddset;1,82;3,6;4,5;95,3;2019-03-25 00:00:00Z
+	Odds=NordicBet;1,82;3,8;4,3;95,7;2019-03-25 00:00:00Z
+Superligaen|Pulje 1;2019-04-01 19:00:00Z;AGF;Vejle Boldklub
+	Odds=bet365;1,83;3,6;4,2;94,1;2019-03-24 00:00:00Z
+	Odds=Oddset;1,82;3,6;4,5;95,3;2019-03-25 00:00:00Z
+	Odds=NordicBet;1,81;3,8;4,35;95,6;2019-03-27 00:00:00Z
 Superligaen|Pulje 1;2019-04-05 19:00:00Z;AC Horsens;AGF
 	Odds=bet365;2,6;3,25;2,7;94,1;2019-03-24 00:00:00Z
+Superligaen|Pulje 1;2019-04-05 19:00:00Z;AC Horsens;AGF
+	Odds=bet365;2,6;3,25;2,7;94,1;2019-03-24 00:00:00Z
+Superligaen|Pulje 1;2019-04-05 19:00:00Z;AC Horsens;AGF
+	Odds=bet365;2,6;3,25;2,7;94,1;2019-03-24 00:00:00Z
+	Odds=Oddset;2,65;3,2;2,6;93,1;2019-03-25 00:00:00Z
+	Odds=NordicBet;2,7;3,35;2,65;95,6;2019-03-26 00:00:00Z
+Superligaen|Pulje 1;2019-04-05 19:00:00Z;AC Horsens;AGF
+	Odds=bet365;2,6;3,25;2,7;94,1;2019-03-24 00:00:00Z
+	Odds=Oddset;2,65;3,2;2,6;93,1;2019-03-25 00:00:00Z
+	Odds=NordicBet;2,7;3,35;2,65;95,6;2019-03-26 00:00:00Z
+Superligaen|Pulje 1;2019-04-05 19:00:00Z;AC Horsens;AGF
+	Odds=bet365;2,6;3,25;2,7;94,1;2019-03-24 00:00:00Z
+	Odds=Oddset;2,65;3,2;2,6;93,1;2019-03-25 00:00:00Z
+	Odds=NordicBet;2,7;3,25;2,65;94,7;2019-03-28 00:00:00Z
 Superligaen|Pulje 1;2019-04-05 19:00:00Z;AC Horsens;AGF
 	Odds=bet365;2,6;3,25;2,7;94,1;2019-03-24 00:00:00Z
 	Odds=Oddset;2,65;3,2;2,6;93,1;2019-03-25 00:00:00Z
 	Odds=NordicBet;2,65;3,35;2,65;94,9;2019-03-30 00:00:00Z
 Superligaen|Pulje 1;2019-04-05 19:00:00Z;AC Horsens;AGF
-	Odds=bet365;2,6;3,25;2,7;94,1;2019-03-24 00:00:00Z
-	Odds=Oddset;2,65;3,2;2,6;93,1;2019-03-25 00:00:00Z
-	Odds=NordicBet;2,7;3,35;2,65;95,6;2019-03-26 00:00:00Z
-Superligaen|Pulje 1;2019-04-05 19:00:00Z;AC Horsens;AGF
 	Odds=Oddset;2,7;3,2;2,7;94,9;2019-04-01 00:00:00Z
 	Odds=NordicBet;2,75;3,35;2,55;94,8;2019-04-01 00:00:00Z
 	Odds=bet365;2,8;3,25;2,5;93,9;2019-04-01 00:00:00Z
-Superligaen|Pulje 1;2019-04-05 19:00:00Z;AC Horsens;AGF
-	Odds=Oddset;2,7;3,2;2,7;94,9;2019-04-01 00:00:00Z
-	Odds=NordicBet;2,75;3,35;2,55;94,8;2019-04-01 00:00:00Z
-	Odds=bet365;2,8;3,25;2,5;93,9;2019-04-01 00:00:00Z
-Superligaen|Pulje 1;2019-04-05 19:00:00Z;AC Horsens;AGF
-	Odds=Oddset;2,7;3,2;2,7;94,9;2019-04-01 00:00:00Z
-	Odds=NordicBet;2,75;3,35;2,55;94,8;2019-04-01 00:00:00Z
-	Odds=bet365;2,8;3,25;2,5;93,9;2019-04-01 00:00:00Z
-Superligaen|Pulje 1;2019-04-05 19:00:00Z;AC Horsens;AGF
-	Odds=NordicBet;2,75;3,35;2,55;94,8;2019-04-01 00:00:00Z
-	Odds=bet365;2,8;3,25;2,5;93,9;2019-04-01 00:00:00Z
-	Odds=Oddset;2,7;3,2;2,7;94,9;2019-04-04 00:00:00Z
-Superligaen|Pulje 1;2019-04-05 19:00:00Z;AC Horsens;AGF
-	Odds=bet365;2,6;3,25;2,7;94,1;2019-03-24 00:00:00Z
-	Odds=Oddset;2,65;3,2;2,6;93,1;2019-03-25 00:00:00Z
-	Odds=NordicBet;2,7;3,25;2,65;94,7;2019-03-28 00:00:00Z
-Superligaen|Pulje 1;2019-04-05 19:00:00Z;AC Horsens;AGF
-	Odds=bet365;2,6;3,25;2,7;94,1;2019-03-24 00:00:00Z
 Superligaen|Pulje 1;2019-04-05 19:00:00Z;AC Horsens;AGF
 	Odds=Oddset;2,7;3,2;2,7;94,9;2019-04-04 00:00:00Z
 	Odds=NordicBet;2,7;3,15;2,75;95,1;2019-04-05 00:00:00Z
 	Odds=bet365;2,6;3,25;2,7;94,1;2019-04-05 00:00:00Z
 Superligaen|Pulje 1;2019-04-05 19:00:00Z;AC Horsens;AGF
-	Odds=bet365;2,6;3,25;2,7;94,1;2019-03-24 00:00:00Z
-	Odds=Oddset;2,65;3,2;2,6;93,1;2019-03-25 00:00:00Z
-	Odds=NordicBet;2,7;3,35;2,65;95,6;2019-03-26 00:00:00Z
+	Odds=NordicBet;2,75;3,35;2,55;94,8;2019-04-01 00:00:00Z
+	Odds=bet365;2,8;3,25;2,5;93,9;2019-04-01 00:00:00Z
+	Odds=Oddset;2,7;3,2;2,7;94,9;2019-04-04 00:00:00Z
 Superligaen|Pulje 1;2019-04-05 19:00:00Z;AC Horsens;AGF
 	Odds=bet365;2,6;3,25;2,7;94,1;2019-03-24 00:00:00Z
 	Odds=Oddset;2,65;3,2;2,6;93,1;2019-03-25 00:00:00Z
@@ -1082,8 +1074,30 @@ Superligaen|Pulje 1;2019-04-05 19:00:00Z;AC Horsens;AGF
 	Odds=bet365;2,6;3,25;2,7;94,1;2019-03-24 00:00:00Z
 	Odds=Oddset;2,65;3,2;2,6;93,1;2019-03-25 00:00:00Z
 	Odds=NordicBet;2,7;3,25;2,65;94,7;2019-03-28 00:00:00Z
+Superligaen|Pulje 1;2019-04-05 19:00:00Z;AC Horsens;AGF
+	Odds=Oddset;2,7;3,2;2,7;94,9;2019-04-01 00:00:00Z
+	Odds=NordicBet;2,75;3,35;2,55;94,8;2019-04-01 00:00:00Z
+	Odds=bet365;2,8;3,25;2,5;93,9;2019-04-01 00:00:00Z
+Superligaen|Pulje 1;2019-04-05 19:00:00Z;AC Horsens;AGF
+	Odds=Oddset;2,7;3,2;2,7;94,9;2019-04-01 00:00:00Z
+	Odds=NordicBet;2,75;3,35;2,55;94,8;2019-04-01 00:00:00Z
+	Odds=bet365;2,8;3,25;2,5;93,9;2019-04-01 00:00:00Z
 Superligaen|Pulje 2;2019-04-06 16:00:00Z;Randers FC;Vendsyssel
-	Odds=bet365;1,65;3,6;5,25;93,1;2019-03-24 00:00:00Z
+	Odds=Oddset;1,7;3,6;4,75;92,9;2019-03-25 00:00:00Z
+	Odds=bet365;1,66;3,6;5,25;93,4;2019-03-26 00:00:00Z
+	Odds=NordicBet;1,75;3,65;4,95;95,5;2019-03-26 00:00:00Z
+Superligaen|Pulje 2;2019-04-06 16:00:00Z;Randers FC;Vendsyssel
+	Odds=Oddset;1,7;3,6;4,75;92,9;2019-03-25 00:00:00Z
+	Odds=bet365;1,66;3,6;5,25;93,4;2019-03-26 00:00:00Z
+	Odds=NordicBet;1,75;3,65;4,95;95,5;2019-03-26 00:00:00Z
+Superligaen|Pulje 2;2019-04-06 16:00:00Z;Randers FC;Vendsyssel
+	Odds=Oddset;1,7;3,6;4,75;92,9;2019-03-25 00:00:00Z
+	Odds=bet365;1,66;3,6;5,25;93,4;2019-03-26 00:00:00Z
+	Odds=NordicBet;1,75;3,65;4,95;95,5;2019-03-26 00:00:00Z
+Superligaen|Pulje 2;2019-04-06 16:00:00Z;Randers FC;Vendsyssel
+	Odds=Oddset;1,7;3,6;4,75;92,9;2019-03-25 00:00:00Z
+	Odds=bet365;1,66;3,6;5,25;93,4;2019-03-26 00:00:00Z
+	Odds=NordicBet;1,75;3,65;4,95;95,5;2019-03-26 00:00:00Z
 Superligaen|Pulje 2;2019-04-06 16:00:00Z;Randers FC;Vendsyssel
 	Odds=Oddset;1,7;3,6;4,75;92,9;2019-03-25 00:00:00Z
 	Odds=bet365;1,66;3,6;5,25;93,4;2019-03-26 00:00:00Z
@@ -1091,53 +1105,43 @@ Superligaen|Pulje 2;2019-04-06 16:00:00Z;Randers FC;Vendsyssel
 Superligaen|Pulje 2;2019-04-06 16:00:00Z;Randers FC;Vendsyssel
 	Odds=bet365;1,61;3,75;5,5;93,5;2019-03-24 00:00:00Z
 Superligaen|Pulje 2;2019-04-06 16:00:00Z;Randers FC;Vendsyssel
-	Odds=Oddset;1,7;3,6;4,75;92,9;2019-03-25 00:00:00Z
-	Odds=bet365;1,66;3,6;5,25;93,4;2019-03-26 00:00:00Z
-	Odds=NordicBet;1,75;3,65;4,95;95,5;2019-03-26 00:00:00Z
-Superligaen|Pulje 2;2019-04-06 16:00:00Z;Randers FC;Vendsyssel
-	Odds=bet365;1,85;3,6;4;93,6;2019-04-05 00:00:00Z
-	Odds=Oddset;1,87;3,45;4,4;95,1;2019-04-05 00:00:00Z
-	Odds=NordicBet;1,91;3,45;4,3;95,6;2019-04-06 00:00:00Z
-Superligaen|Pulje 2;2019-04-06 16:00:00Z;Randers FC;Vendsyssel
-	Odds=Oddset;1,7;3,6;4,75;92,9;2019-03-25 00:00:00Z
-	Odds=bet365;1,66;3,6;5,25;93,4;2019-03-26 00:00:00Z
-	Odds=NordicBet;1,75;3,65;4,95;95,5;2019-03-26 00:00:00Z
-Superligaen|Pulje 2;2019-04-06 16:00:00Z;Randers FC;Vendsyssel
-	Odds=Oddset;1,82;3,5;4,6;95;2019-04-02 00:00:00Z
-	Odds=bet365;1,85;3,5;4,2;94;2019-04-03 00:00:00Z
-	Odds=NordicBet;1,86;3,5;4,5;95,6;2019-04-04 00:00:00Z
-Superligaen|Pulje 2;2019-04-06 16:00:00Z;Randers FC;Vendsyssel
-	Odds=Oddset;1,82;3,5;4,6;95;2019-04-02 00:00:00Z
-	Odds=NordicBet;1,88;3,5;4,35;95,5;2019-04-02 00:00:00Z
-	Odds=bet365;1,85;3,5;4,2;94;2019-04-03 00:00:00Z
+	Odds=bet365;1,72;3,6;4,75;93,5;2019-04-01 00:00:00Z
+	Odds=NordicBet;1,81;3,6;4,6;95,5;2019-04-01 00:00:00Z
+	Odds=Oddset;1,72;3,6;5,2;95,1;2019-04-01 00:00:00Z
 Superligaen|Pulje 2;2019-04-06 16:00:00Z;Randers FC;Vendsyssel
 	Odds=Oddset;1,82;3,5;4,6;95;2019-04-02 00:00:00Z
 	Odds=NordicBet;1,88;3,5;4,35;95,5;2019-04-02 00:00:00Z
 	Odds=bet365;1,8;3,5;4,5;94;2019-04-02 00:00:00Z
 Superligaen|Pulje 2;2019-04-06 16:00:00Z;Randers FC;Vendsyssel
-	Odds=bet365;1,72;3,6;4,75;93,5;2019-04-01 00:00:00Z
-	Odds=NordicBet;1,81;3,6;4,6;95,5;2019-04-01 00:00:00Z
-	Odds=Oddset;1,72;3,6;5,2;95,1;2019-04-01 00:00:00Z
+	Odds=Oddset;1,82;3,5;4,6;95;2019-04-02 00:00:00Z
+	Odds=NordicBet;1,88;3,5;4,35;95,5;2019-04-02 00:00:00Z
+	Odds=bet365;1,85;3,5;4,2;94;2019-04-03 00:00:00Z
 Superligaen|Pulje 2;2019-04-06 16:00:00Z;Randers FC;Vendsyssel
-	Odds=Oddset;1,7;3,6;4,75;92,9;2019-03-25 00:00:00Z
-	Odds=bet365;1,66;3,6;5,25;93,4;2019-03-26 00:00:00Z
-	Odds=NordicBet;1,75;3,65;4,95;95,5;2019-03-26 00:00:00Z
-Superligaen|Pulje 2;2019-04-06 16:00:00Z;Randers FC;Vendsyssel
-	Odds=Oddset;1,7;3,6;4,75;92,9;2019-03-25 00:00:00Z
-	Odds=bet365;1,66;3,6;5,25;93,4;2019-03-26 00:00:00Z
-	Odds=NordicBet;1,75;3,65;4,95;95,5;2019-03-26 00:00:00Z
-Superligaen|Pulje 2;2019-04-06 16:00:00Z;Randers FC;Vendsyssel
-	Odds=Oddset;1,7;3,6;4,75;92,9;2019-03-25 00:00:00Z
-	Odds=bet365;1,66;3,6;5,25;93,4;2019-03-26 00:00:00Z
-	Odds=NordicBet;1,75;3,65;4,95;95,5;2019-03-26 00:00:00Z
+	Odds=Oddset;1,82;3,5;4,6;95;2019-04-02 00:00:00Z
+	Odds=bet365;1,85;3,5;4,2;94;2019-04-03 00:00:00Z
+	Odds=NordicBet;1,86;3,5;4,5;95,6;2019-04-04 00:00:00Z
 Superligaen|Pulje 2;2019-04-06 16:00:00Z;Randers FC;Vendsyssel
 	Odds=bet365;1,85;3,5;4,2;94;2019-04-03 00:00:00Z
 	Odds=Oddset;1,87;3,45;4,4;95,1;2019-04-05 00:00:00Z
 	Odds=NordicBet;1,86;3,5;4,45;95,4;2019-04-05 00:00:00Z
+Superligaen|Pulje 2;2019-04-06 16:00:00Z;Randers FC;Vendsyssel
+	Odds=bet365;1,85;3,6;4;93,6;2019-04-05 00:00:00Z
+	Odds=Oddset;1,87;3,45;4,4;95,1;2019-04-05 00:00:00Z
+	Odds=NordicBet;1,91;3,45;4,3;95,6;2019-04-06 00:00:00Z
+Superligaen|Pulje 2;2019-04-06 16:00:00Z;Randers FC;Vendsyssel
+	Odds=bet365;1,65;3,6;5,25;93,1;2019-03-24 00:00:00Z
+Superligaen|Pulje 2;2019-04-06 16:00:00Z;Randers FC;Vendsyssel
+	Odds=Oddset;1,7;3,6;4,75;92,9;2019-03-25 00:00:00Z
+	Odds=bet365;1,66;3,6;5,25;93,4;2019-03-26 00:00:00Z
+	Odds=NordicBet;1,75;3,65;4,95;95,5;2019-03-26 00:00:00Z
 Superligaen|Pulje 2;2019-04-07 12:00:00Z;Hobro;AaB
 	Odds=bet365;3;3,4;2,3;94,1;2019-03-31 00:00:00Z
 	Odds=Oddset;3,1;3,3;2,35;95,1;2019-04-01 00:00:00Z
-	Odds=NordicBet;3,05;3,4;2,34;95,3;2019-04-05 00:00:00Z
+	Odds=NordicBet;2,95;3,35;2,4;94,9;2019-04-02 00:00:00Z
+Superligaen|Pulje 2;2019-04-07 12:00:00Z;Hobro;AaB
+	Odds=bet365;3,5;3,4;2,05;93,7;2019-03-24 00:00:00Z
+	Odds=Oddset;3,45;3,5;2;93;2019-03-25 00:00:00Z
+	Odds=NordicBet;3,5;3,5;2,1;95,5;2019-03-29 00:00:00Z
 Superligaen|Pulje 2;2019-04-07 12:00:00Z;Hobro;AaB
 	Odds=NordicBet;3,3;3,55;2,15;95,3;2019-04-07 00:00:00Z
 	Odds=Oddset;3,5;3,3;2,15;94,9;2019-04-07 00:00:00Z
@@ -1149,83 +1153,59 @@ Superligaen|Pulje 2;2019-04-07 12:00:00Z;Hobro;AaB
 Superligaen|Pulje 2;2019-04-07 12:00:00Z;Hobro;AaB
 	Odds=bet365;3;3,4;2,3;94,1;2019-03-31 00:00:00Z
 	Odds=Oddset;3,1;3,3;2,35;95,1;2019-04-01 00:00:00Z
+	Odds=NordicBet;3,05;3,4;2,34;95,3;2019-04-05 00:00:00Z
+Superligaen|Pulje 2;2019-04-07 12:00:00Z;Hobro;AaB
+	Odds=bet365;3;3,4;2,3;94,1;2019-03-31 00:00:00Z
+	Odds=Oddset;3,1;3,3;2,35;95,1;2019-04-01 00:00:00Z
 	Odds=NordicBet;3;3,4;2,36;95,1;2019-04-02 00:00:00Z
 Superligaen|Pulje 2;2019-04-07 12:00:00Z;Hobro;AaB
 	Odds=bet365;3,5;3,4;2,05;93,7;2019-03-24 00:00:00Z
-	Odds=Oddset;3,45;3,5;2;93;2019-03-25 00:00:00Z
-	Odds=NordicBet;3,5;3,5;2,1;95,5;2019-03-29 00:00:00Z
 Superligaen|Pulje 2;2019-04-07 12:00:00Z;Hobro;AaB
-	Odds=bet365;3;3,4;2,3;94,1;2019-03-31 00:00:00Z
-	Odds=Oddset;3,1;3,3;2,35;95,1;2019-04-01 00:00:00Z
-	Odds=NordicBet;2,95;3,35;2,4;94,9;2019-04-02 00:00:00Z
-Superligaen|Pulje 2;2019-04-07 12:00:00Z;Hobro;AaB
-	Odds=bet365;3;3,4;2,3;94,1;2019-03-31 00:00:00Z
-	Odds=NordicBet;3,05;3,35;2,36;95,2;2019-03-31 00:00:00Z
-	Odds=Oddset;3,1;3,3;2,35;95,1;2019-04-01 00:00:00Z
+	Odds=bet365;3,5;3,4;2,05;93,7;2019-03-24 00:00:00Z
 Superligaen|Pulje 2;2019-04-07 12:00:00Z;Hobro;AaB
 	Odds=bet365;3,5;3,4;2,05;93,7;2019-03-24 00:00:00Z
 	Odds=Oddset;3,45;3,5;2;93;2019-03-25 00:00:00Z
-	Odds=NordicBet;3,5;3,5;2,1;95,5;2019-03-30 00:00:00Z
+	Odds=NordicBet;3,5;3,5;2,1;95,5;2019-03-26 00:00:00Z
 Superligaen|Pulje 2;2019-04-07 12:00:00Z;Hobro;AaB
 	Odds=bet365;3,5;3,4;2,05;93,7;2019-03-24 00:00:00Z
 	Odds=Oddset;3,45;3,5;2;93;2019-03-25 00:00:00Z
-	Odds=NordicBet;3,5;3,5;2,1;95,5;2019-03-29 00:00:00Z
+	Odds=NordicBet;3,5;3,5;2,1;95,5;2019-03-26 00:00:00Z
 Superligaen|Pulje 2;2019-04-07 12:00:00Z;Hobro;AaB
 	Odds=bet365;3,5;3,4;2,05;93,7;2019-03-24 00:00:00Z
 	Odds=Oddset;3,45;3,5;2;93;2019-03-25 00:00:00Z
 	Odds=NordicBet;3,5;3,5;2,1;95,5;2019-03-28 00:00:00Z
 Superligaen|Pulje 2;2019-04-07 12:00:00Z;Hobro;AaB
-	Odds=bet365;3,5;3,4;2,05;93,7;2019-03-24 00:00:00Z
-	Odds=Oddset;3,45;3,5;2;93;2019-03-25 00:00:00Z
-	Odds=NordicBet;3,5;3,5;2,1;95,5;2019-03-26 00:00:00Z
-Superligaen|Pulje 2;2019-04-07 12:00:00Z;Hobro;AaB
-	Odds=bet365;3,5;3,4;2,05;93,7;2019-03-24 00:00:00Z
-	Odds=Oddset;3,45;3,5;2;93;2019-03-25 00:00:00Z
-	Odds=NordicBet;3,5;3,5;2,1;95,5;2019-03-26 00:00:00Z
-Superligaen|Pulje 2;2019-04-07 12:00:00Z;Hobro;AaB
-	Odds=bet365;3,5;3,4;2,05;93,7;2019-03-24 00:00:00Z
-Superligaen|Pulje 2;2019-04-07 12:00:00Z;Hobro;AaB
 	Odds=bet365;3;3,4;2,3;94,1;2019-03-31 00:00:00Z
 	Odds=Oddset;3,1;3,3;2,35;95,1;2019-04-01 00:00:00Z
 	Odds=NordicBet;3;3,4;2,36;95,1;2019-04-02 00:00:00Z
 Superligaen|Pulje 2;2019-04-07 12:00:00Z;Hobro;AaB
 	Odds=bet365;3,5;3,4;2,05;93,7;2019-03-24 00:00:00Z
+	Odds=Oddset;3,45;3,5;2;93;2019-03-25 00:00:00Z
+	Odds=NordicBet;3,5;3,5;2,1;95,5;2019-03-29 00:00:00Z
+Superligaen|Pulje 2;2019-04-07 12:00:00Z;Hobro;AaB
+	Odds=bet365;3,5;3,4;2,05;93,7;2019-03-24 00:00:00Z
+	Odds=Oddset;3,45;3,5;2;93;2019-03-25 00:00:00Z
+	Odds=NordicBet;3,5;3,5;2,1;95,5;2019-03-30 00:00:00Z
+Superligaen|Pulje 2;2019-04-07 12:00:00Z;Hobro;AaB
+	Odds=bet365;3;3,4;2,3;94,1;2019-03-31 00:00:00Z
+	Odds=NordicBet;3,05;3,35;2,36;95,2;2019-03-31 00:00:00Z
+	Odds=Oddset;3,1;3,3;2,35;95,1;2019-04-01 00:00:00Z
+Superligaen|Pulje 1;2019-04-07 14:00:00Z;Vejle Boldklub;SønderjyskE
+	Odds=Oddset;2,95;3,2;2,35;92,8;2019-03-25 00:00:00Z
+	Odds=bet365;3,1;3,2;2,3;93,5;2019-03-25 00:00:00Z
+	Odds=NordicBet;3;3,35;2,39;95,2;2019-03-29 00:00:00Z
+Superligaen|Pulje 1;2019-04-07 14:00:00Z;Vejle Boldklub;SønderjyskE
+	Odds=Oddset;2,95;3,2;2,35;92,8;2019-03-25 00:00:00Z
+	Odds=bet365;3,1;3,2;2,3;93,5;2019-03-25 00:00:00Z
+	Odds=NordicBet;3;3,35;2,39;95,2;2019-03-29 00:00:00Z
+Superligaen|Pulje 1;2019-04-07 14:00:00Z;Vejle Boldklub;SønderjyskE
+	Odds=NordicBet;3;3,35;2,39;95,2;2019-03-29 00:00:00Z
+	Odds=bet365;3;3,2;2,37;93,7;2019-04-01 00:00:00Z
+	Odds=Oddset;3;3,3;2,4;95;2019-04-01 00:00:00Z
 Superligaen|Pulje 1;2019-04-07 14:00:00Z;Vejle Boldklub;SønderjyskE
 	Odds=Oddset;2,95;3,2;2,35;92,8;2019-03-25 00:00:00Z
 	Odds=bet365;3,1;3,2;2,3;93,5;2019-03-25 00:00:00Z
 	Odds=NordicBet;2,95;3,35;2,4;94,9;2019-03-28 00:00:00Z
-Superligaen|Pulje 1;2019-04-07 14:00:00Z;Vejle Boldklub;SønderjyskE
-	Odds=NordicBet;2,95;3,35;2,4;94,9;2019-04-01 00:00:00Z
-	Odds=Oddset;3;3,3;2,4;95;2019-04-01 00:00:00Z
-	Odds=bet365;3;3,2;2,37;93,7;2019-04-01 00:00:00Z
-Superligaen|Pulje 1;2019-04-07 14:00:00Z;Vejle Boldklub;SønderjyskE
-	Odds=Oddset;2,95;3,4;2,4;95,3;2019-04-05 00:00:00Z
-	Odds=bet365;3;3,2;2,37;93,7;2019-04-07 00:00:00Z
-	Odds=NordicBet;2,9;3,45;2,4;95,1;2019-04-07 00:00:00Z
-Superligaen|Pulje 1;2019-04-07 14:00:00Z;Vejle Boldklub;SønderjyskE
-	Odds=bet365;3,2;3,2;2,3;94,4;2019-04-04 00:00:00Z
-	Odds=Oddset;2,95;3,4;2,4;95,3;2019-04-05 00:00:00Z
-	Odds=NordicBet;2,95;3,4;2,4;95,3;2019-04-06 00:00:00Z
-Superligaen|Pulje 1;2019-04-07 14:00:00Z;Vejle Boldklub;SønderjyskE
-	Odds=NordicBet;2,95;3,4;2,4;95,3;2019-04-04 00:00:00Z
-	Odds=bet365;3,2;3,2;2,3;94,4;2019-04-04 00:00:00Z
-	Odds=Oddset;2,95;3,4;2,4;95,3;2019-04-05 00:00:00Z
-Superligaen|Pulje 1;2019-04-07 14:00:00Z;Vejle Boldklub;SønderjyskE
-	Odds=NordicBet;2,95;3,35;2,4;94,9;2019-04-01 00:00:00Z
-	Odds=Oddset;3;3,3;2,4;95;2019-04-01 00:00:00Z
-	Odds=bet365;3;3,2;2,37;93,7;2019-04-01 00:00:00Z
-Superligaen|Pulje 1;2019-04-07 14:00:00Z;Vejle Boldklub;SønderjyskE
-	Odds=NordicBet;2,95;3,35;2,4;94,9;2019-04-01 00:00:00Z
-	Odds=Oddset;3;3,3;2,4;95;2019-04-01 00:00:00Z
-	Odds=bet365;3;3,2;2,37;93,7;2019-04-01 00:00:00Z
-Superligaen|Pulje 1;2019-04-07 14:00:00Z;Vejle Boldklub;SønderjyskE
-	Odds=Oddset;2,95;3,2;2,35;92,8;2019-03-25 00:00:00Z
-	Odds=bet365;3,1;3,2;2,3;93,5;2019-03-25 00:00:00Z
-	Odds=NordicBet;3;3,35;2,39;95,2;2019-03-29 00:00:00Z
-Superligaen|Pulje 1;2019-04-07 14:00:00Z;Vejle Boldklub;SønderjyskE
-	Odds=NordicBet;3;3,35;2,39;95,2;2019-03-29 00:00:00Z
-	Odds=bet365;3;3,2;2,37;93,7;2019-04-01 00:00:00Z
-	Odds=Oddset;3;3,3;2,4;95;2019-04-01 00:00:00Z
 Superligaen|Pulje 1;2019-04-07 14:00:00Z;Vejle Boldklub;SønderjyskE
 	Odds=Oddset;2,95;3,2;2,35;92,8;2019-03-25 00:00:00Z
 	Odds=bet365;3,1;3,2;2,3;93,5;2019-03-25 00:00:00Z
@@ -1243,9 +1223,72 @@ Superligaen|Pulje 1;2019-04-07 14:00:00Z;Vejle Boldklub;SønderjyskE
 Superligaen|Pulje 1;2019-04-07 14:00:00Z;Vejle Boldklub;SønderjyskE
 	Odds=bet365;2,7;3,2;2,62;93,9;2019-03-24 00:00:00Z
 Superligaen|Pulje 1;2019-04-07 14:00:00Z;Vejle Boldklub;SønderjyskE
-	Odds=Oddset;2,95;3,2;2,35;92,8;2019-03-25 00:00:00Z
-	Odds=bet365;3,1;3,2;2,3;93,5;2019-03-25 00:00:00Z
-	Odds=NordicBet;3;3,35;2,39;95,2;2019-03-29 00:00:00Z
+	Odds=NordicBet;2,95;3,35;2,4;94,9;2019-04-01 00:00:00Z
+	Odds=Oddset;3;3,3;2,4;95;2019-04-01 00:00:00Z
+	Odds=bet365;3;3,2;2,37;93,7;2019-04-01 00:00:00Z
+Superligaen|Pulje 1;2019-04-07 14:00:00Z;Vejle Boldklub;SønderjyskE
+	Odds=NordicBet;2,95;3,35;2,4;94,9;2019-04-01 00:00:00Z
+	Odds=Oddset;3;3,3;2,4;95;2019-04-01 00:00:00Z
+	Odds=bet365;3;3,2;2,37;93,7;2019-04-01 00:00:00Z
+Superligaen|Pulje 1;2019-04-07 14:00:00Z;Vejle Boldklub;SønderjyskE
+	Odds=bet365;3,2;3,2;2,3;94,4;2019-04-04 00:00:00Z
+	Odds=Oddset;2,95;3,4;2,4;95,3;2019-04-05 00:00:00Z
+	Odds=NordicBet;2,95;3,4;2,4;95,3;2019-04-06 00:00:00Z
+Superligaen|Pulje 1;2019-04-07 14:00:00Z;Vejle Boldklub;SønderjyskE
+	Odds=NordicBet;2,95;3,4;2,4;95,3;2019-04-04 00:00:00Z
+	Odds=bet365;3,2;3,2;2,3;94,4;2019-04-04 00:00:00Z
+	Odds=Oddset;2,95;3,4;2,4;95,3;2019-04-05 00:00:00Z
+Superligaen|Pulje 1;2019-04-07 14:00:00Z;Vejle Boldklub;SønderjyskE
+	Odds=Oddset;2,95;3,4;2,4;95,3;2019-04-05 00:00:00Z
+	Odds=bet365;3;3,2;2,37;93,7;2019-04-07 00:00:00Z
+	Odds=NordicBet;2,9;3,45;2,4;95,1;2019-04-07 00:00:00Z
+Superligaen|Pulje 1;2019-04-07 14:00:00Z;Vejle Boldklub;SønderjyskE
+	Odds=NordicBet;2,95;3,35;2,4;94,9;2019-04-01 00:00:00Z
+	Odds=Oddset;3;3,3;2,4;95;2019-04-01 00:00:00Z
+	Odds=bet365;3;3,2;2,37;93,7;2019-04-01 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-07 16:00:00Z;Esbjerg fB;FC Midtjylland
+	Odds=bet365;5,5;3,8;1,6;93,5;2019-03-24 00:00:00Z
+	Odds=Oddset;4,95;3,75;1,65;93;2019-03-25 00:00:00Z
+	Odds=NordicBet;4,95;4;1,69;95,8;2019-03-26 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-07 16:00:00Z;Esbjerg fB;FC Midtjylland
+	Odds=bet365;5,5;3,8;1,6;93,5;2019-03-24 00:00:00Z
+	Odds=Oddset;4,95;3,75;1,65;93;2019-03-25 00:00:00Z
+	Odds=NordicBet;4,95;4;1,69;95,8;2019-03-26 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-07 16:00:00Z;Esbjerg fB;FC Midtjylland
+	Odds=bet365;5,5;3,8;1,6;93,5;2019-03-24 00:00:00Z
+	Odds=Oddset;4,95;3,75;1,65;93;2019-03-25 00:00:00Z
+	Odds=NordicBet;4,95;4;1,69;95,8;2019-03-26 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-07 16:00:00Z;Esbjerg fB;FC Midtjylland
+	Odds=bet365;5,5;3,8;1,6;93,5;2019-03-24 00:00:00Z
+	Odds=Oddset;4,95;3,75;1,65;93;2019-03-25 00:00:00Z
+	Odds=NordicBet;4,95;4;1,69;95,8;2019-03-26 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-07 16:00:00Z;Esbjerg fB;FC Midtjylland
+	Odds=bet365;5,5;3,8;1,6;93,5;2019-03-24 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-07 16:00:00Z;Esbjerg fB;FC Midtjylland
+	Odds=bet365;5;3,75;1,66;93,5;2019-03-24 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-07 16:00:00Z;Esbjerg fB;FC Midtjylland
+	Odds=bet365;5,5;3,8;1,6;93,5;2019-03-24 00:00:00Z
+	Odds=NordicBet;5,35;4;1,64;95,5;2019-03-30 00:00:00Z
+	Odds=Oddset;5,4;4;1,62;95;2019-04-01 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-07 16:00:00Z;Esbjerg fB;FC Midtjylland
+	Odds=bet365;5,5;3,8;1,6;93,5;2019-03-24 00:00:00Z
+	Odds=NordicBet;5,35;4;1,64;95,5;2019-03-30 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-07 16:00:00Z;Esbjerg fB;FC Midtjylland
+	Odds=Oddset;6,1;4,2;1,55;95,5;2019-04-04 00:00:00Z
+	Odds=bet365;7;4;1,5;94,4;2019-04-04 00:00:00Z
+	Odds=NordicBet;5,95;4,2;1,57;95,9;2019-04-05 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-07 16:00:00Z;Esbjerg fB;FC Midtjylland
+	Odds=NordicBet;5,95;4,1;1,58;95,7;2019-04-03 00:00:00Z
+	Odds=bet365;7;4;1,5;94,4;2019-04-04 00:00:00Z
+	Odds=Oddset;6,1;4,2;1,55;95,5;2019-04-04 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-07 16:00:00Z;Esbjerg fB;FC Midtjylland
+	Odds=NordicBet;5,95;4,1;1,58;95,7;2019-04-03 00:00:00Z
+	Odds=bet365;7;4;1,5;94,4;2019-04-04 00:00:00Z
+	Odds=Oddset;6,1;4,2;1,55;95,5;2019-04-04 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-07 16:00:00Z;Esbjerg fB;FC Midtjylland
+	Odds=Oddset;5,4;4;1,62;95;2019-04-01 00:00:00Z
+	Odds=bet365;6,5;4;1,53;94,6;2019-04-03 00:00:00Z
+	Odds=NordicBet;5,95;4,1;1,58;95,7;2019-04-03 00:00:00Z
 Superligaen|Mesterskabsspil;2019-04-07 16:00:00Z;Esbjerg fB;FC Midtjylland
 	Odds=bet365;5,5;3,8;1,6;93,5;2019-03-24 00:00:00Z
 	Odds=Oddset;4,95;3,75;1,65;93;2019-03-25 00:00:00Z
@@ -1255,76 +1298,13 @@ Superligaen|Mesterskabsspil;2019-04-07 16:00:00Z;Esbjerg fB;FC Midtjylland
 	Odds=Oddset;5,4;4;1,62;95;2019-04-01 00:00:00Z
 	Odds=NordicBet;5,25;4,05;1,65;95,8;2019-04-01 00:00:00Z
 Superligaen|Mesterskabsspil;2019-04-07 16:00:00Z;Esbjerg fB;FC Midtjylland
-	Odds=bet365;5,5;3,8;1,6;93,5;2019-03-24 00:00:00Z
-	Odds=Oddset;4,95;3,75;1,65;93;2019-03-25 00:00:00Z
-	Odds=NordicBet;4,95;4;1,69;95,8;2019-03-26 00:00:00Z
-Superligaen|Mesterskabsspil;2019-04-07 16:00:00Z;Esbjerg fB;FC Midtjylland
-	Odds=bet365;5,5;3,8;1,6;93,5;2019-03-24 00:00:00Z
-	Odds=Oddset;4,95;3,75;1,65;93;2019-03-25 00:00:00Z
-	Odds=NordicBet;4,95;4;1,69;95,8;2019-03-26 00:00:00Z
-Superligaen|Mesterskabsspil;2019-04-07 16:00:00Z;Esbjerg fB;FC Midtjylland
-	Odds=Oddset;5,4;4;1,62;95;2019-04-01 00:00:00Z
-	Odds=bet365;6,5;4;1,53;94,6;2019-04-03 00:00:00Z
-	Odds=NordicBet;5,95;4,1;1,58;95,7;2019-04-03 00:00:00Z
-Superligaen|Mesterskabsspil;2019-04-07 16:00:00Z;Esbjerg fB;FC Midtjylland
-	Odds=bet365;5,5;3,8;1,6;93,5;2019-03-24 00:00:00Z
-Superligaen|Mesterskabsspil;2019-04-07 16:00:00Z;Esbjerg fB;FC Midtjylland
-	Odds=bet365;5;3,75;1,66;93,5;2019-03-24 00:00:00Z
-Superligaen|Mesterskabsspil;2019-04-07 16:00:00Z;Esbjerg fB;FC Midtjylland
-	Odds=bet365;5,5;3,8;1,6;93,5;2019-03-24 00:00:00Z
-	Odds=NordicBet;5,35;4;1,64;95,5;2019-03-30 00:00:00Z
-Superligaen|Mesterskabsspil;2019-04-07 16:00:00Z;Esbjerg fB;FC Midtjylland
-	Odds=bet365;5,5;3,8;1,6;93,5;2019-03-24 00:00:00Z
-	Odds=Oddset;4,95;3,75;1,65;93;2019-03-25 00:00:00Z
-	Odds=NordicBet;4,95;4;1,69;95,8;2019-03-26 00:00:00Z
-Superligaen|Mesterskabsspil;2019-04-07 16:00:00Z;Esbjerg fB;FC Midtjylland
-	Odds=bet365;5,5;3,8;1,6;93,5;2019-03-24 00:00:00Z
-	Odds=NordicBet;5,35;4;1,64;95,5;2019-03-30 00:00:00Z
-	Odds=Oddset;5,4;4;1,62;95;2019-04-01 00:00:00Z
-Superligaen|Mesterskabsspil;2019-04-07 16:00:00Z;Esbjerg fB;FC Midtjylland
-	Odds=bet365;5,5;3,8;1,6;93,5;2019-03-24 00:00:00Z
-	Odds=Oddset;4,95;3,75;1,65;93;2019-03-25 00:00:00Z
-	Odds=NordicBet;4,95;4;1,69;95,8;2019-03-26 00:00:00Z
-Superligaen|Mesterskabsspil;2019-04-07 16:00:00Z;Esbjerg fB;FC Midtjylland
-	Odds=NordicBet;5,95;4,1;1,58;95,7;2019-04-03 00:00:00Z
-	Odds=bet365;7;4;1,5;94,4;2019-04-04 00:00:00Z
-	Odds=Oddset;6,1;4,2;1,55;95,5;2019-04-04 00:00:00Z
-Superligaen|Mesterskabsspil;2019-04-07 16:00:00Z;Esbjerg fB;FC Midtjylland
 	Odds=Oddset;6,1;4,2;1,55;95,5;2019-04-04 00:00:00Z
 	Odds=bet365;6;4,33;1,5;94;2019-04-07 00:00:00Z
 	Odds=NordicBet;5,95;4,2;1,57;95,9;2019-04-07 00:00:00Z
-Superligaen|Mesterskabsspil;2019-04-07 16:00:00Z;Esbjerg fB;FC Midtjylland
-	Odds=Oddset;6,1;4,2;1,55;95,5;2019-04-04 00:00:00Z
-	Odds=bet365;7;4;1,5;94,4;2019-04-04 00:00:00Z
-	Odds=NordicBet;5,95;4,2;1,57;95,9;2019-04-05 00:00:00Z
-Superligaen|Mesterskabsspil;2019-04-07 16:00:00Z;Esbjerg fB;FC Midtjylland
-	Odds=NordicBet;5,95;4,1;1,58;95,7;2019-04-03 00:00:00Z
-	Odds=bet365;7;4;1,5;94,4;2019-04-04 00:00:00Z
-	Odds=Oddset;6,1;4,2;1,55;95,5;2019-04-04 00:00:00Z
 Superligaen|Mesterskabsspil;2019-04-07 18:00:00Z;OB;FC København
 	Odds=bet365;3,4;3,5;2,05;93,7;2019-03-24 00:00:00Z
 	Odds=Oddset;3,3;3,5;2,05;92,9;2019-03-25 00:00:00Z
 	Odds=NordicBet;3,5;3,65;2,05;95,5;2019-03-27 00:00:00Z
-Superligaen|Mesterskabsspil;2019-04-07 18:00:00Z;OB;FC København
-	Odds=bet365;3,4;3,5;2,05;93,7;2019-03-24 00:00:00Z
-	Odds=Oddset;3,3;3,5;2,05;92,9;2019-03-25 00:00:00Z
-	Odds=NordicBet;3,5;3,65;2,05;95,5;2019-03-27 00:00:00Z
-Superligaen|Mesterskabsspil;2019-04-07 18:00:00Z;OB;FC København
-	Odds=bet365;3,4;3,5;2,05;93,7;2019-03-24 00:00:00Z
-	Odds=Oddset;3,3;3,5;2,05;92,9;2019-03-25 00:00:00Z
-	Odds=NordicBet;3,5;3,65;2,05;95,5;2019-03-27 00:00:00Z
-Superligaen|Mesterskabsspil;2019-04-07 18:00:00Z;OB;FC København
-	Odds=bet365;3,4;3,5;2,05;93,7;2019-03-24 00:00:00Z
-	Odds=Oddset;3,3;3,5;2,05;92,9;2019-03-25 00:00:00Z
-	Odds=NordicBet;3,55;3,6;2,05;95,5;2019-03-26 00:00:00Z
-Superligaen|Mesterskabsspil;2019-04-07 18:00:00Z;OB;FC København
-	Odds=bet365;3,4;3,5;2,05;93,7;2019-03-24 00:00:00Z
-Superligaen|Mesterskabsspil;2019-04-07 18:00:00Z;OB;FC København
-	Odds=bet365;3,4;3,5;2,05;93,7;2019-03-24 00:00:00Z
-	Odds=NordicBet;3,25;3,5;2,2;95,4;2019-04-01 00:00:00Z
-	Odds=Oddset;3,3;3,5;2,15;94,9;2019-04-01 00:00:00Z
-Superligaen|Mesterskabsspil;2019-04-07 18:00:00Z;OB;FC København
-	Odds=bet365;3,4;3,5;2,05;93,7;2019-03-24 00:00:00Z
 Superligaen|Mesterskabsspil;2019-04-07 18:00:00Z;OB;FC København
 	Odds=Oddset;3,3;3,5;2,15;94,9;2019-04-01 00:00:00Z
 	Odds=bet365;3,3;3,5;2,1;93,9;2019-04-02 00:00:00Z
@@ -1334,47 +1314,47 @@ Superligaen|Mesterskabsspil;2019-04-07 18:00:00Z;OB;FC København
 	Odds=bet365;3,2;3,5;2,15;94;2019-04-03 00:00:00Z
 	Odds=NordicBet;3;3,45;2,34;95,2;2019-04-03 00:00:00Z
 Superligaen|Mesterskabsspil;2019-04-07 18:00:00Z;OB;FC København
-	Odds=bet365;3,2;3,5;2,15;94;2019-04-03 00:00:00Z
-	Odds=Oddset;3,05;3,5;2,25;94,5;2019-04-04 00:00:00Z
-	Odds=NordicBet;3,05;3,5;2,3;95,4;2019-04-04 00:00:00Z
-Superligaen|Mesterskabsspil;2019-04-07 18:00:00Z;OB;FC København
-	Odds=Oddset;3,05;3,5;2,25;94,5;2019-04-04 00:00:00Z
 	Odds=bet365;3,1;3,5;2,2;94,1;2019-04-04 00:00:00Z
-	Odds=NordicBet;3;3,45;2,34;95,2;2019-04-05 00:00:00Z
+	Odds=Oddset;3,2;3,5;2,2;95;2019-04-06 00:00:00Z
+	Odds=NordicBet;3,1;3,4;2,31;95,3;2019-04-07 00:00:00Z
 Superligaen|Mesterskabsspil;2019-04-07 18:00:00Z;OB;FC København
 	Odds=bet365;3,1;3,5;2,2;94,1;2019-04-04 00:00:00Z
 	Odds=NordicBet;3;3,45;2,34;95,2;2019-04-05 00:00:00Z
 	Odds=Oddset;3,05;3,5;1;62;2019-04-06 00:00:00Z
 Superligaen|Mesterskabsspil;2019-04-07 18:00:00Z;OB;FC København
+	Odds=bet365;3,2;3,5;2,15;94;2019-04-03 00:00:00Z
+	Odds=Oddset;3,05;3,5;2,25;94,5;2019-04-04 00:00:00Z
+	Odds=NordicBet;3,05;3,5;2,3;95,4;2019-04-04 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-07 18:00:00Z;OB;FC København
+	Odds=bet365;3,4;3,5;2,05;93,7;2019-03-24 00:00:00Z
+	Odds=NordicBet;3,5;3,65;2,05;95,5;2019-03-27 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-07 18:00:00Z;OB;FC København
+	Odds=bet365;3,4;3,5;2,05;93,7;2019-03-24 00:00:00Z
+	Odds=NordicBet;3,5;3,65;2,05;95,5;2019-03-27 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-07 18:00:00Z;OB;FC København
+	Odds=bet365;3,4;3,5;2,05;93,7;2019-03-24 00:00:00Z
+	Odds=NordicBet;3,25;3,5;2,2;95,4;2019-04-01 00:00:00Z
+	Odds=Oddset;3,3;3,5;2,15;94,9;2019-04-01 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-07 18:00:00Z;OB;FC København
+	Odds=bet365;3,4;3,5;2,05;93,7;2019-03-24 00:00:00Z
+	Odds=Oddset;3,3;3,5;2,05;92,9;2019-03-25 00:00:00Z
+	Odds=NordicBet;3,5;3,65;2,05;95,5;2019-03-27 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-07 18:00:00Z;OB;FC København
+	Odds=bet365;3,4;3,5;2,05;93,7;2019-03-24 00:00:00Z
+	Odds=Oddset;3,3;3,5;2,05;92,9;2019-03-25 00:00:00Z
+	Odds=NordicBet;3,5;3,65;2,05;95,5;2019-03-27 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-07 18:00:00Z;OB;FC København
+	Odds=Oddset;3,05;3,5;2,25;94,5;2019-04-04 00:00:00Z
 	Odds=bet365;3,1;3,5;2,2;94,1;2019-04-04 00:00:00Z
-	Odds=Oddset;3,2;3,5;2,2;95;2019-04-06 00:00:00Z
-	Odds=NordicBet;3,1;3,4;2,31;95,3;2019-04-07 00:00:00Z
+	Odds=NordicBet;3;3,45;2,34;95,2;2019-04-05 00:00:00Z
 Superligaen|Mesterskabsspil;2019-04-07 18:00:00Z;OB;FC København
 	Odds=bet365;3,4;3,5;2,05;93,7;2019-03-24 00:00:00Z
-	Odds=NordicBet;3,5;3,65;2,05;95,5;2019-03-27 00:00:00Z
 Superligaen|Mesterskabsspil;2019-04-07 18:00:00Z;OB;FC København
 	Odds=bet365;3,4;3,5;2,05;93,7;2019-03-24 00:00:00Z
-	Odds=NordicBet;3,5;3,65;2,05;95,5;2019-03-27 00:00:00Z
-Superligaen|Mesterskabsspil;2019-04-08 19:00:00Z;FC Nordsjælland;Brøndby IF
-	Odds=Oddset;2,55;3,5;2,5;92,8;2019-03-25 00:00:00Z
-	Odds=bet365;2,5;3,6;2,6;94,1;2019-03-26 00:00:00Z
-	Odds=NordicBet;2,55;3,7;2,55;94,8;2019-03-26 00:00:00Z
-Superligaen|Mesterskabsspil;2019-04-08 19:00:00Z;FC Nordsjælland;Brøndby IF
-	Odds=Oddset;2,55;3,5;2,5;92,8;2019-03-25 00:00:00Z
-	Odds=bet365;2,5;3,6;2,6;94,1;2019-03-26 00:00:00Z
-	Odds=NordicBet;2,55;3,7;2,55;94,8;2019-03-26 00:00:00Z
-Superligaen|Mesterskabsspil;2019-04-08 19:00:00Z;FC Nordsjælland;Brøndby IF
-	Odds=bet365;2,87;3,4;2,4;94,4;2019-03-24 00:00:00Z
-Superligaen|Mesterskabsspil;2019-04-08 19:00:00Z;FC Nordsjælland;Brøndby IF
-	Odds=bet365;2,62;3,4;2,62;94,6;2019-03-24 00:00:00Z
-Superligaen|Mesterskabsspil;2019-04-08 19:00:00Z;FC Nordsjælland;Brøndby IF
-	Odds=Oddset;2,55;3,5;2,5;92,8;2019-03-25 00:00:00Z
-	Odds=bet365;2,5;3,6;2,6;94,1;2019-03-26 00:00:00Z
-	Odds=NordicBet;2,55;3,7;2,55;94,8;2019-03-26 00:00:00Z
-Superligaen|Mesterskabsspil;2019-04-08 19:00:00Z;FC Nordsjælland;Brøndby IF
-	Odds=Oddset;2,55;3,5;2,5;92,8;2019-03-25 00:00:00Z
-	Odds=bet365;2,5;3,6;2,6;94,1;2019-03-26 00:00:00Z
-	Odds=NordicBet;2,55;3,7;2,55;94,8;2019-03-29 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-07 18:00:00Z;OB;FC København
+	Odds=bet365;3,4;3,5;2,05;93,7;2019-03-24 00:00:00Z
+	Odds=Oddset;3,3;3,5;2,05;92,9;2019-03-25 00:00:00Z
+	Odds=NordicBet;3,55;3,6;2,05;95,5;2019-03-26 00:00:00Z
 Superligaen|Mesterskabsspil;2019-04-08 19:00:00Z;FC Nordsjælland;Brøndby IF
 	Odds=Oddset;2,35;3,8;2,75;95;2019-04-08 00:00:00Z
 	Odds=NordicBet;2,5;3,8;2,6;95,4;2019-04-08 00:00:00Z
@@ -1383,6 +1363,14 @@ Superligaen|Mesterskabsspil;2019-04-08 19:00:00Z;FC Nordsjælland;Brøndby IF
 	Odds=bet365;2,3;3,6;2,8;93,5;2019-04-04 00:00:00Z
 	Odds=Oddset;2,3;3,7;2,9;95,2;2019-04-05 00:00:00Z
 	Odds=NordicBet;2,38;3,8;2,75;95,5;2019-04-06 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-08 19:00:00Z;FC Nordsjælland;Brøndby IF
+	Odds=bet365;2,3;3,6;2,8;93,5;2019-04-04 00:00:00Z
+	Odds=Oddset;2,3;3,7;2,9;95,2;2019-04-05 00:00:00Z
+	Odds=NordicBet;2,38;3,8;2,75;95,5;2019-04-06 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-08 19:00:00Z;FC Nordsjælland;Brøndby IF
+	Odds=bet365;2,3;3,6;2,8;93,5;2019-04-04 00:00:00Z
+	Odds=Oddset;2,3;3,7;2,9;95,2;2019-04-05 00:00:00Z
+	Odds=NordicBet;2,34;3,8;2,8;95,5;2019-04-05 00:00:00Z
 Superligaen|Mesterskabsspil;2019-04-08 19:00:00Z;FC Nordsjælland;Brøndby IF
 	Odds=Oddset;2,45;3,7;2,7;95,3;2019-04-01 00:00:00Z
 	Odds=NordicBet;2,4;3,75;2,75;95,5;2019-04-02 00:00:00Z
@@ -1403,16 +1391,40 @@ Superligaen|Mesterskabsspil;2019-04-08 19:00:00Z;FC Nordsjælland;Brøndby IF
 	Odds=bet365;2,5;3,6;2,6;94,1;2019-03-26 00:00:00Z
 	Odds=NordicBet;2,5;3,8;2,55;94,8;2019-03-29 00:00:00Z
 Superligaen|Mesterskabsspil;2019-04-08 19:00:00Z;FC Nordsjælland;Brøndby IF
+	Odds=Oddset;2,55;3,5;2,5;92,8;2019-03-25 00:00:00Z
+	Odds=bet365;2,5;3,6;2,6;94,1;2019-03-26 00:00:00Z
+	Odds=NordicBet;2,55;3,7;2,55;94,8;2019-03-29 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-08 19:00:00Z;FC Nordsjælland;Brøndby IF
+	Odds=Oddset;2,55;3,5;2,5;92,8;2019-03-25 00:00:00Z
+	Odds=bet365;2,5;3,6;2,6;94,1;2019-03-26 00:00:00Z
+	Odds=NordicBet;2,55;3,7;2,55;94,8;2019-03-26 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-08 19:00:00Z;FC Nordsjælland;Brøndby IF
 	Odds=bet365;2,5;3,6;2,6;94,1;2019-03-26 00:00:00Z
 	Odds=NordicBet;2,5;3,8;2,55;94,8;2019-03-29 00:00:00Z
 Superligaen|Mesterskabsspil;2019-04-08 19:00:00Z;FC Nordsjælland;Brøndby IF
-	Odds=bet365;2,3;3,6;2,8;93,5;2019-04-04 00:00:00Z
-	Odds=Oddset;2,3;3,7;2,9;95,2;2019-04-05 00:00:00Z
-	Odds=NordicBet;2,34;3,8;2,8;95,5;2019-04-05 00:00:00Z
+	Odds=Oddset;2,55;3,5;2,5;92,8;2019-03-25 00:00:00Z
+	Odds=bet365;2,5;3,6;2,6;94,1;2019-03-26 00:00:00Z
+	Odds=NordicBet;2,55;3,7;2,55;94,8;2019-03-26 00:00:00Z
 Superligaen|Mesterskabsspil;2019-04-08 19:00:00Z;FC Nordsjælland;Brøndby IF
-	Odds=bet365;2,3;3,6;2,8;93,5;2019-04-04 00:00:00Z
-	Odds=Oddset;2,3;3,7;2,9;95,2;2019-04-05 00:00:00Z
-	Odds=NordicBet;2,38;3,8;2,75;95,5;2019-04-06 00:00:00Z
+	Odds=bet365;2,62;3,4;2,62;94,6;2019-03-24 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-08 19:00:00Z;FC Nordsjælland;Brøndby IF
+	Odds=bet365;2,87;3,4;2,4;94,4;2019-03-24 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-08 19:00:00Z;FC Nordsjælland;Brøndby IF
+	Odds=Oddset;2,55;3,5;2,5;92,8;2019-03-25 00:00:00Z
+	Odds=bet365;2,5;3,6;2,6;94,1;2019-03-26 00:00:00Z
+	Odds=NordicBet;2,55;3,7;2,55;94,8;2019-03-26 00:00:00Z
+Superligaen|Pulje 1;2019-04-12 19:00:00Z;Vejle Boldklub;AC Horsens
+	Odds=bet365;2,4;3,2;3;94,1;2019-04-08 00:00:00Z
+	Odds=NordicBet;2,34;3,45;3;95,2;2019-04-09 00:00:00Z
+	Odds=Oddset;2,35;3,35;3,05;95,1;2019-04-09 00:00:00Z
+Superligaen|Pulje 1;2019-04-12 19:00:00Z;Vejle Boldklub;AC Horsens
+	Odds=Oddset;2,35;3,35;3,05;95,1;2019-04-09 00:00:00Z
+	Odds=NordicBet;2,34;3,45;3;95,2;2019-04-09 00:00:00Z
+	Odds=bet365;2,25;3,2;3,25;93,9;2019-04-11 00:00:00Z
+Superligaen|Pulje 1;2019-04-12 19:00:00Z;Vejle Boldklub;AC Horsens
+	Odds=Oddset;2,35;3,35;3,05;95,1;2019-04-09 00:00:00Z
+	Odds=NordicBet;2,34;3,45;3;95,2;2019-04-09 00:00:00Z
+	Odds=bet365;2,37;3,2;3;93,7;2019-04-10 00:00:00Z
 Superligaen|Pulje 1;2019-04-12 19:00:00Z;Vejle Boldklub;AC Horsens
 	Odds=NordicBet;2,4;3,45;2,85;94,6;2019-04-07 00:00:00Z
 	Odds=bet365;2,4;3,2;3;94,1;2019-04-08 00:00:00Z
@@ -1427,56 +1439,38 @@ Superligaen|Pulje 1;2019-04-12 19:00:00Z;Vejle Boldklub;AC Horsens
 	Odds=bet365;2,2;3,2;3,4;94,2;2019-04-12 00:00:00Z
 	Odds=NordicBet;2,29;3,45;3,1;95,3;2019-04-12 00:00:00Z
 	Odds=Oddset;2,35;3,35;3,05;95,1;2019-04-12 00:00:00Z
-Superligaen|Pulje 1;2019-04-12 19:00:00Z;Vejle Boldklub;AC Horsens
-	Odds=Oddset;2,35;3,35;3,05;95,1;2019-04-09 00:00:00Z
-	Odds=NordicBet;2,34;3,45;3;95,2;2019-04-09 00:00:00Z
-	Odds=bet365;2,25;3,2;3,25;93,9;2019-04-11 00:00:00Z
-Superligaen|Pulje 1;2019-04-12 19:00:00Z;Vejle Boldklub;AC Horsens
-	Odds=Oddset;2,35;3,35;3,05;95,1;2019-04-09 00:00:00Z
-	Odds=NordicBet;2,34;3,45;3;95,2;2019-04-09 00:00:00Z
-	Odds=bet365;2,37;3,2;3;93,7;2019-04-10 00:00:00Z
-Superligaen|Pulje 1;2019-04-12 19:00:00Z;Vejle Boldklub;AC Horsens
-	Odds=bet365;2,4;3,2;3;94,1;2019-04-08 00:00:00Z
-	Odds=NordicBet;2,34;3,45;3;95,2;2019-04-09 00:00:00Z
-	Odds=Oddset;2,35;3,35;3,05;95,1;2019-04-09 00:00:00Z
-Superligaen|Pulje 2;2019-04-13 16:00:00Z;Vendsyssel;AaB
-	Odds=NordicBet;3,3;3,55;2,15;95,3;2019-04-07 00:00:00Z
 Superligaen|Pulje 2;2019-04-13 16:00:00Z;Vendsyssel;AaB
 	Odds=bet365;3,1;3,3;2,3;94,3;2019-04-07 00:00:00Z
 	Odds=NordicBet;3,05;3,35;2,36;95,2;2019-04-08 00:00:00Z
 	Odds=Oddset;3,15;3,4;2,3;95,6;2019-04-08 00:00:00Z
 Superligaen|Pulje 2;2019-04-13 16:00:00Z;Vendsyssel;AaB
 	Odds=bet365;3,1;3,3;2,3;94,3;2019-04-07 00:00:00Z
-	Odds=NordicBet;2,95;3,35;2,4;94,9;2019-04-09 00:00:00Z
 	Odds=Oddset;3,05;3,4;2,35;95,5;2019-04-12 00:00:00Z
-Superligaen|Pulje 2;2019-04-13 16:00:00Z;Vendsyssel;AaB
-	Odds=NordicBet;3,45;3,45;2,13;95,3;2019-04-05 00:00:00Z
+	Odds=NordicBet;3;3,35;2,39;95,2;2019-04-13 00:00:00Z
 Superligaen|Pulje 2;2019-04-13 16:00:00Z;Vendsyssel;AaB
 	Odds=Oddset;3,5;3,35;2,05;93,3;2019-04-01 00:00:00Z
 Superligaen|Pulje 2;2019-04-13 16:00:00Z;Vendsyssel;AaB
 	Odds=bet365;3,1;3,3;2,3;94,3;2019-04-07 00:00:00Z
+	Odds=NordicBet;2,95;3,35;2,4;94,9;2019-04-09 00:00:00Z
 	Odds=Oddset;3,05;3,4;2,35;95,5;2019-04-12 00:00:00Z
-	Odds=NordicBet;3;3,35;2,39;95,2;2019-04-13 00:00:00Z
+Superligaen|Pulje 2;2019-04-13 16:00:00Z;Vendsyssel;AaB
+	Odds=bet365;3,1;3,3;2,3;94,3;2019-04-07 00:00:00Z
+	Odds=NordicBet;2,95;3,35;2,4;94,9;2019-04-09 00:00:00Z
+	Odds=Oddset;3,05;3,4;2,35;95,5;2019-04-11 00:00:00Z
+Superligaen|Pulje 2;2019-04-13 16:00:00Z;Vendsyssel;AaB
+	Odds=bet365;3,1;3,3;2,3;94,3;2019-04-07 00:00:00Z
+	Odds=Oddset;3,15;3,4;2,3;95,6;2019-04-08 00:00:00Z
+	Odds=NordicBet;2,95;3,35;2,4;94,9;2019-04-09 00:00:00Z
 Superligaen|Pulje 2;2019-04-13 16:00:00Z;Vendsyssel;AaB
 	Odds=bet365;3,1;3,3;2,3;94,3;2019-04-07 00:00:00Z
 	Odds=Oddset;3,15;3,4;2,3;95,6;2019-04-08 00:00:00Z
 	Odds=NordicBet;3,05;3,35;2,36;95,2;2019-04-09 00:00:00Z
 Superligaen|Pulje 2;2019-04-13 16:00:00Z;Vendsyssel;AaB
-	Odds=bet365;3,1;3,3;2,3;94,3;2019-04-07 00:00:00Z
-	Odds=Oddset;3,15;3,4;2,3;95,6;2019-04-08 00:00:00Z
-	Odds=NordicBet;2,95;3,35;2,4;94,9;2019-04-09 00:00:00Z
+	Odds=NordicBet;3,3;3,55;2,15;95,3;2019-04-07 00:00:00Z
 Superligaen|Pulje 2;2019-04-13 16:00:00Z;Vendsyssel;AaB
-	Odds=bet365;3,1;3,3;2,3;94,3;2019-04-07 00:00:00Z
-	Odds=NordicBet;2,95;3,35;2,4;94,9;2019-04-09 00:00:00Z
-	Odds=Oddset;3,05;3,4;2,35;95,5;2019-04-11 00:00:00Z
+	Odds=NordicBet;3,45;3,45;2,13;95,3;2019-04-05 00:00:00Z
 Superligaen|Pulje 2;2019-04-14 12:00:00Z;Hobro;Randers FC
-	Odds=Oddset;3,05;3,2;2,45;95,4;2019-04-08 00:00:00Z
-	Odds=bet365;2,7;3,3;2,5;93,2;2019-04-08 00:00:00Z
-	Odds=NordicBet;2,95;3,25;2,45;94,8;2019-04-08 00:00:00Z
-Superligaen|Pulje 2;2019-04-14 12:00:00Z;Hobro;Randers FC
-	Odds=NordicBet;2,95;3,25;2,45;94,8;2019-04-09 00:00:00Z
-	Odds=Oddset;2,8;3,2;2,65;95,5;2019-04-09 00:00:00Z
-	Odds=bet365;2,8;3,3;2,45;93,6;2019-04-09 00:00:00Z
+	Odds=NordicBet;3,05;3,2;2,4;94,6;2019-04-07 00:00:00Z
 Superligaen|Pulje 2;2019-04-14 12:00:00Z;Hobro;Randers FC
 	Odds=Oddset;2,8;3,2;2,65;95,5;2019-04-09 00:00:00Z
 	Odds=bet365;2,8;3,3;2,45;93,6;2019-04-09 00:00:00Z
@@ -1502,15 +1496,13 @@ Superligaen|Pulje 2;2019-04-14 12:00:00Z;Hobro;Randers FC
 Superligaen|Pulje 2;2019-04-14 12:00:00Z;Hobro;Randers FC
 	Odds=NordicBet;3,1;3,35;2,33;95,2;2019-04-05 00:00:00Z
 Superligaen|Pulje 2;2019-04-14 12:00:00Z;Hobro;Randers FC
-	Odds=NordicBet;3,05;3,2;2,4;94,6;2019-04-07 00:00:00Z
-Superligaen|Mesterskabsspil;2019-04-14 14:00:00Z;FC Nordsjælland;Esbjerg fB
-	Odds=bet365;1,7;3,6;5;93,8;2019-04-07 00:00:00Z
-	Odds=NordicBet;1,73;4,05;4,55;95,7;2019-04-08 00:00:00Z
-Superligaen|Mesterskabsspil;2019-04-14 14:00:00Z;FC Nordsjælland;Esbjerg fB
-	Odds=NordicBet;1,7;4,15;4,65;95,8;2019-04-09 00:00:00Z
-	Odds=bet365;1,66;3,75;5;93,5;2019-04-09 00:00:00Z
-Superligaen|Mesterskabsspil;2019-04-14 14:00:00Z;FC Nordsjælland;Esbjerg fB
-	Odds=NordicBet;1,69;3,95;4,95;95,5;2019-04-05 00:00:00Z
+	Odds=Oddset;3,05;3,2;2,45;95,4;2019-04-08 00:00:00Z
+	Odds=bet365;2,7;3,3;2,5;93,2;2019-04-08 00:00:00Z
+	Odds=NordicBet;2,95;3,25;2,45;94,8;2019-04-08 00:00:00Z
+Superligaen|Pulje 2;2019-04-14 12:00:00Z;Hobro;Randers FC
+	Odds=NordicBet;2,95;3,25;2,45;94,8;2019-04-09 00:00:00Z
+	Odds=Oddset;2,8;3,2;2,65;95,5;2019-04-09 00:00:00Z
+	Odds=bet365;2,8;3,3;2,45;93,6;2019-04-09 00:00:00Z
 Superligaen|Mesterskabsspil;2019-04-14 14:00:00Z;FC Nordsjælland;Esbjerg fB
 	Odds=NordicBet;1,64;4,4;4,85;95,9;2019-04-14 00:00:00Z
 	Odds=bet365;1,61;4;5;93,4;2019-04-14 00:00:00Z
@@ -1520,43 +1512,41 @@ Superligaen|Mesterskabsspil;2019-04-14 14:00:00Z;FC Nordsjælland;Esbjerg fB
 	Odds=bet365;1,61;3,8;5,5;93,8;2019-04-12 00:00:00Z
 	Odds=NordicBet;1,71;4,05;4,65;95,5;2019-04-13 00:00:00Z
 Superligaen|Mesterskabsspil;2019-04-14 14:00:00Z;FC Nordsjælland;Esbjerg fB
-	Odds=Oddset;1,75;3,8;4,35;93,9;2019-04-02 00:00:00Z
+	Odds=bet365;1,66;3,75;5;93,5;2019-04-09 00:00:00Z
+	Odds=NordicBet;1,68;4,15;4,8;95,7;2019-04-12 00:00:00Z
+	Odds=Oddset;1,7;3,95;4,8;95,3;2019-04-12 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-14 14:00:00Z;FC Nordsjælland;Esbjerg fB
+	Odds=NordicBet;1,7;4,15;4,65;95,8;2019-04-09 00:00:00Z
+	Odds=bet365;1,66;3,75;5;93,5;2019-04-09 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-14 14:00:00Z;FC Nordsjælland;Esbjerg fB
+	Odds=bet365;1,66;3,75;5;93,5;2019-04-09 00:00:00Z
+	Odds=NordicBet;1,7;4,1;4,7;95,7;2019-04-10 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-14 14:00:00Z;FC Nordsjælland;Esbjerg fB
+	Odds=bet365;1,7;3,6;5;93,8;2019-04-07 00:00:00Z
+	Odds=NordicBet;1,73;4,05;4,55;95,7;2019-04-08 00:00:00Z
 Superligaen|Mesterskabsspil;2019-04-14 14:00:00Z;FC Nordsjælland;Esbjerg fB
 	Odds=bet365;1,66;3,75;5;93,5;2019-04-09 00:00:00Z
 	Odds=Oddset;1,7;3,95;4,8;95,3;2019-04-11 00:00:00Z
 	Odds=NordicBet;1,71;4,05;4,7;95,7;2019-04-11 00:00:00Z
 Superligaen|Mesterskabsspil;2019-04-14 14:00:00Z;FC Nordsjælland;Esbjerg fB
-	Odds=bet365;1,66;3,75;5;93,5;2019-04-09 00:00:00Z
-	Odds=NordicBet;1,7;4,1;4,7;95,7;2019-04-10 00:00:00Z
+	Odds=NordicBet;1,69;3,95;4,95;95,5;2019-04-05 00:00:00Z
 Superligaen|Mesterskabsspil;2019-04-14 14:00:00Z;FC Nordsjælland;Esbjerg fB
-	Odds=bet365;1,66;3,75;5;93,5;2019-04-09 00:00:00Z
-	Odds=NordicBet;1,68;4,15;4,8;95,7;2019-04-12 00:00:00Z
-	Odds=Oddset;1,7;3,95;4,8;95,3;2019-04-12 00:00:00Z
+	Odds=Oddset;1,75;3,8;4,35;93,9;2019-04-02 00:00:00Z
 Superligaen|Mesterskabsspil;2019-04-14 14:00:00Z;FC Nordsjælland;Esbjerg fB
 	Odds=NordicBet;1,82;3,85;4,2;95,5;2019-04-07 00:00:00Z
 Superligaen|Mesterskabsspil;2019-04-14 16:00:00Z;Brøndby IF;FC København
 	Odds=NordicBet;2,75;3,45;2,5;94,9;2019-04-07 00:00:00Z
 Superligaen|Mesterskabsspil;2019-04-14 16:00:00Z;Brøndby IF;FC København
-	Odds=NordicBet;2,8;3,5;2,4;94,4;2019-04-07 00:00:00Z
-	Odds=bet365;2,7;3,4;2,5;93,9;2019-04-08 00:00:00Z
-Superligaen|Mesterskabsspil;2019-04-14 16:00:00Z;Brøndby IF;FC København
-	Odds=NordicBet;2,85;3,45;2,45;95,3;2019-04-09 00:00:00Z
 	Odds=bet365;2,9;3,4;2,37;94,3;2019-04-09 00:00:00Z
-Superligaen|Mesterskabsspil;2019-04-14 16:00:00Z;Brøndby IF;FC København
-	Odds=bet365;2,9;3,4;2,37;94,3;2019-04-09 00:00:00Z
-	Odds=Oddset;3,35;3,25;2,25;95,2;2019-04-12 00:00:00Z
-	Odds=NordicBet;3,1;3,15;2,4;94,6;2019-04-12 00:00:00Z
+	Odds=NordicBet;2,95;3,45;2,37;95,2;2019-04-10 00:00:00Z
 Superligaen|Mesterskabsspil;2019-04-14 16:00:00Z;Brøndby IF;FC København
 	Odds=bet365;2,9;3,4;2,37;94,3;2019-04-09 00:00:00Z
 	Odds=Oddset;3,25;3,45;2,2;95;2019-04-11 00:00:00Z
 	Odds=NordicBet;2,95;3,5;2,38;95,7;2019-04-11 00:00:00Z
 Superligaen|Mesterskabsspil;2019-04-14 16:00:00Z;Brøndby IF;FC København
 	Odds=bet365;2,9;3,4;2,37;94,3;2019-04-09 00:00:00Z
-	Odds=NordicBet;2,95;3,45;2,37;95,2;2019-04-10 00:00:00Z
-Superligaen|Mesterskabsspil;2019-04-14 16:00:00Z;Brøndby IF;FC København
-	Odds=NordicBet;2,7;3,5;2,5;94,7;2019-04-05 00:00:00Z
-Superligaen|Mesterskabsspil;2019-04-14 16:00:00Z;Brøndby IF;FC København
-	Odds=Oddset;2,95;3,45;2,25;93,2;2019-04-01 00:00:00Z
+	Odds=Oddset;3,35;3,25;2,25;95,2;2019-04-12 00:00:00Z
+	Odds=NordicBet;3,1;3,15;2,4;94,6;2019-04-12 00:00:00Z
 Superligaen|Mesterskabsspil;2019-04-14 16:00:00Z;Brøndby IF;FC København
 	Odds=bet365;2,9;3,4;2,37;94,3;2019-04-09 00:00:00Z
 	Odds=NordicBet;3,1;3,15;2,4;94,6;2019-04-12 00:00:00Z
@@ -1565,92 +1555,97 @@ Superligaen|Mesterskabsspil;2019-04-14 16:00:00Z;Brøndby IF;FC København
 	Odds=bet365;3,1;3,4;2,25;94,2;2019-04-14 00:00:00Z
 	Odds=Oddset;3,25;3,4;2,2;94,7;2019-04-14 00:00:00Z
 	Odds=NordicBet;3,05;3,3;2,39;95,3;2019-04-14 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-14 16:00:00Z;Brøndby IF;FC København
+	Odds=Oddset;2,95;3,45;2,25;93,2;2019-04-01 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-14 16:00:00Z;Brøndby IF;FC København
+	Odds=NordicBet;2,7;3,5;2,5;94,7;2019-04-05 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-14 16:00:00Z;Brøndby IF;FC København
+	Odds=NordicBet;2,8;3,5;2,4;94,4;2019-04-07 00:00:00Z
+	Odds=bet365;2,7;3,4;2,5;93,9;2019-04-08 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-14 16:00:00Z;Brøndby IF;FC København
+	Odds=NordicBet;2,85;3,45;2,45;95,3;2019-04-09 00:00:00Z
+	Odds=bet365;2,9;3,4;2,37;94,3;2019-04-09 00:00:00Z
 Superligaen|Mesterskabsspil;2019-04-14 18:00:00Z;FC Midtjylland;OB
 	Odds=bet365;1,61;3,75;5,5;93,5;2019-04-08 00:00:00Z
 	Odds=NordicBet;1,62;4,25;5,15;95,5;2019-04-10 00:00:00Z
 	Odds=Oddset;1,62;4;5,4;95;2019-04-12 00:00:00Z
 Superligaen|Mesterskabsspil;2019-04-14 18:00:00Z;FC Midtjylland;OB
-	Odds=NordicBet;1,65;4,15;5,05;95,7;2019-04-14 00:00:00Z
-	Odds=Oddset;1,62;4;5,4;95;2019-04-14 00:00:00Z
-	Odds=bet365;1,57;3,8;6;93,7;2019-04-14 00:00:00Z
+	Odds=Oddset;1,62;4;5,4;95;2019-04-08 00:00:00Z
+	Odds=bet365;1,61;3,75;5,5;93,5;2019-04-08 00:00:00Z
+	Odds=NordicBet;1,62;4,25;5,15;95,5;2019-04-10 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-14 18:00:00Z;FC Midtjylland;OB
+	Odds=NordicBet;1,74;3,8;4,8;95,6;2019-04-02 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-14 18:00:00Z;FC Midtjylland;OB
+	Odds=NordicBet;1,74;3,8;4,8;95,6;2019-04-02 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-14 18:00:00Z;FC Midtjylland;OB
+	Odds=Oddset;1,62;4;5,4;95;2019-04-08 00:00:00Z
+	Odds=bet365;1,61;3,75;5,5;93,5;2019-04-08 00:00:00Z
+	Odds=NordicBet;1,62;4,25;5,15;95,5;2019-04-10 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-14 18:00:00Z;FC Midtjylland;OB
+	Odds=bet365;1,61;3,75;5,5;93,5;2019-04-08 00:00:00Z
+	Odds=NordicBet;1,62;4,25;5,15;95,5;2019-04-10 00:00:00Z
+	Odds=Oddset;1,62;4;5,4;95;2019-04-12 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-14 18:00:00Z;FC Midtjylland;OB
+	Odds=NordicBet;1,74;3,8;4,8;95,6;2019-04-02 00:00:00Z
 Superligaen|Mesterskabsspil;2019-04-14 18:00:00Z;FC Midtjylland;OB
 	Odds=Oddset;1,7;3,75;4,5;92,8;2019-04-01 00:00:00Z
 	Odds=NordicBet;1,74;3,8;4,8;95,6;2019-04-02 00:00:00Z
 Superligaen|Mesterskabsspil;2019-04-14 18:00:00Z;FC Midtjylland;OB
-	Odds=NordicBet;1,74;3,8;4,8;95,6;2019-04-02 00:00:00Z
-Superligaen|Mesterskabsspil;2019-04-14 18:00:00Z;FC Midtjylland;OB
-	Odds=NordicBet;1,74;3,8;4,8;95,6;2019-04-02 00:00:00Z
-Superligaen|Mesterskabsspil;2019-04-14 18:00:00Z;FC Midtjylland;OB
-	Odds=bet365;1,61;3,75;5,5;93,5;2019-04-08 00:00:00Z
-	Odds=NordicBet;1,62;4,25;5,15;95,5;2019-04-10 00:00:00Z
-	Odds=Oddset;1,62;4;5,4;95;2019-04-12 00:00:00Z
-Superligaen|Mesterskabsspil;2019-04-14 18:00:00Z;FC Midtjylland;OB
 	Odds=Oddset;1,62;4;5,4;95;2019-04-08 00:00:00Z
 	Odds=bet365;1,61;3,75;5,5;93,5;2019-04-08 00:00:00Z
-	Odds=NordicBet;1,62;4,25;5,15;95,5;2019-04-10 00:00:00Z
-Superligaen|Mesterskabsspil;2019-04-14 18:00:00Z;FC Midtjylland;OB
-	Odds=Oddset;1,62;4;5,4;95;2019-04-08 00:00:00Z
-	Odds=bet365;1,61;3,75;5,5;93,5;2019-04-08 00:00:00Z
-	Odds=NordicBet;1,62;4,25;5,15;95,5;2019-04-10 00:00:00Z
-Superligaen|Mesterskabsspil;2019-04-14 18:00:00Z;FC Midtjylland;OB
-	Odds=NordicBet;1,74;3,8;4,8;95,6;2019-04-02 00:00:00Z
-Superligaen|Mesterskabsspil;2019-04-14 18:00:00Z;FC Midtjylland;OB
-	Odds=NordicBet;1,74;3,8;4,8;95,6;2019-04-02 00:00:00Z
-Superligaen|Mesterskabsspil;2019-04-14 18:00:00Z;FC Midtjylland;OB
-	Odds=NordicBet;1,73;3,95;4,65;95,6;2019-04-07 00:00:00Z
+	Odds=NordicBet;1,65;4,1;5,15;95,8;2019-04-09 00:00:00Z
 Superligaen|Mesterskabsspil;2019-04-14 18:00:00Z;FC Midtjylland;OB
 	Odds=Oddset;1,62;4;5,4;95;2019-04-08 00:00:00Z
 	Odds=NordicBet;1,68;4,05;4,95;95,8;2019-04-08 00:00:00Z
 	Odds=bet365;1,61;3,75;5,5;93,5;2019-04-08 00:00:00Z
 Superligaen|Mesterskabsspil;2019-04-14 18:00:00Z;FC Midtjylland;OB
-	Odds=Oddset;1,62;4;5,4;95;2019-04-08 00:00:00Z
-	Odds=bet365;1,61;3,75;5,5;93,5;2019-04-08 00:00:00Z
-	Odds=NordicBet;1,65;4,1;5,15;95,8;2019-04-09 00:00:00Z
+	Odds=NordicBet;1,73;3,95;4,65;95,6;2019-04-07 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-14 18:00:00Z;FC Midtjylland;OB
+	Odds=NordicBet;1,65;4,15;5,05;95,7;2019-04-14 00:00:00Z
+	Odds=Oddset;1,62;4;5,4;95;2019-04-14 00:00:00Z
+	Odds=bet365;1,57;3,8;6;93,7;2019-04-14 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-14 18:00:00Z;FC Midtjylland;OB
+	Odds=NordicBet;1,74;3,8;4,8;95,6;2019-04-02 00:00:00Z
 Superligaen|Pulje 1;2019-04-15 19:00:00Z;SønderjyskE;AGF
 	Odds=Oddset;2,5;3,35;2,85;95,3;2019-04-08 00:00:00Z
 	Odds=bet365;2,5;3,25;2,8;93,9;2019-04-08 00:00:00Z
 	Odds=NordicBet;2,4;3,4;2,95;95,3;2019-04-10 00:00:00Z
 Superligaen|Pulje 1;2019-04-15 19:00:00Z;SønderjyskE;AGF
 	Odds=bet365;2,5;3,25;2,8;93,9;2019-04-08 00:00:00Z
-	Odds=Oddset;2,6;3,35;2,75;95,5;2019-04-14 00:00:00Z
-	Odds=NordicBet;2,55;3,4;2,75;95,2;2019-04-14 00:00:00Z
-Superligaen|Pulje 1;2019-04-15 19:00:00Z;SønderjyskE;AGF
-	Odds=Oddset;2,5;3,35;2,85;95,3;2019-04-08 00:00:00Z
-	Odds=bet365;2,5;3,25;2,8;93,9;2019-04-08 00:00:00Z
-	Odds=NordicBet;2,4;3,4;2,9;94,7;2019-04-11 00:00:00Z
-Superligaen|Pulje 1;2019-04-15 19:00:00Z;SønderjyskE;AGF
-	Odds=bet365;2,5;3,25;2,8;93,9;2019-04-08 00:00:00Z
 	Odds=NordicBet;2,4;3,4;2,9;94,7;2019-04-12 00:00:00Z
 	Odds=Oddset;2,5;3,35;2,85;95,3;2019-04-12 00:00:00Z
 Superligaen|Pulje 1;2019-04-15 19:00:00Z;SønderjyskE;AGF
+	Odds=Oddset;2,5;3,35;2,85;95,3;2019-04-08 00:00:00Z
 	Odds=bet365;2,5;3,25;2,8;93,9;2019-04-08 00:00:00Z
-	Odds=Oddset;2,55;3,35;2,8;95,4;2019-04-12 00:00:00Z
-	Odds=NordicBet;2,5;3,35;2,85;95,3;2019-04-13 00:00:00Z
+Superligaen|Pulje 1;2019-04-15 19:00:00Z;SønderjyskE;AGF
+	Odds=Oddset;2,5;3,35;2,75;94,1;2019-04-02 00:00:00Z
 Superligaen|Pulje 1;2019-04-15 19:00:00Z;SønderjyskE;AGF
 	Odds=bet365;2,5;3,25;2,8;93,9;2019-04-08 00:00:00Z
 	Odds=Oddset;2,6;3,35;2,75;95,5;2019-04-14 00:00:00Z
 	Odds=NordicBet;2,55;3,4;2,75;95,2;2019-04-15 00:00:00Z
 Superligaen|Pulje 1;2019-04-15 19:00:00Z;SønderjyskE;AGF
-	Odds=Oddset;2,5;3,35;2,75;94,1;2019-04-02 00:00:00Z
+	Odds=bet365;2,5;3,25;2,8;93,9;2019-04-08 00:00:00Z
+	Odds=Oddset;2,6;3,35;2,75;95,5;2019-04-14 00:00:00Z
+	Odds=NordicBet;2,55;3,4;2,75;95,2;2019-04-14 00:00:00Z
+Superligaen|Pulje 1;2019-04-15 19:00:00Z;SønderjyskE;AGF
+	Odds=bet365;2,5;3,25;2,8;93,9;2019-04-08 00:00:00Z
+	Odds=Oddset;2,55;3,35;2,8;95,4;2019-04-12 00:00:00Z
+	Odds=NordicBet;2,5;3,35;2,85;95,3;2019-04-13 00:00:00Z
 Superligaen|Pulje 1;2019-04-15 19:00:00Z;SønderjyskE;AGF
 	Odds=Oddset;2,5;3,35;2,85;95,3;2019-04-08 00:00:00Z
 	Odds=bet365;2,5;3,25;2,8;93,9;2019-04-08 00:00:00Z
+	Odds=NordicBet;2,4;3,4;2,9;94,7;2019-04-11 00:00:00Z
 Superligaen|Pulje 1;2019-04-15 19:00:00Z;SønderjyskE;AGF
 	Odds=Oddset;2,5;3,35;2,85;95,3;2019-04-08 00:00:00Z
 	Odds=bet365;2,5;3,25;2,8;93,9;2019-04-08 00:00:00Z
 Superligaen|Pulje 2;2019-04-17 18:00:00Z;AaB;Vendsyssel
 	Odds=Oddset;1,82;3,35;4,65;94,1;2019-04-09 00:00:00Z
+	Odds=NordicBet;1,82;3,6;4,55;95,5;2019-04-10 00:00:00Z
 Superligaen|Pulje 2;2019-04-17 18:00:00Z;AaB;Vendsyssel
 	Odds=Oddset;1,82;3,35;4,65;94,1;2019-04-09 00:00:00Z
-	Odds=NordicBet;1,82;3,6;4,55;95,5;2019-04-10 00:00:00Z
-Superligaen|Pulje 2;2019-04-17 18:00:00Z;AaB;Vendsyssel
-	Odds=NordicBet;1,82;3,6;4,55;95,5;2019-04-10 00:00:00Z
-	Odds=bet365;1,8;3,5;4,5;94;2019-04-12 00:00:00Z
 Superligaen|Pulje 2;2019-04-17 18:00:00Z;AaB;Vendsyssel
 	Odds=NordicBet;1,83;3,55;4,6;95,6;2019-04-12 00:00:00Z
 	Odds=bet365;1,8;3,5;4,5;94;2019-04-12 00:00:00Z
-Superligaen|Pulje 2;2019-04-17 18:00:00Z;AaB;Vendsyssel
-	Odds=Oddset;1,82;3,35;4,65;94,1;2019-04-09 00:00:00Z
 Superligaen|Pulje 2;2019-04-17 18:00:00Z;AaB;Vendsyssel
 	Odds=bet365;1,8;3,5;4,5;94;2019-04-12 00:00:00Z
 	Odds=NordicBet;1,82;3,75;4,35;95,6;2019-04-14 00:00:00Z
@@ -1658,24 +1653,48 @@ Superligaen|Pulje 2;2019-04-17 18:00:00Z;AaB;Vendsyssel
 	Odds=Oddset;1,9;3,35;4,25;94,3;2019-04-14 00:00:00Z
 	Odds=NordicBet;1,93;3,7;3,85;95,4;2019-04-14 00:00:00Z
 	Odds=bet365;1,85;3,4;4,33;93,8;2019-04-14 00:00:00Z
+Superligaen|Pulje 2;2019-04-17 18:00:00Z;AaB;Vendsyssel
+	Odds=Oddset;1,95;3,5;4;95,4;2019-04-15 00:00:00Z
+	Odds=bet365;1,95;3,3;4,33;95,5;2019-04-16 00:00:00Z
+	Odds=NordicBet;1,96;3,65;3,8;95,5;2019-04-16 00:00:00Z
+Superligaen|Pulje 2;2019-04-17 18:00:00Z;AaB;Vendsyssel
+	Odds=Oddset;1,95;3,5;4;95,4;2019-04-15 00:00:00Z
+	Odds=bet365;1,95;3,3;4,33;95,5;2019-04-16 00:00:00Z
+	Odds=NordicBet;2,05;3,55;3,6;95,5;2019-04-17 00:00:00Z
+Superligaen|Pulje 2;2019-04-17 18:00:00Z;AaB;Vendsyssel
+	Odds=Oddset;1,82;3,35;4,65;94,1;2019-04-09 00:00:00Z
+Superligaen|Pulje 2;2019-04-17 18:00:00Z;AaB;Vendsyssel
+	Odds=NordicBet;1,82;3,6;4,55;95,5;2019-04-10 00:00:00Z
+	Odds=bet365;1,8;3,5;4,5;94;2019-04-12 00:00:00Z
 Superligaen|Pulje 1;2019-04-18 12:00:00Z;AGF;SønderjyskE
-	Odds=Oddset;1,95;3,4;3,9;94;2019-04-09 00:00:00Z
-Superligaen|Pulje 1;2019-04-18 12:00:00Z;AGF;SønderjyskE
-	Odds=Oddset;1,95;3,4;3,9;94;2019-04-09 00:00:00Z
-Superligaen|Pulje 1;2019-04-18 12:00:00Z;AGF;SønderjyskE
-	Odds=Oddset;1,95;3,4;3,9;94;2019-04-09 00:00:00Z
-Superligaen|Pulje 1;2019-04-18 12:00:00Z;AGF;SønderjyskE
-	Odds=bet365;2;3,5;3,7;94,7;2019-04-12 00:00:00Z
-Superligaen|Pulje 1;2019-04-18 12:00:00Z;AGF;SønderjyskE
-	Odds=NordicBet;2,05;3,55;3,6;95,5;2019-04-12 00:00:00Z
-	Odds=bet365;2;3,5;3,7;94,7;2019-04-12 00:00:00Z
-Superligaen|Pulje 1;2019-04-18 12:00:00Z;AGF;SønderjyskE
-	Odds=bet365;2;3,5;3,7;94,7;2019-04-12 00:00:00Z
-	Odds=NordicBet;2,08;3,5;3,55;95,4;2019-04-14 00:00:00Z
+	Odds=bet365;2,15;3,5;3,2;94;2019-04-16 00:00:00Z
+	Odds=NordicBet;2,31;3,4;3,1;95,3;2019-04-16 00:00:00Z
 Superligaen|Pulje 1;2019-04-18 12:00:00Z;AGF;SønderjyskE
 	Odds=Oddset;2,1;3,35;3,5;94,3;2019-04-14 00:00:00Z
 	Odds=bet365;2,05;3,5;3,5;94,4;2019-04-14 00:00:00Z
 	Odds=NordicBet;2,08;3,5;3,55;95,4;2019-04-14 00:00:00Z
+Superligaen|Pulje 1;2019-04-18 12:00:00Z;AGF;SønderjyskE
+	Odds=bet365;2;3,5;3,7;94,7;2019-04-12 00:00:00Z
+	Odds=NordicBet;2,08;3,5;3,55;95,4;2019-04-14 00:00:00Z
+Superligaen|Pulje 1;2019-04-18 12:00:00Z;AGF;SønderjyskE
+	Odds=bet365;2;3,5;3,7;94,7;2019-04-12 00:00:00Z
+Superligaen|Pulje 1;2019-04-18 12:00:00Z;AGF;SønderjyskE
+	Odds=Oddset;1,95;3,4;3,9;94;2019-04-09 00:00:00Z
+Superligaen|Pulje 1;2019-04-18 12:00:00Z;AGF;SønderjyskE
+	Odds=Oddset;1,95;3,4;3,9;94;2019-04-09 00:00:00Z
+Superligaen|Pulje 1;2019-04-18 12:00:00Z;AGF;SønderjyskE
+	Odds=Oddset;1,95;3,4;3,9;94;2019-04-09 00:00:00Z
+Superligaen|Pulje 1;2019-04-18 12:00:00Z;AGF;SønderjyskE
+	Odds=Oddset;2,25;3,35;3,3;95,6;2019-04-16 00:00:00Z
+	Odds=bet365;2,3;3,4;3;94,1;2019-04-17 00:00:00Z
+	Odds=NordicBet;2,28;3,35;3,2;95,3;2019-04-17 00:00:00Z
+Superligaen|Pulje 1;2019-04-18 12:00:00Z;AGF;SønderjyskE
+	Odds=Oddset;2,25;3,35;3,3;95,6;2019-04-17 00:00:00Z
+	Odds=bet365;2,37;3,3;2,9;93,5;2019-04-18 00:00:00Z
+	Odds=NordicBet;2,36;3,3;3,1;95,3;2019-04-18 00:00:00Z
+Superligaen|Pulje 1;2019-04-18 12:00:00Z;AGF;SønderjyskE
+	Odds=NordicBet;2,05;3,55;3,6;95,5;2019-04-12 00:00:00Z
+	Odds=bet365;2;3,5;3,7;94,7;2019-04-12 00:00:00Z
 Superligaen|Pulje 1;2019-04-18 14:00:00Z;AC Horsens;Vejle Boldklub
 	Odds=Oddset;2,2;3,5;3,1;94,1;2019-04-09 00:00:00Z
 Superligaen|Pulje 1;2019-04-18 14:00:00Z;AC Horsens;Vejle Boldklub
@@ -1687,44 +1706,1032 @@ Superligaen|Pulje 1;2019-04-18 14:00:00Z;AC Horsens;Vejle Boldklub
 	Odds=bet365;2,55;3,4;2,62;93,6;2019-04-14 00:00:00Z
 	Odds=NordicBet;2,55;3,35;2,75;94,8;2019-04-15 00:00:00Z
 Superligaen|Pulje 1;2019-04-18 14:00:00Z;AC Horsens;Vejle Boldklub
+	Odds=bet365;2,6;3,4;2,6;94;2019-04-15 00:00:00Z
+	Odds=Oddset;2,7;3,25;2,7;95,4;2019-04-16 00:00:00Z
+	Odds=NordicBet;2,6;3,35;2,7;94,9;2019-04-16 00:00:00Z
+Superligaen|Pulje 1;2019-04-18 14:00:00Z;AC Horsens;Vejle Boldklub
+	Odds=bet365;2,8;3,4;2,4;93,6;2019-04-16 00:00:00Z
+	Odds=NordicBet;2,85;3,4;2,45;95;2019-04-17 00:00:00Z
+	Odds=Oddset;2,8;3,3;2,6;95,7;2019-04-17 00:00:00Z
+Superligaen|Pulje 1;2019-04-18 14:00:00Z;AC Horsens;Vejle Boldklub
+	Odds=bet365;2,8;3,4;2,4;93,6;2019-04-16 00:00:00Z
+	Odds=Oddset;2,8;3,3;2,6;95,7;2019-04-17 00:00:00Z
+	Odds=NordicBet;2,8;3,4;2,5;95,1;2019-04-17 00:00:00Z
+Superligaen|Pulje 1;2019-04-18 14:00:00Z;AC Horsens;Vejle Boldklub
 	Odds=Oddset;2,2;3,5;3,1;94,1;2019-04-09 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-18 16:00:00Z;Esbjerg fB;Brøndby IF
+	Odds=Oddset;3,3;3,55;2,15;95,3;2019-04-17 00:00:00Z
+	Odds=NordicBet;3,15;3,55;2,23;95,5;2019-04-18 00:00:00Z
+	Odds=bet365;3,1;3,4;2,25;94,2;2019-04-18 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-18 16:00:00Z;Esbjerg fB;Brøndby IF
+	Odds=Oddset;3,5;3,45;2,05;94;2019-04-09 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-18 16:00:00Z;Esbjerg fB;Brøndby IF
+	Odds=Oddset;3,5;3,45;2,05;94;2019-04-09 00:00:00Z
 Superligaen|Mesterskabsspil;2019-04-18 16:00:00Z;Esbjerg fB;Brøndby IF
 	Odds=bet365;3,6;3,5;2;94;2019-04-14 00:00:00Z
 Superligaen|Mesterskabsspil;2019-04-18 16:00:00Z;Esbjerg fB;Brøndby IF
-	Odds=Oddset;3,5;3,45;2,05;94;2019-04-09 00:00:00Z
+	Odds=Oddset;3,55;3,6;2,05;95,5;2019-04-15 00:00:00Z
+	Odds=NordicBet;3,4;3,6;2,1;95,4;2019-04-15 00:00:00Z
+	Odds=bet365;3,4;3,4;2,1;93,9;2019-04-16 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-18 16:00:00Z;Esbjerg fB;Brøndby IF
+	Odds=bet365;3,2;3,4;2,2;94,2;2019-04-16 00:00:00Z
+	Odds=NordicBet;3,1;3,6;2,23;95,3;2019-04-17 00:00:00Z
+	Odds=Oddset;1;3,55;2,15;57,2;2019-04-17 00:00:00Z
 Superligaen|Mesterskabsspil;2019-04-18 16:00:00Z;Esbjerg fB;Brøndby IF
 	Odds=Oddset;3,5;3,45;2,05;94;2019-04-09 00:00:00Z
-Superligaen|Mesterskabsspil;2019-04-18 16:00:00Z;Esbjerg fB;Brøndby IF
-	Odds=Oddset;3,5;3,45;2,05;94;2019-04-09 00:00:00Z
-Superligaen|Mesterskabsspil;2019-04-18 18:00:00Z;FC København;FC Midtjylland
-	Odds=Oddset;2,1;3,3;3,5;93,9;2019-04-09 00:00:00Z
 Superligaen|Mesterskabsspil;2019-04-18 18:00:00Z;FC København;FC Midtjylland
 	Odds=bet365;2,3;3,4;3;94,1;2019-04-14 00:00:00Z
 Superligaen|Mesterskabsspil;2019-04-18 18:00:00Z;FC København;FC Midtjylland
 	Odds=Oddset;2,1;3,3;3,5;93,9;2019-04-09 00:00:00Z
 Superligaen|Mesterskabsspil;2019-04-18 18:00:00Z;FC København;FC Midtjylland
+	Odds=bet365;2,3;3,4;3;94,1;2019-04-14 00:00:00Z
+	Odds=Oddset;2,25;3,55;3,1;95,4;2019-04-15 00:00:00Z
+	Odds=NordicBet;2,29;3,65;2,95;95,3;2019-04-15 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-18 18:00:00Z;FC København;FC Midtjylland
+	Odds=bet365;2,3;3,4;3;94,1;2019-04-14 00:00:00Z
+	Odds=Oddset;2,25;3,55;3,1;95,4;2019-04-15 00:00:00Z
+	Odds=NordicBet;2,31;3,6;2,95;95,3;2019-04-17 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-18 18:00:00Z;FC København;FC Midtjylland
+	Odds=Oddset;2,25;3,55;3,1;95,4;2019-04-15 00:00:00Z
+	Odds=bet365;2,1;3,5;3,3;93,9;2019-04-17 00:00:00Z
+	Odds=NordicBet;2,18;3,6;3,2;95,3;2019-04-18 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-18 18:00:00Z;FC København;FC Midtjylland
+	Odds=Oddset;2,1;3,3;3,5;93,9;2019-04-09 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-18 18:00:00Z;FC København;FC Midtjylland
 	Odds=Oddset;2,1;3,3;3,5;93,9;2019-04-09 00:00:00Z
 Superligaen|Pulje 2;2019-04-19 16:00:00Z;Randers FC;Hobro
-	Odds=NordicBet;1,92;3,55;4,1;95,6;2019-04-11 00:00:00Z
-	Odds=Oddset;1,9;3,45;4,05;94,1;2019-04-11 00:00:00Z
-Superligaen|Pulje 2;2019-04-19 16:00:00Z;Randers FC;Hobro
-	Odds=NordicBet;1,92;3,55;4,1;95,6;2019-04-11 00:00:00Z
-Superligaen|Pulje 2;2019-04-19 16:00:00Z;Randers FC;Hobro
-	Odds=NordicBet;1,92;3,55;4,1;95,6;2019-04-11 00:00:00Z
-Superligaen|Pulje 2;2019-04-19 16:00:00Z;Randers FC;Hobro
-	Odds=NordicBet;1,88;3,55;4,3;95,6;2019-04-14 00:00:00Z
+	Odds=Oddset;1,85;3,45;4,3;94,1;2019-04-09 00:00:00Z
 Superligaen|Pulje 2;2019-04-19 16:00:00Z;Randers FC;Hobro
 	Odds=Oddset;1,85;3,45;4,3;94,1;2019-04-09 00:00:00Z
+Superligaen|Pulje 2;2019-04-19 16:00:00Z;Randers FC;Hobro
+	Odds=Oddset;1,72;3,7;5;95,1;2019-04-18 00:00:00Z
+	Odds=bet365;1,66;3,75;5,25;94,4;2019-04-18 00:00:00Z
+	Odds=NordicBet;1,76;3,75;4,75;95,7;2019-04-19 00:00:00Z
+Superligaen|Pulje 2;2019-04-19 16:00:00Z;Randers FC;Hobro
+	Odds=Oddset;1,77;3,65;4,8;95,5;2019-04-16 00:00:00Z
+	Odds=bet365;1,75;3,6;4,75;94,4;2019-04-17 00:00:00Z
+	Odds=NordicBet;1,78;3,7;4,65;95,5;2019-04-18 00:00:00Z
+Superligaen|Pulje 2;2019-04-19 16:00:00Z;Randers FC;Hobro
+	Odds=Oddset;1,77;3,65;4,8;95,5;2019-04-16 00:00:00Z
+	Odds=NordicBet;1,77;3,75;4,65;95,5;2019-04-16 00:00:00Z
+	Odds=bet365;1,72;3,6;4,75;93,5;2019-04-16 00:00:00Z
+Superligaen|Pulje 2;2019-04-19 16:00:00Z;Randers FC;Hobro
+	Odds=NordicBet;1,88;3,55;4,3;95,6;2019-04-14 00:00:00Z
 Superligaen|Pulje 2;2019-04-19 16:00:00Z;Randers FC;Hobro
 	Odds=bet365;1,8;3,6;4,33;94;2019-04-14 00:00:00Z
 	Odds=NordicBet;1,88;3,55;4,3;95,6;2019-04-14 00:00:00Z
 Superligaen|Pulje 2;2019-04-19 16:00:00Z;Randers FC;Hobro
-	Odds=Oddset;1,85;3,45;4,3;94,1;2019-04-09 00:00:00Z
+	Odds=NordicBet;1,92;3,55;4,1;95,6;2019-04-11 00:00:00Z
+Superligaen|Pulje 2;2019-04-19 16:00:00Z;Randers FC;Hobro
+	Odds=NordicBet;1,92;3,55;4,1;95,6;2019-04-11 00:00:00Z
+Superligaen|Pulje 2;2019-04-19 16:00:00Z;Randers FC;Hobro
+	Odds=Oddset;1,9;3,5;4,2;95,2;2019-04-15 00:00:00Z
+	Odds=bet365;1,72;3,6;4,75;93,5;2019-04-16 00:00:00Z
+	Odds=NordicBet;1,78;3,7;4,7;95,7;2019-04-16 00:00:00Z
+Superligaen|Pulje 2;2019-04-19 16:00:00Z;Randers FC;Hobro
+	Odds=NordicBet;1,92;3,55;4,1;95,6;2019-04-11 00:00:00Z
+	Odds=Oddset;1,9;3,45;4,05;94,1;2019-04-11 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-19 18:00:00Z;OB;FC Nordsjælland
+	Odds=bet365;2,05;3,6;3,3;93,6;2019-04-15 00:00:00Z
+	Odds=Oddset;2;3,65;3,65;95,4;2019-04-17 00:00:00Z
+	Odds=NordicBet;2,03;3,7;3,5;95,4;2019-04-18 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-19 18:00:00Z;OB;FC Nordsjælland
+	Odds=NordicBet;2,11;3,75;3,25;95,4;2019-04-19 00:00:00Z
+	Odds=Oddset;2,1;3,6;3,4;95,4;2019-04-19 00:00:00Z
+	Odds=bet365;2,05;3,6;3,3;93,6;2019-04-19 00:00:00Z
 Superligaen|Mesterskabsspil;2019-04-19 18:00:00Z;OB;FC Nordsjælland
 	Odds=Oddset;2,05;3,35;3,6;94;2019-04-09 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-19 18:00:00Z;OB;FC Nordsjælland
+	Odds=bet365;2,05;3,6;3,3;93,6;2019-04-15 00:00:00Z
+	Odds=NordicBet;2,03;3,7;3,5;95,4;2019-04-17 00:00:00Z
+	Odds=Oddset;2;3,65;3,65;95,4;2019-04-17 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-19 18:00:00Z;OB;FC Nordsjælland
+	Odds=Oddset;2;3,65;3,65;95,4;2019-04-15 00:00:00Z
+	Odds=NordicBet;2,07;3,7;3,4;95,5;2019-04-15 00:00:00Z
+	Odds=bet365;2,05;3,6;3,3;93,6;2019-04-15 00:00:00Z
 Superligaen|Mesterskabsspil;2019-04-19 18:00:00Z;OB;FC Nordsjælland
 	Odds=bet365;2,05;3,6;3,3;93,6;2019-04-15 00:00:00Z
 Superligaen|Mesterskabsspil;2019-04-19 18:00:00Z;OB;FC Nordsjælland
 	Odds=Oddset;2,05;3,35;3,6;94;2019-04-09 00:00:00Z
 Superligaen|Mesterskabsspil;2019-04-19 18:00:00Z;OB;FC Nordsjælland
 	Odds=Oddset;2,05;3,35;3,6;94;2019-04-09 00:00:00Z
+Superligaen|Pulje 1;2019-04-21 16:00:00Z;AC Horsens;SønderjyskE
+	Odds=bet365;2,87;3,2;2,5;94,3;2019-04-20 00:00:00Z
+	Odds=Oddset;2,9;3,2;2,55;95,3;2019-04-20 00:00:00Z
+	Odds=NordicBet;2,95;3,25;2,45;94,8;2019-04-21 00:00:00Z
+Superligaen|Pulje 1;2019-04-21 16:00:00Z;AC Horsens;SønderjyskE
+	Odds=NordicBet;2,75;3,4;2,55;95,2;2019-04-20 00:00:00Z
+	Odds=bet365;2,75;3,4;2,45;93,8;2019-04-20 00:00:00Z
+	Odds=Oddset;2,9;3,3;2,5;95,4;2019-04-20 00:00:00Z
+Superligaen|Pulje 1;2019-04-21 16:00:00Z;AC Horsens;SønderjyskE
+	Odds=Oddset;2,85;3,35;2,5;95,3;2019-04-15 00:00:00Z
+	Odds=NordicBet;2,8;3,4;2,5;95,1;2019-04-15 00:00:00Z
+	Odds=bet365;2,7;3,4;2,5;93,9;2019-04-17 00:00:00Z
+Superligaen|Pulje 1;2019-04-21 16:00:00Z;AC Horsens;SønderjyskE
+	Odds=Oddset;2,85;3,35;2,5;95,3;2019-04-15 00:00:00Z
+	Odds=NordicBet;2,8;3,4;2,5;95,1;2019-04-15 00:00:00Z
+	Odds=bet365;2,7;3,4;2,5;93,9;2019-04-17 00:00:00Z
+Superligaen|Pulje 1;2019-04-21 16:00:00Z;AC Horsens;SønderjyskE
+	Odds=Oddset;2,85;3,35;2,5;95,3;2019-04-15 00:00:00Z
+	Odds=NordicBet;2,8;3,4;2,5;95,1;2019-04-15 00:00:00Z
+	Odds=bet365;2,75;3,4;2,45;93,8;2019-04-15 00:00:00Z
+Superligaen|Pulje 1;2019-04-21 16:00:00Z;AC Horsens;SønderjyskE
+	Odds=bet365;2,9;3,4;2,37;94,3;2019-04-18 00:00:00Z
+	Odds=Oddset;2,85;3,35;2,5;95,3;2019-04-19 00:00:00Z
+	Odds=NordicBet;2,9;3,4;2,45;95,5;2019-04-19 00:00:00Z
+Superligaen|Pulje 1;2019-04-21 18:00:00Z;Vejle Boldklub;AGF
+	Odds=bet365;2,75;3,4;2,5;94,5;2019-04-15 00:00:00Z
+	Odds=NordicBet;2,75;3,4;2,5;94,5;2019-04-16 00:00:00Z
+	Odds=Oddset;2,7;3,3;2,65;95,2;2019-04-16 00:00:00Z
+Superligaen|Pulje 1;2019-04-21 18:00:00Z;Vejle Boldklub;AGF
+	Odds=NordicBet;2,55;3,4;2,75;95,2;2019-04-17 00:00:00Z
+	Odds=bet365;2,45;3,4;2,75;93,8;2019-04-17 00:00:00Z
+	Odds=Oddset;2,7;3,3;2,65;95,2;2019-04-17 00:00:00Z
+Superligaen|Pulje 1;2019-04-21 18:00:00Z;Vejle Boldklub;AGF
+	Odds=Oddset;2,3;3,4;3,15;95,6;2019-04-19 00:00:00Z
+	Odds=NordicBet;2,34;3,45;3;95,2;2019-04-20 00:00:00Z
+	Odds=bet365;2,25;3,4;3,1;94,2;2019-04-20 00:00:00Z
+Superligaen|Pulje 1;2019-04-21 18:00:00Z;Vejle Boldklub;AGF
+	Odds=NordicBet;2,45;3,4;2,9;95,5;2019-04-18 00:00:00Z
+	Odds=bet365;2,37;3,4;2,87;93,9;2019-04-18 00:00:00Z
+	Odds=Oddset;2,3;3,4;3,15;95,6;2019-04-19 00:00:00Z
+Superligaen|Pulje 1;2019-04-21 18:00:00Z;Vejle Boldklub;AGF
+	Odds=Oddset;2,25;3,4;3,25;95,6;2019-04-21 00:00:00Z
+	Odds=NordicBet;2,29;3,45;3,1;95,3;2019-04-21 00:00:00Z
+	Odds=bet365;2,3;3,4;3;94,1;2019-04-21 00:00:00Z
+Superligaen|Pulje 1;2019-04-21 18:00:00Z;Vejle Boldklub;AGF
+	Odds=NordicBet;2,5;3,4;2,8;95,1;2019-04-17 00:00:00Z
+	Odds=bet365;2,45;3,4;2,75;93,8;2019-04-17 00:00:00Z
+	Odds=Oddset;2,7;3,3;2,65;95,2;2019-04-17 00:00:00Z
+Superligaen|Pulje 2;2019-04-22 12:00:00Z;Hobro;Vendsyssel
+	Odds=bet365;2,5;3,6;2,6;94,1;2019-04-15 00:00:00Z
+	Odds=Oddset;2,5;3,6;2,7;95,4;2019-04-15 00:00:00Z
+	Odds=NordicBet;2,5;3,6;2,7;95,4;2019-04-16 00:00:00Z
+Superligaen|Pulje 2;2019-04-22 12:00:00Z;Hobro;Vendsyssel
+	Odds=Oddset;2,5;3,6;2,7;95,4;2019-04-15 00:00:00Z
+	Odds=bet365;2,4;3,6;2,7;93,9;2019-04-17 00:00:00Z
+	Odds=NordicBet;2,45;3,45;2,8;94,8;2019-04-17 00:00:00Z
+Superligaen|Pulje 2;2019-04-22 12:00:00Z;Hobro;Vendsyssel
+	Odds=bet365;2,4;3,6;2,7;93,9;2019-04-17 00:00:00Z
+	Odds=NordicBet;2,45;3,45;2,8;94,8;2019-04-18 00:00:00Z
+	Odds=Oddset;2,5;3,6;2,7;95,4;2019-04-18 00:00:00Z
+Superligaen|Pulje 2;2019-04-22 12:00:00Z;Hobro;Vendsyssel
+	Odds=bet365;2,37;3,6;2,75;94;2019-04-18 00:00:00Z
+	Odds=Oddset;2,5;3,6;2,7;95,4;2019-04-18 00:00:00Z
+	Odds=NordicBet;2,45;3,45;2,8;94,8;2019-04-19 00:00:00Z
+Superligaen|Pulje 2;2019-04-22 12:00:00Z;Hobro;Vendsyssel
+	Odds=bet365;2,37;3,6;2,75;94;2019-04-18 00:00:00Z
+	Odds=NordicBet;2,6;3,2;2,8;94,9;2019-04-20 00:00:00Z
+	Odds=Oddset;2,5;3,6;2,7;95,4;2019-04-20 00:00:00Z
+Superligaen|Pulje 2;2019-04-22 12:00:00Z;Hobro;Vendsyssel
+	Odds=bet365;2,37;3,6;2,75;94;2019-04-18 00:00:00Z
+	Odds=Oddset;2,5;3,6;2,7;95,4;2019-04-20 00:00:00Z
+	Odds=NordicBet;2,55;3,2;2,85;94,7;2019-04-21 00:00:00Z
+Superligaen|Pulje 2;2019-04-22 12:00:00Z;Hobro;Vendsyssel
+	Odds=NordicBet;2,6;3,25;2,8;95,3;2019-04-22 00:00:00Z
+	Odds=Oddset;2,65;3,2;2,8;95,5;2019-04-22 00:00:00Z
+	Odds=bet365;2,5;3,4;2,75;94,5;2019-04-22 00:00:00Z
+Superligaen|Pulje 2;2019-04-22 14:00:00Z;Randers FC;AaB
+	Odds=bet365;2,35;3,5;2,8;93,6;2019-04-15 00:00:00Z
+	Odds=Oddset;2,4;3,5;2,9;95,5;2019-04-15 00:00:00Z
+Superligaen|Pulje 2;2019-04-22 14:00:00Z;Randers FC;AaB
+	Odds=Oddset;2,4;3,5;2,9;95,5;2019-04-15 00:00:00Z
+	Odds=bet365;2,3;3,5;2,87;93,6;2019-04-17 00:00:00Z
+Superligaen|Pulje 2;2019-04-22 14:00:00Z;Randers FC;AaB
+	Odds=bet365;2,3;3,5;2,87;93,6;2019-04-17 00:00:00Z
+	Odds=Oddset;2,4;3,5;2,9;95,5;2019-04-18 00:00:00Z
+Superligaen|Pulje 2;2019-04-22 14:00:00Z;Randers FC;AaB
+	Odds=bet365;2,3;3,5;2,87;93,6;2019-04-17 00:00:00Z
+	Odds=NordicBet;2,4;3,55;2,8;94,7;2019-04-18 00:00:00Z
+	Odds=Oddset;2,4;3,5;2,9;95,5;2019-04-19 00:00:00Z
+Superligaen|Pulje 2;2019-04-22 14:00:00Z;Randers FC;AaB
+	Odds=bet365;2,3;3,5;2,87;93,6;2019-04-17 00:00:00Z
+	Odds=Oddset;2,4;3,5;2,9;95,5;2019-04-18 00:00:00Z
+	Odds=NordicBet;2,4;3,55;2,8;94,7;2019-04-18 00:00:00Z
+Superligaen|Pulje 2;2019-04-22 14:00:00Z;Randers FC;AaB
+	Odds=Oddset;2,4;3,5;2,9;95,5;2019-04-19 00:00:00Z
+	Odds=NordicBet;2,4;3,45;2,9;95,1;2019-04-22 00:00:00Z
+	Odds=bet365;2,25;3,5;3;94;2019-04-22 00:00:00Z
+Superligaen|Pulje 2;2019-04-22 14:00:00Z;Randers FC;AaB
+	Odds=bet365;2,3;3,5;2,87;93,6;2019-04-17 00:00:00Z
+	Odds=Oddset;2,4;3,5;2,9;95,5;2019-04-19 00:00:00Z
+	Odds=NordicBet;2,4;3,5;2,85;94,9;2019-04-20 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-22 16:00:00Z;FC Nordsjælland;FC København
+	Odds=bet365;3,5;3,6;2,05;95,1;2019-04-15 00:00:00Z
+	Odds=Oddset;3,55;3,6;2,05;95,5;2019-04-15 00:00:00Z
+	Odds=NordicBet;3,45;3,6;2,08;95,4;2019-04-16 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-22 16:00:00Z;FC Nordsjælland;FC København
+	Odds=NordicBet;3,4;3,65;2,08;95,3;2019-04-17 00:00:00Z
+	Odds=bet365;3,6;3,5;2;94;2019-04-17 00:00:00Z
+	Odds=Oddset;3,4;3,6;2,1;95,4;2019-04-17 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-22 16:00:00Z;FC Nordsjælland;FC København
+	Odds=bet365;3,4;3,6;2,05;94,4;2019-04-17 00:00:00Z
+	Odds=NordicBet;3,4;3,65;2,08;95,3;2019-04-17 00:00:00Z
+	Odds=Oddset;3,4;3,6;2,1;95,4;2019-04-17 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-22 16:00:00Z;FC Nordsjælland;FC København
+	Odds=bet365;3,4;3,6;2,05;94,4;2019-04-17 00:00:00Z
+	Odds=NordicBet;3,4;3,65;2,08;95,3;2019-04-17 00:00:00Z
+	Odds=Oddset;3,4;3,6;2,1;95,4;2019-04-18 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-22 16:00:00Z;FC Nordsjælland;FC København
+	Odds=bet365;3,75;3,75;1,9;94,4;2019-04-20 00:00:00Z
+	Odds=NordicBet;3,5;3,75;2,02;95,5;2019-04-20 00:00:00Z
+	Odds=Oddset;3,65;3,65;2;95,4;2019-04-20 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-22 16:00:00Z;FC Nordsjælland;FC København
+	Odds=Oddset;3,65;3,65;2;95,4;2019-04-20 00:00:00Z
+	Odds=bet365;3,6;3,5;2;94;2019-04-21 00:00:00Z
+	Odds=NordicBet;3,6;3,8;1,97;95,4;2019-04-21 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-22 16:00:00Z;FC Nordsjælland;FC København
+	Odds=bet365;3,8;3,6;1,9;93,7;2019-04-21 00:00:00Z
+	Odds=Oddset;4;3,85;1,85;95,2;2019-04-22 00:00:00Z
+	Odds=NordicBet;3,8;3,9;1,9;95,6;2019-04-22 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-22 18:00:00Z;FC Midtjylland;Brøndby IF
+	Odds=Oddset;1,75;3,9;4,5;95,2;2019-04-19 00:00:00Z
+	Odds=bet365;1,72;3,8;4,5;93,7;2019-04-20 00:00:00Z
+	Odds=NordicBet;1,76;4,1;4,25;95,5;2019-04-20 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-22 18:00:00Z;FC Midtjylland;Brøndby IF
+	Odds=bet365;1,75;3,8;4,33;93,8;2019-04-17 00:00:00Z
+	Odds=Oddset;1,75;3,9;4,5;95,2;2019-04-17 00:00:00Z
+	Odds=NordicBet;1,83;3,95;4,05;95,6;2019-04-18 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-22 18:00:00Z;FC Midtjylland;Brøndby IF
+	Odds=bet365;1,75;3,8;4,33;93,8;2019-04-17 00:00:00Z
+	Odds=Oddset;1,75;3,9;4,5;95,2;2019-04-19 00:00:00Z
+	Odds=NordicBet;1,82;3,85;4,2;95,5;2019-04-19 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-22 18:00:00Z;FC Midtjylland;Brøndby IF
+	Odds=bet365;1,75;3,8;4,33;93,8;2019-04-17 00:00:00Z
+	Odds=Oddset;1,75;3,9;4,5;95,2;2019-04-19 00:00:00Z
+	Odds=NordicBet;1,78;4,05;4,2;95,5;2019-04-20 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-22 18:00:00Z;FC Midtjylland;Brøndby IF
+	Odds=bet365;1,61;4;5;93,4;2019-04-22 00:00:00Z
+	Odds=NordicBet;1,67;4,3;4,7;95,8;2019-04-22 00:00:00Z
+	Odds=Oddset;1,7;4;4,7;95,1;2019-04-22 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-22 18:00:00Z;FC Midtjylland;Brøndby IF
+	Odds=Oddset;1,85;3,9;4;95,5;2019-04-15 00:00:00Z
+	Odds=bet365;1,8;3,8;4;93,6;2019-04-17 00:00:00Z
+	Odds=NordicBet;1,84;3,9;4,05;95,5;2019-04-17 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-22 18:00:00Z;FC Midtjylland;Brøndby IF
+	Odds=bet365;1,83;3,8;3,9;93,8;2019-04-15 00:00:00Z
+	Odds=Oddset;1,85;3,9;4;95,5;2019-04-15 00:00:00Z
+	Odds=NordicBet;1,82;3,85;4,2;95,5;2019-04-16 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-23 19:00:00Z;Esbjerg fB;OB
+	Odds=bet365;3,2;3,5;2,15;94;2019-04-18 00:00:00Z
+	Odds=Oddset;3,3;3,4;2,2;95,1;2019-04-19 00:00:00Z
+	Odds=NordicBet;3,15;3,55;2,23;95,5;2019-04-19 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-23 19:00:00Z;Esbjerg fB;OB
+	Odds=Oddset;3,4;3,45;2,15;95,3;2019-04-15 00:00:00Z
+	Odds=bet365;3,2;3,5;2,15;94;2019-04-18 00:00:00Z
+	Odds=NordicBet;3,3;3,6;2,14;95,4;2019-04-18 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-23 19:00:00Z;Esbjerg fB;OB
+	Odds=Oddset;3,4;3,45;2,15;95,3;2019-04-15 00:00:00Z
+	Odds=NordicBet;3,3;3,55;2,15;95,3;2019-04-17 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-23 19:00:00Z;Esbjerg fB;OB
+	Odds=Oddset;3,4;3,45;2,15;95,3;2019-04-15 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-23 19:00:00Z;Esbjerg fB;OB
+	Odds=bet365;3,2;3,5;2,15;94;2019-04-18 00:00:00Z
+	Odds=Oddset;3,2;3,35;2,3;95,6;2019-04-20 00:00:00Z
+	Odds=NordicBet;3,2;3,35;2,28;95,3;2019-04-21 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-23 19:00:00Z;Esbjerg fB;OB
+	Odds=bet365;3,2;3,5;2,15;94;2019-04-18 00:00:00Z
+	Odds=Oddset;3,2;3,35;2,3;95,6;2019-04-20 00:00:00Z
+	Odds=NordicBet;3,15;3,35;2,31;95,3;2019-04-22 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-23 19:00:00Z;Esbjerg fB;OB
+	Odds=NordicBet;2,95;3,25;2,45;94,8;2019-04-23 00:00:00Z
+	Odds=bet365;2,75;3,5;2,4;93,8;2019-04-23 00:00:00Z
+	Odds=Oddset;2,95;3,35;2,45;95,6;2019-04-23 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-23 19:00:00Z;Esbjerg fB;OB
+	Odds=bet365;3,2;3,5;2,15;94;2019-04-18 00:00:00Z
+	Odds=NordicBet;3,2;3,4;2,26;95,3;2019-04-20 00:00:00Z
+	Odds=Oddset;3,15;3,4;2,3;95,6;2019-04-20 00:00:00Z
+Superligaen|Pulje 2;2019-04-26 19:00:00Z;Vendsyssel;Randers FC
+	Odds=NordicBet;3,75;2,33;2,85;95,5;2019-04-26 00:00:00Z
+	Odds=Oddset;3,7;2,25;2,8;93,3;2019-04-26 00:00:00Z
+	Odds=bet365;3,75;2,25;2,8;93,6;2019-04-26 00:00:00Z
+Superligaen|Pulje 2;2019-04-26 19:00:00Z;Vendsyssel;Randers FC
+	Odds=Oddset;3,85;2,2;2,8;93,3;2019-04-24 00:00:00Z
+	Odds=bet365;4,2;2,2;2,7;94,1;2019-04-25 00:00:00Z
+	Odds=NordicBet;3,75;2,38;2,75;95,2;2019-04-25 00:00:00Z
+Superligaen|Pulje 2;2019-04-26 19:00:00Z;Vendsyssel;Randers FC
+	Odds=NordicBet;3,9;2,29;2,85;95,8;2019-04-24 00:00:00Z
+	Odds=bet365;4;2,4;2,55;94,4;2019-04-24 00:00:00Z
+	Odds=Oddset;3,85;2,2;2,8;93,3;2019-04-24 00:00:00Z
+Superligaen|Pulje 2;2019-04-26 19:00:00Z;AaB;Hobro
+	Odds=bet365;1,75;4;4,2;94,4;2019-04-23 00:00:00Z
+	Odds=NordicBet;1,83;3,95;4,05;95,6;2019-04-23 00:00:00Z
+	Odds=Oddset;1,8;4,3;3,8;95,1;2019-04-23 00:00:00Z
+Superligaen|Pulje 2;2019-04-26 19:00:00Z;AaB;Hobro
+	Odds=NordicBet;1,71;4,05;4,65;95,5;2019-04-26 00:00:00Z
+	Odds=bet365;1,66;4,33;4,33;94;2019-04-26 00:00:00Z
+	Odds=Oddset;1,65;4,5;4,5;95,2;2019-04-26 00:00:00Z
+Superligaen|Pulje 2;2019-04-26 19:00:00Z;AaB;Hobro
+	Odds=Oddset;1,7;4,4;4,2;94,9;2019-04-24 00:00:00Z
+	Odds=NordicBet;1,65;4,15;5,05;95,7;2019-04-25 00:00:00Z
+	Odds=bet365;1,6;4;5,25;93,9;2019-04-25 00:00:00Z
+Superligaen|Pulje 2;2019-04-26 19:00:00Z;AaB;Hobro
+	Odds=Oddset;1,8;4,3;3,8;95,1;2019-04-23 00:00:00Z
+	Odds=NordicBet;1,7;4;4,8;95,6;2019-04-24 00:00:00Z
+	Odds=bet365;1,65;4;4,75;93,8;2019-04-24 00:00:00Z
+Superligaen|Pulje 2;2019-04-26 19:00:00Z;Vendsyssel;Randers FC
+	Odds=bet365;4,75;2,45;2,25;94,1;2019-04-23 00:00:00Z
+	Odds=NordicBet;3,55;2,5;2,65;94,4;2019-04-23 00:00:00Z
+	Odds=Oddset;3,3;2,4;2,85;93,4;2019-04-23 00:00:00Z
+Superligaen|Pulje 1;2019-04-28 14:00:00Z;SønderjyskE;Vejle Boldklub
+	Odds=bet365;1,4;4,75;7,5;94,5;2019-04-24 00:00:00Z
+	Odds=Oddset;1,4;4,7;8,2;95,3;2019-04-25 00:00:00Z
+	Odds=NordicBet;1,45;4,45;7,75;95,8;2019-04-26 00:00:00Z
+Superligaen|Pulje 1;2019-04-28 14:00:00Z;AGF;AC Horsens
+	Odds=NordicBet;2,8;3,75;2,36;95,5;2019-04-28 00:00:00Z
+	Odds=Oddset;2,8;3,75;2,35;95,3;2019-04-28 00:00:00Z
+	Odds=bet365;2,87;3,6;2,3;94,3;2019-04-28 00:00:00Z
+Superligaen|Pulje 1;2019-04-28 14:00:00Z;SønderjyskE;Vejle Boldklub
+	Odds=Oddset;1;1;1;33,3;2019-04-22 00:00:00Z
+Superligaen|Pulje 1;2019-04-28 14:00:00Z;SønderjyskE;Vejle Boldklub
+	Odds=NordicBet;1,51;4,25;6,75;95,6;2019-04-23 00:00:00Z
+	Odds=bet365;1,5;4,33;6,5;95,1;2019-04-23 00:00:00Z
+	Odds=Oddset;1,55;4,1;6,2;95,2;2019-04-23 00:00:00Z
+Superligaen|Pulje 1;2019-04-28 14:00:00Z;SønderjyskE;Vejle Boldklub
+	Odds=NordicBet;1,47;4,35;7,55;95,9;2019-04-24 00:00:00Z
+	Odds=Oddset;1,4;4,7;8,2;95,3;2019-04-24 00:00:00Z
+	Odds=bet365;1,4;4,75;7,5;94,5;2019-04-24 00:00:00Z
+Superligaen|Pulje 1;2019-04-28 14:00:00Z;SønderjyskE;Vejle Boldklub
+	Odds=bet365;1,4;4,75;7,5;94,5;2019-04-24 00:00:00Z
+	Odds=NordicBet;1,44;4,6;7,55;95,8;2019-04-25 00:00:00Z
+	Odds=Oddset;1,4;4,7;8,2;95,3;2019-04-25 00:00:00Z
+Superligaen|Pulje 1;2019-04-28 14:00:00Z;AGF;AC Horsens
+	Odds=Oddset;2,8;3,55;2,45;95,5;2019-04-22 00:00:00Z
+Superligaen|Pulje 1;2019-04-28 14:00:00Z;AGF;AC Horsens
+	Odds=Oddset;2,8;3,55;2,45;95,5;2019-04-22 00:00:00Z
+	Odds=NordicBet;2,85;3,5;2,4;94,9;2019-04-23 00:00:00Z
+	Odds=bet365;2,9;3,4;2,37;94,3;2019-04-23 00:00:00Z
+Superligaen|Pulje 1;2019-04-28 14:00:00Z;AGF;AC Horsens
+	Odds=Oddset;2,95;3,75;2,25;95,2;2019-04-24 00:00:00Z
+	Odds=NordicBet;3;3,55;2,3;95,3;2019-04-24 00:00:00Z
+	Odds=bet365;3,1;3,4;2,25;94,2;2019-04-24 00:00:00Z
+Superligaen|Pulje 1;2019-04-28 14:00:00Z;AGF;AC Horsens
+	Odds=Oddset;2,95;3,8;2,25;95,5;2019-04-24 00:00:00Z
+	Odds=bet365;3,2;3,4;2,2;94,2;2019-04-24 00:00:00Z
+	Odds=NordicBet;3,05;3,55;2,27;95,2;2019-04-25 00:00:00Z
+Superligaen|Pulje 1;2019-04-28 14:00:00Z;AGF;AC Horsens
+	Odds=NordicBet;3,05;3,55;2,27;95,2;2019-04-25 00:00:00Z
+	Odds=bet365;3,1;3,4;2,25;94,2;2019-04-26 00:00:00Z
+	Odds=Oddset;2,95;3,8;2,25;95,5;2019-04-26 00:00:00Z
+Superligaen|Pulje 1;2019-04-28 14:00:00Z;AGF;AC Horsens
+	Odds=Oddset;2,95;3,8;2,25;95,5;2019-04-26 00:00:00Z
+	Odds=NordicBet;2,9;3,75;2,28;95,2;2019-04-27 00:00:00Z
+	Odds=bet365;3,2;3,4;2,2;94,2;2019-04-27 00:00:00Z
+Superligaen|Pulje 1;2019-04-28 14:00:00Z;SønderjyskE;Vejle Boldklub
+	Odds=bet365;1,4;4,75;7,5;94,5;2019-04-24 00:00:00Z
+	Odds=Oddset;1,4;4,7;8,2;95,3;2019-04-25 00:00:00Z
+	Odds=NordicBet;1,45;4,55;7,55;96;2019-04-27 00:00:00Z
+Superligaen|Pulje 1;2019-04-28 14:00:00Z;SønderjyskE;Vejle Boldklub
+	Odds=NordicBet;1,54;4,3;6,15;95,7;2019-04-28 00:00:00Z
+	Odds=bet365;1,53;4,33;5,5;93,8;2019-04-28 00:00:00Z
+	Odds=Oddset;1,47;4,5;6,9;95,5;2019-04-28 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-28 16:00:00Z;Brøndby IF;Esbjerg fB
+	Odds=Oddset;1,77;4;4,3;95,5;2019-04-27 00:00:00Z
+	Odds=bet365;1,75;3,8;4,33;93,8;2019-04-28 00:00:00Z
+	Odds=NordicBet;1,84;3,95;4;95,5;2019-04-28 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-28 16:00:00Z;Brøndby IF;Esbjerg fB
+	Odds=Oddset;1,7;4,1;4,6;95,3;2019-04-24 00:00:00Z
+	Odds=bet365;1,7;3,6;5;93,8;2019-04-25 00:00:00Z
+	Odds=NordicBet;1,8;3,95;4,2;95,5;2019-04-26 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-28 16:00:00Z;Brøndby IF;Esbjerg fB
+	Odds=Oddset;1,7;4,1;4,6;95,3;2019-04-24 00:00:00Z
+	Odds=bet365;1,7;3,6;5;93,8;2019-04-25 00:00:00Z
+	Odds=NordicBet;1,8;3,95;4,2;95,5;2019-04-26 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-28 16:00:00Z;Brøndby IF;Esbjerg fB
+	Odds=Oddset;1,8;3,45;4,65;94,3;2019-04-22 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-28 16:00:00Z;Brøndby IF;Esbjerg fB
+	Odds=bet365;1,66;3,6;5,25;93,4;2019-04-23 00:00:00Z
+	Odds=Oddset;1,7;4,1;4,6;95,3;2019-04-24 00:00:00Z
+	Odds=NordicBet;1,74;3,85;4,7;95,5;2019-04-24 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-28 16:00:00Z;Brøndby IF;Esbjerg fB
+	Odds=Oddset;1,77;3,65;4,7;95,1;2019-04-22 00:00:00Z
+	Odds=bet365;1,66;3,6;5,25;93,4;2019-04-23 00:00:00Z
+	Odds=NordicBet;1,74;3,7;4,95;95,5;2019-04-23 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-28 16:00:00Z;Brøndby IF;Esbjerg fB
+	Odds=Oddset;1,7;4,1;4,6;95,3;2019-04-24 00:00:00Z
+	Odds=bet365;1,7;3,6;5;93,8;2019-04-25 00:00:00Z
+	Odds=NordicBet;1,79;3,9;4,3;95,5;2019-04-25 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-28 18:00:00Z;FC København;OB
+	Odds=bet365;1,55;3,8;6;93;2019-04-25 00:00:00Z
+	Odds=Oddset;1,55;4,1;6,3;95,4;2019-04-26 00:00:00Z
+	Odds=NordicBet;1,6;4,15;5,65;95,9;2019-04-27 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-28 18:00:00Z;FC København;OB
+	Odds=Oddset;1,62;3,95;5,6;95,3;2019-04-23 00:00:00Z
+	Odds=NordicBet;1,65;4;5,25;95,6;2019-04-23 00:00:00Z
+	Odds=bet365;1,65;3,8;5;93,5;2019-04-23 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-28 18:00:00Z;FC København;OB
+	Odds=bet365;1,6;3,8;5,5;93,5;2019-04-23 00:00:00Z
+	Odds=NordicBet;1,64;4,05;5,35;95,8;2019-04-23 00:00:00Z
+	Odds=Oddset;1,62;4;5,6;95,6;2019-04-24 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-28 18:00:00Z;FC København;OB
+	Odds=NordicBet;1,6;4,15;5,65;95,9;2019-04-25 00:00:00Z
+	Odds=bet365;1,55;3,8;6;93;2019-04-25 00:00:00Z
+	Odds=Oddset;1,58;4,1;5,9;95,6;2019-04-25 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-28 18:00:00Z;FC København;OB
+	Odds=bet365;1,55;3,8;6;93;2019-04-25 00:00:00Z
+	Odds=Oddset;1,55;4,1;6,3;95,4;2019-04-26 00:00:00Z
+	Odds=NordicBet;1,57;4,25;5,75;95,6;2019-04-26 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-28 18:00:00Z;FC København;OB
+	Odds=NordicBet;1,55;4,2;6,15;95,6;2019-04-28 00:00:00Z
+	Odds=Oddset;1,52;4,2;6,6;95,5;2019-04-28 00:00:00Z
+	Odds=bet365;1,5;4,1;6,5;93,9;2019-04-28 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-28 18:00:00Z;FC København;OB
+	Odds=Oddset;1,72;3,65;4,9;94,4;2019-04-22 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-29 19:00:00Z;FC Nordsjælland;FC Midtjylland
+	Odds=NordicBet;2,95;3,75;2,26;95,4;2019-04-23 00:00:00Z
+	Odds=bet365;3,1;3,6;2,15;93,9;2019-04-23 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-29 19:00:00Z;FC Nordsjælland;FC Midtjylland
+	Odds=NordicBet;3,05;3,8;2,18;95,3;2019-04-23 00:00:00Z
+	Odds=bet365;3;3,6;2,2;93,8;2019-04-23 00:00:00Z
+	Odds=Oddset;2,95;3,75;2,25;95,2;2019-04-24 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-29 19:00:00Z;FC Nordsjælland;FC Midtjylland
+	Odds=bet365;3,3;3,6;2,05;93,6;2019-04-24 00:00:00Z
+	Odds=NordicBet;2,95;3,85;2,22;95,3;2019-04-24 00:00:00Z
+	Odds=Oddset;2,95;3,75;2,25;95,2;2019-04-24 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-29 19:00:00Z;FC Nordsjælland;FC Midtjylland
+	Odds=bet365;3,3;3,6;2,05;93,6;2019-04-24 00:00:00Z
+	Odds=Oddset;2,95;3,75;2,25;95,2;2019-04-24 00:00:00Z
+	Odds=NordicBet;3;3,85;2,19;95,3;2019-04-26 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-29 19:00:00Z;FC Nordsjælland;FC Midtjylland
+	Odds=bet365;3,3;3,6;2,05;93,6;2019-04-24 00:00:00Z
+	Odds=Oddset;2,95;3,75;2,25;95,2;2019-04-24 00:00:00Z
+	Odds=NordicBet;2,95;3,85;2,22;95,3;2019-04-26 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-29 19:00:00Z;FC Nordsjælland;FC Midtjylland
+	Odds=NordicBet;2,95;3,85;2,22;95,3;2019-04-26 00:00:00Z
+	Odds=Oddset;2,95;3,8;2,25;95,5;2019-04-27 00:00:00Z
+	Odds=bet365;3,1;4;2,05;94,3;2019-04-28 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-29 19:00:00Z;FC Nordsjælland;FC Midtjylland
+	Odds=NordicBet;3,15;3,95;2,09;95,3;2019-04-29 00:00:00Z
+	Odds=Oddset;3,15;3,95;2,1;95,5;2019-04-29 00:00:00Z
+	Odds=bet365;3,1;4;2,05;94,3;2019-04-29 00:00:00Z
+Superligaen|Mesterskabsspil;2019-04-29 19:00:00Z;FC Nordsjælland;FC Midtjylland
+	Odds=Oddset;3;3,65;2,2;94,2;2019-04-22 00:00:00Z
+Superligaen|Europa League-Playoff;2019-05-05 12:00:00Z;AaB;AGF
+	Odds=bet365;2,37;3,4;2,87;93,9;2019-05-01 00:00:00Z
+	Odds=Oddset;2,45;3,3;2,95;95,2;2019-05-01 00:00:00Z
+	Odds=NordicBet;2,38;3,45;2,95;95,3;2019-05-02 00:00:00Z
+Superligaen|Europa League-Playoff;2019-05-05 12:00:00Z;AaB;AGF
+	Odds=bet365;2,37;3,4;2,87;93,9;2019-05-01 00:00:00Z
+	Odds=Oddset;2,45;3,3;2,95;95,2;2019-05-01 00:00:00Z
+	Odds=NordicBet;2,4;3,4;2,95;95,3;2019-05-02 00:00:00Z
+Superligaen|Europa League-Playoff;2019-05-05 12:00:00Z;AaB;AGF
+	Odds=bet365;2,37;3,4;2,87;93,9;2019-05-01 00:00:00Z
+	Odds=Oddset;2,45;3,3;2,95;95,2;2019-05-01 00:00:00Z
+	Odds=NordicBet;2,4;3,4;2,95;95,3;2019-05-02 00:00:00Z
+Superligaen|Europa League-Playoff;2019-05-05 12:00:00Z;AaB;AGF
+	Odds=NordicBet;2,24;3,45;3,2;95,3;2019-05-05 00:00:00Z
+	Odds=Oddset;2,2;3,4;3,35;95,5;2019-05-05 00:00:00Z
+	Odds=bet365;2,15;3,4;3,3;94,1;2019-05-05 00:00:00Z
+Superligaen|Europa League-Playoff;2019-05-05 12:00:00Z;AaB;AGF
+	Odds=NordicBet;2,45;3,35;2,9;95,1;2019-04-30 00:00:00Z
+	Odds=Oddset;2,45;3,25;3;95,3;2019-04-30 00:00:00Z
+Superligaen|Europa League-Playoff;2019-05-05 12:00:00Z;AaB;AGF
+	Odds=Oddset;2,45;3,25;3;95,3;2019-04-30 00:00:00Z
+	Odds=bet365;2,4;3,4;2,8;93,6;2019-05-01 00:00:00Z
+	Odds=NordicBet;2,45;3,35;2,9;95,1;2019-05-01 00:00:00Z
+Superligaen|Europa League-Playoff;2019-05-05 14:00:00Z;SønderjyskE;Randers FC
+	Odds=Oddset;2,75;3,2;2,7;95,6;2019-04-30 00:00:00Z
+	Odds=bet365;2,62;3,4;2,55;93,6;2019-05-01 00:00:00Z
+	Odds=NordicBet;2,7;3,2;2,7;94,9;2019-05-02 00:00:00Z
+Superligaen|Europa League-Playoff;2019-05-05 14:00:00Z;SønderjyskE;Randers FC
+	Odds=Oddset;2,75;3,2;2,7;95,6;2019-04-30 00:00:00Z
+	Odds=bet365;2,62;3,4;2,55;93,6;2019-05-01 00:00:00Z
+	Odds=NordicBet;2,75;3,2;2,65;94,9;2019-05-03 00:00:00Z
+Superligaen|Europa League-Playoff;2019-05-05 14:00:00Z;SønderjyskE;Randers FC
+	Odds=Oddset;2,75;3,2;2,7;95,6;2019-04-30 00:00:00Z
+	Odds=NordicBet;2,75;3,25;2,65;95,4;2019-05-01 00:00:00Z
+	Odds=bet365;2,62;3,4;2,55;93,6;2019-05-01 00:00:00Z
+Superligaen|Europa League-Playoff;2019-05-05 14:00:00Z;SønderjyskE;Randers FC
+	Odds=Oddset;2,75;3,2;2,7;95,6;2019-04-30 00:00:00Z
+	Odds=bet365;2,62;3,4;2,55;93,6;2019-05-01 00:00:00Z
+	Odds=NordicBet;2,75;3,2;2,65;94,9;2019-05-03 00:00:00Z
+Superligaen|Europa League-Playoff;2019-05-05 14:00:00Z;SønderjyskE;Randers FC
+	Odds=Oddset;2,75;3,2;2,7;95,6;2019-04-30 00:00:00Z
+	Odds=bet365;2,62;3,4;2,55;93,6;2019-05-01 00:00:00Z
+	Odds=NordicBet;2,75;3,15;2,7;95,1;2019-05-05 00:00:00Z
+Superligaen|Europa League-Playoff;2019-05-05 14:00:00Z;SønderjyskE;Randers FC
+	Odds=NordicBet;2,7;3,3;2,65;95,2;2019-04-30 00:00:00Z
+	Odds=Oddset;2,75;3,2;2,7;95,6;2019-04-30 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-05 16:00:00Z;FC København;Brøndby IF
+	Odds=bet365;1,5;4,33;6;94;2019-05-01 00:00:00Z
+	Odds=Oddset;1,52;4,5;6;95,5;2019-05-01 00:00:00Z
+	Odds=NordicBet;1,57;4,25;5,75;95,6;2019-05-03 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-05 16:00:00Z;FC København;Brøndby IF
+	Odds=bet365;1,5;4,33;6;94;2019-05-01 00:00:00Z
+	Odds=Oddset;1,52;4,5;6;95,5;2019-05-01 00:00:00Z
+	Odds=NordicBet;1,57;4,25;5,75;95,6;2019-05-03 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-05 16:00:00Z;FC København;Brøndby IF
+	Odds=bet365;1,57;4,2;5,25;93,9;2019-04-30 00:00:00Z
+	Odds=NordicBet;1,59;4,1;5,85;95,8;2019-05-01 00:00:00Z
+	Odds=Oddset;1,52;4,5;6;95,5;2019-05-01 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-05 16:00:00Z;FC København;Brøndby IF
+	Odds=bet365;1,65;4;4,75;93,8;2019-04-29 00:00:00Z
+	Odds=Oddset;1,65;4,1;5,1;95,6;2019-04-30 00:00:00Z
+	Odds=NordicBet;1,68;4,15;4,8;95,7;2019-04-30 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-05 16:00:00Z;FC København;Brøndby IF
+	Odds=NordicBet;1,74;4;4,55;95,7;2019-04-29 00:00:00Z
+	Odds=bet365;1,71;3,8;4,5;93,4;2019-04-29 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-05 16:00:00Z;FC København;Brøndby IF
+	Odds=bet365;1,5;4,33;6;94;2019-05-01 00:00:00Z
+	Odds=Oddset;1,52;4,5;6;95,5;2019-05-01 00:00:00Z
+	Odds=NordicBet;1,57;4,25;5,85;95,9;2019-05-02 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-05 16:00:00Z;FC København;Brøndby IF
+	Odds=bet365;1,5;4,33;6;94;2019-05-01 00:00:00Z
+	Odds=Oddset;1,52;4,5;6;95,5;2019-05-01 00:00:00Z
+	Odds=NordicBet;1,57;4,3;5,75;95,8;2019-05-05 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-05 18:00:00Z;OB;FC Midtjylland
+	Odds=bet365;2,8;3,6;2,3;93,5;2019-04-30 00:00:00Z
+	Odds=Oddset;2,95;3,55;2,35;95,6;2019-05-01 00:00:00Z
+	Odds=NordicBet;3,05;3,6;2,25;95,2;2019-05-01 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-05 18:00:00Z;OB;FC Midtjylland
+	Odds=bet365;2,7;3,6;2,4;93,9;2019-04-29 00:00:00Z
+	Odds=Oddset;2,8;3,45;2,5;95,5;2019-04-30 00:00:00Z
+	Odds=NordicBet;2,9;3,6;2,36;95,6;2019-04-30 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-05 18:00:00Z;OB;FC Midtjylland
+	Odds=bet365;2,7;3,6;2,4;93,9;2019-04-29 00:00:00Z
+	Odds=NordicBet;2,75;3,6;2,45;95,3;2019-04-29 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-05 18:00:00Z;OB;FC Midtjylland
+	Odds=bet365;2,8;3,6;2,3;93,5;2019-04-30 00:00:00Z
+	Odds=Oddset;3,05;3,6;2,25;95,2;2019-05-01 00:00:00Z
+	Odds=NordicBet;2,95;3,6;2,31;95,3;2019-05-02 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-05 18:00:00Z;OB;FC Midtjylland
+	Odds=bet365;2,8;3,6;2,3;93,5;2019-04-30 00:00:00Z
+	Odds=Oddset;3,05;3,6;2,25;95,2;2019-05-01 00:00:00Z
+	Odds=NordicBet;2,95;3,6;2,33;95,6;2019-05-03 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-05 18:00:00Z;OB;FC Midtjylland
+	Odds=bet365;2,8;3,6;2,3;93,5;2019-04-30 00:00:00Z
+	Odds=Oddset;3,05;3,6;2,25;95,2;2019-05-01 00:00:00Z
+	Odds=NordicBet;2,95;3,65;2,31;95,6;2019-05-04 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-05 18:00:00Z;OB;FC Midtjylland
+	Odds=bet365;2,8;3,6;2,3;93,5;2019-04-30 00:00:00Z
+	Odds=Oddset;3,05;3,6;2,25;95,2;2019-05-01 00:00:00Z
+	Odds=NordicBet;2,95;3,6;2,33;95,6;2019-05-03 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-06 19:00:00Z;Esbjerg fB;FC Nordsjælland
+	Odds=Oddset;2,45;3,6;2,75;95,3;2019-05-03 00:00:00Z
+	Odds=bet365;2,3;3,6;2,87;94,3;2019-05-06 00:00:00Z
+	Odds=NordicBet;2,34;3,65;2,9;95,6;2019-05-06 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-06 19:00:00Z;Esbjerg fB;FC Nordsjælland
+	Odds=bet365;2,5;3,5;2,62;93,7;2019-05-01 00:00:00Z
+	Odds=Oddset;2,45;3,6;2,75;95,3;2019-05-03 00:00:00Z
+	Odds=NordicBet;2,4;3,7;2,7;94,6;2019-05-05 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-06 19:00:00Z;Esbjerg fB;FC Nordsjælland
+	Odds=bet365;2,5;3,5;2,62;93,7;2019-05-01 00:00:00Z
+	Odds=NordicBet;2,4;3,8;2,7;95,2;2019-05-02 00:00:00Z
+	Odds=Oddset;2,45;3,6;2,75;95,3;2019-05-03 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-06 19:00:00Z;Esbjerg fB;FC Nordsjælland
+	Odds=bet365;2,5;3,5;2,62;93,7;2019-05-01 00:00:00Z
+	Odds=Oddset;2,45;3,6;2,75;95,3;2019-05-01 00:00:00Z
+	Odds=NordicBet;2,4;3,8;2,7;95,2;2019-05-02 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-06 19:00:00Z;Esbjerg fB;FC Nordsjælland
+	Odds=bet365;2,3;3,75;2,75;93,9;2019-04-29 00:00:00Z
+	Odds=Oddset;2,45;3,6;2,75;95,3;2019-05-01 00:00:00Z
+	Odds=NordicBet;2,4;3,8;2,7;95,2;2019-05-01 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-06 19:00:00Z;Esbjerg fB;FC Nordsjælland
+	Odds=Oddset;2,3;3,65;2,95;95,4;2019-04-29 00:00:00Z
+	Odds=bet365;2,3;3,75;2,75;93,9;2019-04-29 00:00:00Z
+	Odds=NordicBet;2,4;3,7;2,75;95,2;2019-04-30 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-06 19:00:00Z;Esbjerg fB;FC Nordsjælland
+	Odds=NordicBet;2,4;3,85;2,65;94,9;2019-04-29 00:00:00Z
+	Odds=bet365;2,4;3,75;2,6;93,6;2019-04-29 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-06 19:00:00Z;Esbjerg fB;FC Nordsjælland
+	Odds=bet365;2,5;3,5;2,62;93,7;2019-05-01 00:00:00Z
+	Odds=Oddset;2,45;3,6;2,75;95,3;2019-05-03 00:00:00Z
+	Odds=NordicBet;2,4;3,75;2,7;94,9;2019-05-03 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-10 19:00:00Z;OB;Esbjerg fB
+	Odds=NordicBet;1,86;3,75;4,15;95,7;2019-05-06 00:00:00Z
+	Odds=Oddset;1,9;3,65;4;95,2;2019-05-06 00:00:00Z
+	Odds=bet365;1,85;3,6;4;93,6;2019-05-06 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-10 19:00:00Z;OB;Esbjerg fB
+	Odds=Oddset;1,9;3,65;4;95,2;2019-05-06 00:00:00Z
+	Odds=bet365;1,85;3,6;4;93,6;2019-05-06 00:00:00Z
+	Odds=NordicBet;1,86;3,75;4,15;95,7;2019-05-07 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-10 19:00:00Z;OB;Esbjerg fB
+	Odds=Oddset;1,9;3,65;4;95,2;2019-05-06 00:00:00Z
+	Odds=NordicBet;1,92;3,75;3,85;95,5;2019-05-06 00:00:00Z
+	Odds=bet365;1,85;3,6;4;93,6;2019-05-06 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-10 19:00:00Z;OB;Esbjerg fB
+	Odds=bet365;1,83;3,6;4,2;94,1;2019-05-09 00:00:00Z
+	Odds=Oddset;1,85;3,6;4,3;95,2;2019-05-10 00:00:00Z
+	Odds=NordicBet;1,83;3,65;4,4;95,4;2019-05-10 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-10 19:00:00Z;OB;Esbjerg fB
+	Odds=Oddset;1,85;3,7;4,2;95,3;2019-05-08 00:00:00Z
+	Odds=NordicBet;1,88;3,7;4,05;95,3;2019-05-09 00:00:00Z
+	Odds=bet365;1,83;3,6;4,2;94,1;2019-05-09 00:00:00Z
+Superligaen|Nedryknings-Playoff;2019-05-12 12:00:00Z;Vendsyssel;AC Horsens
+	Odds=bet365;2,6;3,25;2,75;94,7;2019-05-01 00:00:00Z
+	Odds=Oddset;2,5;3,1;3,05;95,2;2019-05-06 00:00:00Z
+	Odds=NordicBet;2,5;3,2;2,9;94,6;2019-05-06 00:00:00Z
+Superligaen|Nedryknings-Playoff;2019-05-12 12:00:00Z;Vendsyssel;AC Horsens
+	Odds=bet365;2,3;3,1;3,25;93,9;2019-05-07 00:00:00Z
+	Odds=Oddset;2,35;3,15;3,3;95,6;2019-05-07 00:00:00Z
+	Odds=NordicBet;2,4;3,15;3,1;94,6;2019-05-08 00:00:00Z
+Superligaen|Nedryknings-Playoff;2019-05-12 12:00:00Z;Vendsyssel;AC Horsens
+	Odds=bet365;2,3;3,1;3,25;93,9;2019-05-07 00:00:00Z
+	Odds=Oddset;2,35;3,15;3,3;95,6;2019-05-07 00:00:00Z
+	Odds=NordicBet;2,4;3,2;3,05;94,6;2019-05-07 00:00:00Z
+Superligaen|Nedryknings-Playoff;2019-05-12 12:00:00Z;Vendsyssel;AC Horsens
+	Odds=NordicBet;2,45;3,2;3;94,9;2019-05-06 00:00:00Z
+	Odds=Oddset;2,5;3,1;3,05;95,2;2019-05-06 00:00:00Z
+	Odds=bet365;2,3;3,3;3,1;94,3;2019-05-07 00:00:00Z
+Superligaen|Nedryknings-Playoff;2019-05-12 12:00:00Z;Vendsyssel;AC Horsens
+	Odds=bet365;2,6;3,25;2,75;94,7;2019-05-01 00:00:00Z
+	Odds=NordicBet;2,65;3,2;2,8;95,5;2019-05-02 00:00:00Z
+	Odds=Oddset;2,65;3,15;2,85;95,6;2019-05-03 00:00:00Z
+Superligaen|Nedryknings-Playoff;2019-05-12 12:00:00Z;Vendsyssel;AC Horsens
+	Odds=bet365;2,3;3,1;3,25;93,9;2019-05-07 00:00:00Z
+	Odds=Oddset;2,35;3,15;3,3;95,6;2019-05-07 00:00:00Z
+	Odds=NordicBet;2,4;3,15;3,1;94,6;2019-05-10 00:00:00Z
+Superligaen|Nedryknings-Playoff;2019-05-12 12:00:00Z;Vendsyssel;AC Horsens
+	Odds=bet365;2,6;3,25;2,75;94,7;2019-05-01 00:00:00Z
+	Odds=NordicBet;2,65;3,2;2,8;95,5;2019-05-02 00:00:00Z
+	Odds=Oddset;2,65;3,15;2,85;95,6;2019-05-03 00:00:00Z
+Superligaen|Nedryknings-Playoff;2019-05-12 12:00:00Z;Vendsyssel;AC Horsens
+	Odds=bet365;2,6;3,25;2,75;94,7;2019-05-01 00:00:00Z
+Superligaen|Nedryknings-Playoff;2019-05-12 12:00:00Z;Vendsyssel;AC Horsens
+	Odds=bet365;2,3;3,1;3,25;93,9;2019-05-07 00:00:00Z
+	Odds=Oddset;2,35;3,15;3,3;95,6;2019-05-07 00:00:00Z
+	Odds=NordicBet;2,4;3,15;3,1;94,6;2019-05-08 00:00:00Z
+Superligaen|Nedryknings-Playoff;2019-05-12 12:00:00Z;Vendsyssel;AC Horsens
+	Odds=bet365;2,6;3,25;2,75;94,7;2019-05-01 00:00:00Z
+	Odds=NordicBet;2,65;3,2;2,8;95,5;2019-05-02 00:00:00Z
+	Odds=Oddset;2,65;3,15;2,85;95,6;2019-05-03 00:00:00Z
+Superligaen|Nedryknings-Playoff;2019-05-12 14:00:00Z;Hobro;Vejle Boldklub
+	Odds=bet365;2,3;3,3;3,1;94,3;2019-05-09 00:00:00Z
+	Odds=NordicBet;2,39;3,25;3,1;95,4;2019-05-09 00:00:00Z
+	Odds=Oddset;2,3;3,25;3,25;95,2;2019-05-09 00:00:00Z
+Superligaen|Nedryknings-Playoff;2019-05-12 14:00:00Z;Hobro;Vejle Boldklub
+	Odds=bet365;2,3;3,3;3,1;94,3;2019-05-09 00:00:00Z
+	Odds=Oddset;2,35;3,15;3,3;95,6;2019-05-10 00:00:00Z
+	Odds=NordicBet;2,45;3,2;3;94,9;2019-05-11 00:00:00Z
+Superligaen|Nedryknings-Playoff;2019-05-12 14:00:00Z;Hobro;Vejle Boldklub
+	Odds=bet365;2,5;3,3;2,8;94,3;2019-05-02 00:00:00Z
+Superligaen|Nedryknings-Playoff;2019-05-12 14:00:00Z;Hobro;Vejle Boldklub
+	Odds=NordicBet;2,55;3,25;2,85;95,2;2019-05-02 00:00:00Z
+	Odds=Oddset;2,65;3,15;2,85;95,6;2019-05-02 00:00:00Z
+	Odds=bet365;2,5;3,3;2,8;94,3;2019-05-02 00:00:00Z
+Superligaen|Nedryknings-Playoff;2019-05-12 14:00:00Z;Hobro;Vejle Boldklub
+	Odds=NordicBet;2,55;3,25;2,85;95,2;2019-05-02 00:00:00Z
+	Odds=Oddset;2,65;3,15;2,85;95,6;2019-05-02 00:00:00Z
+	Odds=bet365;2,5;3,3;2,8;94,3;2019-05-02 00:00:00Z
+Superligaen|Nedryknings-Playoff;2019-05-12 14:00:00Z;Hobro;Vejle Boldklub
+	Odds=NordicBet;2,55;3,25;2,85;95,2;2019-05-02 00:00:00Z
+	Odds=Oddset;2,65;3,15;2,85;95,6;2019-05-02 00:00:00Z
+	Odds=bet365;2,5;3,3;2,8;94,3;2019-05-02 00:00:00Z
+Superligaen|Nedryknings-Playoff;2019-05-12 14:00:00Z;Hobro;Vejle Boldklub
+	Odds=bet365;2,5;3,3;2,8;94,3;2019-05-02 00:00:00Z
+	Odds=NordicBet;2,6;3,25;2,8;95,3;2019-05-06 00:00:00Z
+	Odds=Oddset;2,6;3,25;2,8;95,3;2019-05-06 00:00:00Z
+Superligaen|Nedryknings-Playoff;2019-05-12 14:00:00Z;Hobro;Vejle Boldklub
+	Odds=bet365;2,5;3,3;2,8;94,3;2019-05-02 00:00:00Z
+	Odds=Oddset;2,6;3,25;2,8;95,3;2019-05-06 00:00:00Z
+	Odds=NordicBet;2,6;3,2;2,8;94,9;2019-05-06 00:00:00Z
+Superligaen|Nedryknings-Playoff;2019-05-12 14:00:00Z;Hobro;Vejle Boldklub
+	Odds=bet365;2,5;3,3;2,8;94,3;2019-05-02 00:00:00Z
+	Odds=Oddset;2,6;3,25;2,8;95,3;2019-05-06 00:00:00Z
+	Odds=NordicBet;2,5;3,2;2,95;95,1;2019-05-07 00:00:00Z
+Superligaen|Nedryknings-Playoff;2019-05-12 14:00:00Z;Hobro;Vejle Boldklub
+	Odds=NordicBet;2,39;3,25;3,1;95,4;2019-05-09 00:00:00Z
+	Odds=Oddset;2,3;3,25;3,25;95,2;2019-05-09 00:00:00Z
+	Odds=bet365;2,25;3,3;3;92,5;2019-05-09 00:00:00Z
+Superligaen|Europa League-Playoff;2019-05-12 16:00:00Z;Randers FC;SønderjyskE
+	Odds=NordicBet;2,45;3,45;2,85;95,3;2019-05-07 00:00:00Z
+	Odds=bet365;2,3;3,5;2,9;93,9;2019-05-07 00:00:00Z
+	Odds=Oddset;2,45;3,25;3;95,3;2019-05-08 00:00:00Z
+Superligaen|Europa League-Playoff;2019-05-12 16:00:00Z;Randers FC;SønderjyskE
+	Odds=Oddset;2,3;3,25;3,25;95,2;2019-05-06 00:00:00Z
+	Odds=bet365;2,25;3,5;3;94;2019-05-06 00:00:00Z
+Superligaen|Europa League-Playoff;2019-05-12 16:00:00Z;Randers FC;SønderjyskE
+	Odds=Oddset;2,3;3,25;3,25;95,2;2019-05-06 00:00:00Z
+	Odds=bet365;2,3;3,5;2,9;93,9;2019-05-07 00:00:00Z
+Superligaen|Europa League-Playoff;2019-05-12 16:00:00Z;Randers FC;SønderjyskE
+	Odds=NordicBet;2,45;3,45;2,85;95,3;2019-05-07 00:00:00Z
+	Odds=bet365;2,3;3,5;2,9;93,9;2019-05-07 00:00:00Z
+	Odds=Oddset;2,45;3,25;3;95,3;2019-05-08 00:00:00Z
+Superligaen|Europa League-Playoff;2019-05-12 16:00:00Z;Randers FC;SønderjyskE
+	Odds=NordicBet;2,45;3,45;2,85;95,3;2019-05-07 00:00:00Z
+	Odds=Oddset;2,4;3,25;3,1;95,5;2019-05-07 00:00:00Z
+	Odds=bet365;2,3;3,5;2,9;93,9;2019-05-07 00:00:00Z
+Superligaen|Europa League-Playoff;2019-05-12 16:00:00Z;Randers FC;SønderjyskE
+	Odds=NordicBet;2,45;3,45;2,85;95,3;2019-05-07 00:00:00Z
+	Odds=bet365;2,3;3,5;2,9;93,9;2019-05-07 00:00:00Z
+	Odds=Oddset;2,45;3,25;3;95,3;2019-05-08 00:00:00Z
+Superligaen|Europa League-Playoff;2019-05-12 18:00:00Z;AGF;AaB
+	Odds=bet365;2,2;3,6;3;93,8;2019-05-07 00:00:00Z
+	Odds=Oddset;2,2;3,55;3,15;94,9;2019-05-09 00:00:00Z
+	Odds=NordicBet;2,27;3,65;3;95,4;2019-05-09 00:00:00Z
+Superligaen|Europa League-Playoff;2019-05-12 18:00:00Z;AGF;AaB
+	Odds=Oddset;2,2;3,55;3,2;95,4;2019-05-06 00:00:00Z
+	Odds=bet365;2,2;3,6;3;93,8;2019-05-07 00:00:00Z
+	Odds=NordicBet;2,23;3,65;3,05;95,2;2019-05-07 00:00:00Z
+Superligaen|Europa League-Playoff;2019-05-12 18:00:00Z;AGF;AaB
+	Odds=Oddset;2,2;3,55;3,2;95,4;2019-05-06 00:00:00Z
+	Odds=bet365;2,2;3,6;3;93,8;2019-05-07 00:00:00Z
+Superligaen|Europa League-Playoff;2019-05-12 18:00:00Z;AGF;AaB
+	Odds=Oddset;2,2;3,55;3,2;95,4;2019-05-06 00:00:00Z
+	Odds=bet365;2,35;3,6;2,75;93,7;2019-05-06 00:00:00Z
+Superligaen|Europa League-Playoff;2019-05-12 18:00:00Z;AGF;AaB
+	Odds=Oddset;2,2;3,55;3,15;94,9;2019-05-09 00:00:00Z
+	Odds=bet365;2,25;3,6;2,9;93,7;2019-05-10 00:00:00Z
+	Odds=NordicBet;2,33;3,55;2,95;95,3;2019-05-11 00:00:00Z
+Superligaen|Europa League-Playoff;2019-05-12 18:00:00Z;AGF;AaB
+	Odds=bet365;2,2;3,6;3;93,8;2019-05-07 00:00:00Z
+	Odds=Oddset;2,2;3,55;3,15;94,9;2019-05-09 00:00:00Z
+	Odds=NordicBet;2,27;3,65;3;95,4;2019-05-09 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-12 20:00:00Z;FC Midtjylland;FC København
+	Odds=Oddset;2,45;3,65;2,75;95,6;2019-05-07 00:00:00Z
+	Odds=bet365;2,37;3,6;2,75;94;2019-05-07 00:00:00Z
+	Odds=NordicBet;2,4;3,75;2,7;94,9;2019-05-09 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-12 20:00:00Z;FC Midtjylland;FC København
+	Odds=NordicBet;2,4;3,7;2,7;94,6;2019-05-06 00:00:00Z
+	Odds=bet365;2,37;3,6;2,75;94;2019-05-07 00:00:00Z
+	Odds=Oddset;2,45;3,65;2,75;95,6;2019-05-07 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-12 20:00:00Z;FC Midtjylland;FC København
+	Odds=NordicBet;2,4;3,7;2,7;94,6;2019-05-06 00:00:00Z
+	Odds=Oddset;2,5;3,7;2,65;95,5;2019-05-06 00:00:00Z
+	Odds=bet365;2,45;3,6;2,62;93,7;2019-05-06 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-12 20:00:00Z;FC Midtjylland;FC København
+	Odds=NordicBet;2,4;3,7;2,7;94,6;2019-05-06 00:00:00Z
+	Odds=Oddset;2,5;3,7;2,65;95,5;2019-05-06 00:00:00Z
+	Odds=bet365;2,45;3,6;2,62;93,7;2019-05-06 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-12 20:00:00Z;FC Midtjylland;FC København
+	Odds=Oddset;2,45;3,65;2,75;95,6;2019-05-07 00:00:00Z
+	Odds=bet365;2,37;3,6;2,75;94;2019-05-07 00:00:00Z
+	Odds=NordicBet;2,45;3,7;2,7;95,3;2019-05-10 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-12 20:00:00Z;FC Midtjylland;FC København
+	Odds=Oddset;2,45;3,65;2,75;95,6;2019-05-07 00:00:00Z
+	Odds=bet365;2,37;3,6;2,75;94;2019-05-07 00:00:00Z
+	Odds=NordicBet;2,4;3,75;2,7;94,9;2019-05-09 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-13 19:00:00Z;Brøndby IF;FC Nordsjælland
+	Odds=bet365;2,1;3,8;3,1;94,2;2019-05-09 00:00:00Z
+	Odds=NordicBet;2,22;3,85;2,95;95,3;2019-05-10 00:00:00Z
+	Odds=Oddset;2,25;3,95;2,85;95,4;2019-05-10 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-13 19:00:00Z;Brøndby IF;FC Nordsjælland
+	Odds=Oddset;2,25;3,95;2,85;95,4;2019-05-10 00:00:00Z
+	Odds=bet365;2,1;4,1;2,9;93,9;2019-05-11 00:00:00Z
+	Odds=NordicBet;2,25;3,85;2,9;95,3;2019-05-12 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-13 19:00:00Z;Brøndby IF;FC Nordsjælland
+	Odds=Oddset;2,15;4;3;95,4;2019-05-07 00:00:00Z
+	Odds=bet365;2,1;3,8;3,1;94,2;2019-05-09 00:00:00Z
+	Odds=NordicBet;2,24;3,8;2,95;95,4;2019-05-09 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-13 19:00:00Z;Brøndby IF;FC Nordsjælland
+	Odds=Oddset;2,15;4;3;95,4;2019-05-07 00:00:00Z
+	Odds=bet365;2,1;3,8;3,1;94,2;2019-05-09 00:00:00Z
+	Odds=NordicBet;2,19;3,85;3;95,3;2019-05-10 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-13 19:00:00Z;Brøndby IF;FC Nordsjælland
+	Odds=bet365;2,2;3,8;2,87;93,8;2019-05-07 00:00:00Z
+	Odds=Oddset;2,15;4;3;95,4;2019-05-07 00:00:00Z
+	Odds=NordicBet;2,18;3,9;3;95,4;2019-05-08 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-13 19:00:00Z;Brøndby IF;FC Nordsjælland
+	Odds=Oddset;2,05;4;3,2;95,2;2019-05-06 00:00:00Z
+	Odds=NordicBet;2,16;3,8;3,1;95,4;2019-05-07 00:00:00Z
+	Odds=bet365;2,05;3,8;3,2;94;2019-05-07 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-13 19:00:00Z;Brøndby IF;FC Nordsjælland
+	Odds=Oddset;2,25;3,95;2,85;95,4;2019-05-10 00:00:00Z
+	Odds=bet365;2,1;4,1;2,9;93,9;2019-05-11 00:00:00Z
+	Odds=NordicBet;2,17;3,95;3;95,5;2019-05-13 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-13 19:00:00Z;Brøndby IF;FC Nordsjælland
+	Odds=NordicBet;1,96;4,05;3,45;95,5;2019-05-06 00:00:00Z
+	Odds=Oddset;1,97;4,1;3,4;95,6;2019-05-06 00:00:00Z
+	Odds=bet365;1,9;3,8;3,6;93,7;2019-05-06 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-19 12:00:00Z;FC Nordsjælland;OB
+	Odds=Oddset;3,2;3,7;2,15;95,4;2019-05-16 00:00:00Z
+	Odds=bet365;3,5;3,6;2;94;2019-05-17 00:00:00Z
+	Odds=NordicBet;3,2;3,8;2,11;95,3;2019-05-18 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-19 12:00:00Z;FC Nordsjælland;OB
+	Odds=bet365;3,3;3,6;2,05;93,6;2019-05-14 00:00:00Z
+	Odds=Oddset;3,2;3,7;2,15;95,4;2019-05-16 00:00:00Z
+	Odds=NordicBet;3,2;3,85;2,1;95,4;2019-05-16 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-19 12:00:00Z;FC Nordsjælland;OB
+	Odds=Oddset;3,25;3,65;2,15;95,5;2019-05-14 00:00:00Z
+	Odds=bet365;3,3;3,6;2,05;93,6;2019-05-14 00:00:00Z
+	Odds=NordicBet;3,15;3,85;2,12;95,3;2019-05-15 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-19 12:00:00Z;FC Nordsjælland;OB
+	Odds=Oddset;2,85;3,6;2,4;95,7;2019-05-13 00:00:00Z
+	Odds=bet365;3;3,6;2,2;93,8;2019-05-14 00:00:00Z
+	Odds=NordicBet;2,9;3,8;2,29;95,7;2019-05-14 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-19 12:00:00Z;FC Nordsjælland;OB
+	Odds=NordicBet;2,55;3,6;2,65;95,5;2019-05-13 00:00:00Z
+	Odds=bet365;2,5;3,6;2,5;92,8;2019-05-13 00:00:00Z
+Superligaen|Nedryknings-Playoff;2019-05-19 14:00:00Z;AC Horsens;Vendsyssel
+	Odds=NordicBet;2,26;3,45;3,2;95,7;2019-05-16 00:00:00Z
+	Odds=Oddset;2,4;3,25;3,05;95;2019-05-16 00:00:00Z
+	Odds=bet365;2,25;3,3;3,2;94,3;2019-05-17 00:00:00Z
+Superligaen|Nedryknings-Playoff;2019-05-19 14:00:00Z;AC Horsens;Vendsyssel
+	Odds=NordicBet;2,26;3,45;3,2;95,7;2019-05-16 00:00:00Z
+	Odds=Oddset;2,4;3,25;3,05;95;2019-05-16 00:00:00Z
+	Odds=bet365;2,25;3,3;3,2;94,3;2019-05-17 00:00:00Z
+Superligaen|Nedryknings-Playoff;2019-05-19 14:00:00Z;AC Horsens;Vendsyssel
+	Odds=NordicBet;2,12;3,45;3,55;95,9;2019-05-19 00:00:00Z
+	Odds=bet365;2;3,4;3,6;93,3;2019-05-19 00:00:00Z
+	Odds=Oddset;2,25;3,25;3,35;95,2;2019-05-19 00:00:00Z
+Superligaen|Nedryknings-Playoff;2019-05-19 14:00:00Z;AC Horsens;Vendsyssel
+	Odds=bet365;2,25;3,25;3,2;93,9;2019-05-13 00:00:00Z
+	Odds=Oddset;2,25;3,25;3,35;95,2;2019-05-13 00:00:00Z
+	Odds=NordicBet;2,35;3,45;3,05;95,9;2019-05-15 00:00:00Z
+Superligaen|Nedryknings-Playoff;2019-05-19 14:00:00Z;AC Horsens;Vendsyssel
+	Odds=bet365;2,25;3,25;3,2;93,9;2019-05-13 00:00:00Z
+	Odds=Oddset;2,25;3,25;3,35;95,2;2019-05-13 00:00:00Z
+	Odds=NordicBet;2,32;3,45;3,1;95,8;2019-05-14 00:00:00Z
+Superligaen|Nedryknings-Playoff;2019-05-19 14:00:00Z;AC Horsens;Vendsyssel
+	Odds=NordicBet;2,27;3,5;3,15;95,8;2019-05-13 00:00:00Z
+	Odds=bet365;2,25;3,4;3,1;94,2;2019-05-13 00:00:00Z
+Superligaen|Nedryknings-Playoff;2019-05-19 16:00:00Z;Vejle Boldklub;Hobro
+	Odds=NordicBet;2,03;3,75;3,45;95,3;2019-05-13 00:00:00Z
+	Odds=bet365;2;3,6;3,5;94;2019-05-13 00:00:00Z
+Superligaen|Nedryknings-Playoff;2019-05-19 16:00:00Z;Vejle Boldklub;Hobro
+	Odds=bet365;2;3,5;3,6;94;2019-05-13 00:00:00Z
+	Odds=Oddset;2;3,5;3,75;95;2019-05-13 00:00:00Z
+	Odds=NordicBet;2,06;3,6;3,5;95,3;2019-05-14 00:00:00Z
+Superligaen|Nedryknings-Playoff;2019-05-19 16:00:00Z;Vejle Boldklub;Hobro
+	Odds=bet365;2;3,5;3,6;94;2019-05-13 00:00:00Z
+	Odds=Oddset;2;3,5;3,75;95;2019-05-13 00:00:00Z
+	Odds=NordicBet;2,05;3,65;3,5;95,5;2019-05-15 00:00:00Z
+Superligaen|Nedryknings-Playoff;2019-05-19 16:00:00Z;Vejle Boldklub;Hobro
+	Odds=Oddset;2;3,5;3,75;95;2019-05-13 00:00:00Z
+	Odds=NordicBet;1,96;3,6;3,85;95,4;2019-05-15 00:00:00Z
+	Odds=bet365;1,95;3,6;3,75;94,6;2019-05-17 00:00:00Z
+Superligaen|Nedryknings-Playoff;2019-05-19 16:00:00Z;Vejle Boldklub;Hobro
+	Odds=Oddset;2;3,5;3,75;95;2019-05-13 00:00:00Z
+	Odds=bet365;1,95;3,6;3,75;94,6;2019-05-17 00:00:00Z
+	Odds=NordicBet;1,96;3,6;3,85;95,4;2019-05-17 00:00:00Z
+Superligaen|Nedryknings-Playoff;2019-05-19 16:00:00Z;Vejle Boldklub;Hobro
+	Odds=Oddset;2;3,5;3,75;95;2019-05-13 00:00:00Z
+	Odds=bet365;1,9;3,6;3,8;93,7;2019-05-18 00:00:00Z
+	Odds=NordicBet;1,96;3,65;3,8;95,5;2019-05-19 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-19 18:00:00Z;Esbjerg fB;FC København
+	Odds=NordicBet;2,8;3,55;2,4;94,7;2019-05-19 00:00:00Z
+	Odds=bet365;2,87;3,6;2,3;94,3;2019-05-19 00:00:00Z
+	Odds=Oddset;2,65;3,7;2,5;95,5;2019-05-19 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-19 18:00:00Z;Esbjerg fB;FC København
+	Odds=Oddset;2,6;3,65;2,55;95,2;2019-05-16 00:00:00Z
+	Odds=bet365;2,5;3,75;2,5;93,8;2019-05-16 00:00:00Z
+	Odds=NordicBet;2,55;3,6;2,6;94,8;2019-05-17 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-19 18:00:00Z;Esbjerg fB;FC København
+	Odds=Oddset;2,6;3,65;2,55;95,2;2019-05-16 00:00:00Z
+	Odds=bet365;2,5;3,75;2,5;93,8;2019-05-16 00:00:00Z
+	Odds=NordicBet;2,6;3,65;2,55;95,2;2019-05-17 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-19 18:00:00Z;Esbjerg fB;FC København
+	Odds=bet365;2,62;3,75;2,4;93,9;2019-05-14 00:00:00Z
+	Odds=NordicBet;2,6;3,6;2,6;95,5;2019-05-15 00:00:00Z
+	Odds=Oddset;2,75;3,6;2,45;95,3;2019-05-15 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-19 18:00:00Z;Esbjerg fB;FC København
+	Odds=Oddset;2,95;3,65;2,3;95,4;2019-05-13 00:00:00Z
+	Odds=bet365;2,62;3,75;2,4;93,9;2019-05-14 00:00:00Z
+	Odds=NordicBet;2,65;3,6;2,5;94,8;2019-05-14 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-19 18:00:00Z;Esbjerg fB;FC København
+	Odds=NordicBet;3,55;3,7;2,02;95,5;2019-05-13 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-20 19:00:00Z;Brøndby IF;FC Midtjylland
+	Odds=NordicBet;2,25;4;2,85;95,7;2019-05-17 00:00:00Z
+	Odds=bet365;2,25;3,6;2,87;93,4;2019-05-17 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-20 19:00:00Z;Brøndby IF;FC Midtjylland
+	Odds=NordicBet;1,78;4,35;3,95;95,7;2019-05-20 00:00:00Z
+	Odds=Oddset;1,77;4,3;4;95,5;2019-05-20 00:00:00Z
+	Odds=bet365;1,8;4,33;3,6;94;2019-05-20 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-20 19:00:00Z;Brøndby IF;FC Midtjylland
+	Odds=Oddset;2,2;4;2,9;95,3;2019-05-18 00:00:00Z
+	Odds=bet365;2,15;3,6;3,1;93,9;2019-05-19 00:00:00Z
+	Odds=NordicBet;2,2;4,05;2,9;95,6;2019-05-19 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-20 19:00:00Z;Brøndby IF;FC Midtjylland
+	Odds=Oddset;2,4;3,9;2,65;95,2;2019-05-14 00:00:00Z
+	Odds=bet365;2,45;3,6;2,62;93,7;2019-05-16 00:00:00Z
+	Odds=NordicBet;2,45;3,9;2,55;94,6;2019-05-17 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-20 19:00:00Z;Brøndby IF;FC Midtjylland
+	Odds=Oddset;2,4;3,9;2,65;95,2;2019-05-14 00:00:00Z
+	Odds=NordicBet;2,45;4;2,55;95,2;2019-05-15 00:00:00Z
+	Odds=bet365;2,45;3,6;2,7;94,7;2019-05-15 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-20 19:00:00Z;Brøndby IF;FC Midtjylland
+	Odds=bet365;2,5;3,6;2,6;94,1;2019-05-13 00:00:00Z
+	Odds=NordicBet;2,45;4;2,55;95,2;2019-05-14 00:00:00Z
+	Odds=Oddset;2,4;3,9;2,65;95,2;2019-05-14 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-20 19:00:00Z;Brøndby IF;FC Midtjylland
+	Odds=NordicBet;2,29;3,75;2,9;95,4;2019-05-13 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-25 17:00:00Z;FC Midtjylland;Esbjerg fB
+	Odds=NordicBet;1,97;4,05;3,4;95,4;2019-05-25 00:00:00Z
+	Odds=Oddset;2;3,85;3,45;95,3;2019-05-25 00:00:00Z
+	Odds=bet365;1,9;3,8;3,5;93;2019-05-25 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-25 17:00:00Z;FC København;FC Nordsjælland
+	Odds=NordicBet;1,55;4,45;5,75;95,8;2019-05-20 00:00:00Z
+	Odds=bet365;1,5;4,33;6;94;2019-05-20 00:00:00Z
+	Odds=Oddset;1,5;4,7;6;95,6;2019-05-20 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-25 17:00:00Z;FC København;FC Nordsjælland
+	Odds=Oddset;1,5;4,7;6;95,6;2019-05-20 00:00:00Z
+	Odds=bet365;1,44;4,75;6;93,3;2019-05-21 00:00:00Z
+	Odds=NordicBet;1,51;4,7;5,85;95,6;2019-05-21 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-25 17:00:00Z;FC Midtjylland;Esbjerg fB
+	Odds=Oddset;2,15;3,8;3,15;95,6;2019-05-23 00:00:00Z
+	Odds=bet365;2,2;3,75;2,9;93,8;2019-05-24 00:00:00Z
+	Odds=NordicBet;2,14;3,95;3,05;95,4;2019-05-24 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-25 17:00:00Z;FC København;FC Nordsjælland
+	Odds=Oddset;1,5;4,7;5,9;95,3;2019-05-22 00:00:00Z
+	Odds=bet365;1,44;4,75;6;93,3;2019-05-22 00:00:00Z
+	Odds=NordicBet;1,47;4,8;6,35;95,6;2019-05-23 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-25 17:00:00Z;FC København;FC Nordsjælland
+	Odds=Oddset;1,5;4,7;6;95,6;2019-05-20 00:00:00Z
+	Odds=bet365;1,44;4,75;6;93,3;2019-05-22 00:00:00Z
+	Odds=NordicBet;1,51;4,7;5,95;95,9;2019-05-22 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-25 17:00:00Z;FC Midtjylland;Esbjerg fB
+	Odds=Oddset;2,2;3,8;3,05;95,6;2019-05-21 00:00:00Z
+	Odds=NordicBet;2,2;3,9;2,95;95,2;2019-05-22 00:00:00Z
+	Odds=bet365;2,15;3,75;3;93,9;2019-05-23 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-25 17:00:00Z;FC Midtjylland;Esbjerg fB
+	Odds=Oddset;2,2;3,8;3,05;95,6;2019-05-21 00:00:00Z
+	Odds=bet365;2,2;3,75;2,9;93,8;2019-05-22 00:00:00Z
+	Odds=NordicBet;2,19;3,95;2,95;95,3;2019-05-22 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-25 17:00:00Z;FC Midtjylland;Esbjerg fB
+	Odds=Oddset;2,2;3,8;3,05;95,6;2019-05-21 00:00:00Z
+	Odds=bet365;2,1;3,75;3,1;93,9;2019-05-21 00:00:00Z
+	Odds=NordicBet;2,22;3,95;2,9;95,4;2019-05-21 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-25 17:00:00Z;FC Midtjylland;Esbjerg fB
+	Odds=bet365;1,8;3,7;4;93;2019-05-19 00:00:00Z
+	Odds=Oddset;1,85;3,9;4;95,5;2019-05-20 00:00:00Z
+	Odds=NordicBet;1,89;4,1;3,65;95,5;2019-05-20 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-25 17:00:00Z;FC København;FC Nordsjælland
+	Odds=bet365;1,44;5;6;94,2;2019-05-23 00:00:00Z
+	Odds=Oddset;1,45;5;6,3;95,4;2019-05-24 00:00:00Z
+	Odds=NordicBet;1,46;5,05;6,15;95,6;2019-05-24 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-25 17:00:00Z;FC København;FC Nordsjælland
+	Odds=NordicBet;1,42;5,25;6,75;95,9;2019-05-25 00:00:00Z
+	Odds=Oddset;1,4;5,3;6,9;95,4;2019-05-25 00:00:00Z
+	Odds=bet365;1,36;5;7,5;93,6;2019-05-25 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-25 17:00:00Z;OB;Brøndby IF
+	Odds=Oddset;2,2;3,8;3,05;95,6;2019-05-21 00:00:00Z
+	Odds=NordicBet;2,17;3,85;3,05;95,4;2019-05-21 00:00:00Z
+	Odds=bet365;2,15;3,75;3;93,9;2019-05-21 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-25 17:00:00Z;OB;Brøndby IF
+	Odds=bet365;2,15;3,75;3;93,9;2019-05-21 00:00:00Z
+	Odds=Oddset;2,2;3,8;3,05;95,6;2019-05-22 00:00:00Z
+	Odds=NordicBet;2,14;3,85;3,1;95,3;2019-05-22 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-25 17:00:00Z;OB;Brøndby IF
+	Odds=bet365;2,15;3,75;3;93,9;2019-05-21 00:00:00Z
+	Odds=Oddset;2,2;3,8;3,05;95,6;2019-05-22 00:00:00Z
+	Odds=NordicBet;2,14;3,85;3,1;95,3;2019-05-22 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-25 17:00:00Z;OB;Brøndby IF
+	Odds=bet365;2,15;3,75;3;93,9;2019-05-21 00:00:00Z
+	Odds=Oddset;2,2;3,8;3,05;95,6;2019-05-22 00:00:00Z
+	Odds=NordicBet;2,27;3,85;2,9;95,7;2019-05-24 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-25 17:00:00Z;OB;Brøndby IF
+	Odds=NordicBet;2,33;3,85;2,8;95,6;2019-05-25 00:00:00Z
+	Odds=Oddset;2,3;3,8;2,85;95,3;2019-05-25 00:00:00Z
+	Odds=bet365;2,2;3,75;2,9;93,8;2019-05-25 00:00:00Z
+Superligaen|Mesterskabsspil;2019-05-25 17:00:00Z;OB;Brøndby IF
+	Odds=NordicBet;2,12;3,85;3,15;95,3;2019-05-20 00:00:00Z
+	Odds=bet365;2,15;3,8;2,9;93,2;2019-05-20 00:00:00Z
+	Odds=Oddset;2,2;3,85;3;95,5;2019-05-20 00:00:00Z
+Superligaen|Europa League-Playoff;2019-05-26 18:00:00Z;AGF;Randers FC
+	Odds=Oddset;2,1;3,45;3,45;94,7;2019-05-20 00:00:00Z
+	Odds=bet365;2;3,5;3,5;93,3;2019-05-21 00:00:00Z
+	Odds=NordicBet;2,08;3,65;3,4;95,3;2019-05-21 00:00:00Z
+Superligaen|Europa League-Playoff;2019-05-26 18:00:00Z;AGF;Randers FC
+	Odds=Oddset;2,1;3,45;3,45;94,7;2019-05-23 00:00:00Z
+	Odds=bet365;2,05;3,5;3,5;94,4;2019-05-23 00:00:00Z
+	Odds=NordicBet;2,1;3,65;3,35;95,4;2019-05-25 00:00:00Z
+Superligaen|Europa League-Playoff;2019-05-26 18:00:00Z;AGF;Randers FC
+	Odds=Oddset;2,1;3,45;3,45;94,7;2019-05-23 00:00:00Z
+	Odds=bet365;2,05;3,5;3,5;94,4;2019-05-23 00:00:00Z
+	Odds=NordicBet;2,08;3,65;3,4;95,3;2019-05-24 00:00:00Z
+Superligaen|Europa League-Playoff;2019-05-26 18:00:00Z;AGF;Randers FC
+	Odds=NordicBet;2,1;3,65;3,35;95,4;2019-05-22 00:00:00Z
+Superligaen|Europa League-Playoff;2019-05-26 18:00:00Z;AGF;Randers FC
+	Odds=NordicBet;2,18;3,55;3,25;95,4;2019-05-20 00:00:00Z
+	Odds=Oddset;2,1;3,45;3,45;94,7;2019-05-20 00:00:00Z
+	Odds=bet365;2,1;3,5;3,3;93,9;2019-05-20 00:00:00Z
+Superligaen|Europa League-Playoff;2019-05-26 18:00:00Z;AGF;Randers FC
+	Odds=bet365;2,75;3,2;2,6;94,3;2019-05-13 00:00:00Z
+Superligaen|Europa League-Playoff;2019-05-26 18:00:00Z;AGF;Randers FC
+	Odds=Oddset;2,85;3,15;2,65;95,6;2019-05-16 00:00:00Z
+	Odds=bet365;2,87;3,2;2,5;94,3;2019-05-18 00:00:00Z
+	Odds=NordicBet;2,75;3,15;2,7;95,1;2019-05-18 00:00:00Z
+Superligaen|Europa League-Playoff;2019-05-26 18:00:00Z;AGF;Randers FC
+	Odds=Oddset;2,85;3,15;2,65;95,6;2019-05-16 00:00:00Z
+	Odds=NordicBet;2,9;3,15;2,55;94,8;2019-05-16 00:00:00Z
+	Odds=bet365;2,75;3,4;2,5;94,5;2019-05-17 00:00:00Z
+Superligaen|Europa League-Playoff;2019-05-26 18:00:00Z;AGF;Randers FC
+	Odds=Oddset;2,85;3,1;2,65;95,2;2019-05-13 00:00:00Z
+	Odds=NordicBet;2,9;3,2;2,55;95,3;2019-05-14 00:00:00Z
+	Odds=bet365;2,75;3,3;2,5;93,8;2019-05-14 00:00:00Z
+Superligaen|Europa League-Playoff;2019-05-26 18:00:00Z;AGF;Randers FC
+	Odds=Oddset;2,85;3,1;2,65;95,2;2019-05-13 00:00:00Z
+	Odds=bet365;2,75;3,2;2,6;94,3;2019-05-13 00:00:00Z
+	Odds=NordicBet;2,8;3,2;2,6;94,9;2019-05-14 00:00:00Z
+Superligaen|Europa League-Playoff;2019-05-26 18:00:00Z;AGF;Randers FC
+	Odds=bet365;2;3,5;3,5;93,3;2019-05-18 00:00:00Z
+Superligaen|Europa League-Playoff;2019-05-31 19:00:00Z;Brøndby IF;Randers FC
+	Odds=bet365;1,8;3,75;4,2;94,3;2019-05-27 00:00:00Z
+	Odds=Oddset;1,85;3,65;4,2;95;2019-05-27 00:00:00Z
+	Odds=NordicBet;1,83;3,75;4,3;95,6;2019-05-30 00:00:00Z
+Superligaen|Europa League-Playoff;2019-05-31 19:00:00Z;Brøndby IF;Randers FC
+	Odds=NordicBet;1,87;3,6;4,25;95,4;2019-05-27 00:00:00Z
+	Odds=Oddset;1,85;3,65;4,2;95;2019-05-27 00:00:00Z
+	Odds=bet365;1,83;3,6;4,2;94,1;2019-05-27 00:00:00Z
+Superligaen|Europa League-Playoff;2019-05-31 19:00:00Z;Brøndby IF;Randers FC
+	Odds=bet365;1,8;3,75;4,2;94,3;2019-05-27 00:00:00Z
+	Odds=Oddset;1,85;3,65;4,2;95;2019-05-27 00:00:00Z
+	Odds=NordicBet;1,87;3,65;4,2;95,5;2019-05-28 00:00:00Z
+Superligaen|Europa League-Playoff;2019-05-31 19:00:00Z;Brøndby IF;Randers FC
+	Odds=bet365;1,8;3,75;4,2;94,3;2019-05-27 00:00:00Z
+	Odds=Oddset;1,85;3,65;4,2;95;2019-05-27 00:00:00Z
+	Odds=NordicBet;1,89;3,7;4,05;95,6;2019-05-29 00:00:00Z
+Superligaen|Europa League-Playoff;2019-05-31 19:00:00Z;Brøndby IF;Randers FC
+	Odds=NordicBet;1,85;3,8;4,1;95,5;2019-05-31 00:00:00Z
+	Odds=Oddset;1,85;3,75;4,1;95,1;2019-05-31 00:00:00Z
+	Odds=bet365;1,8;3,75;4,33;95;2019-05-31 00:00:00Z
